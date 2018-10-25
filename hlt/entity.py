@@ -50,6 +50,7 @@ class Data_game() :
         self.planned_dest = []
         self.opp_pos = []
         self.drop_duty = {}
+        self.max_turn_spawn = 0
 
 
 

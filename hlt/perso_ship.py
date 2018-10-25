@@ -36,3 +36,32 @@ class Calc :
             return (Calc.detect_closest_worth(self, ship, 1, max / 3 * 2))
         else :
             return (Calc.detect_closest_worth(self, ship, val + 1, max))
+
+
+#defini la prochaine position que prendre le ship
+    def     get_next_pos(self, ship, objectif) :
+        move = self.game.game_map.get_unsafe_moves(ship.position, objectif)
+        for direction in move :
+            direct = get_correct_dir(ship, direction)
+            if direct not in data.planned_pos and not overall.is_enemy(direct) :
+                return (direct)
+        move = get_best_pos(ship.position, 1, ship, me, game_map)
+        return (move)
+
+    # Donne la distance la plus courte etre le ship actuel et le dropoff ou shipyard le plus proche
+    def     get_closest_drop_dist(self, ship) :
+        min = self.game.game_map.calculate_distance(ship.position, self.me.shipyard.position)
+        for dropoff in self.me.get_dropoffs() :
+            if min > self.game.game_map.calculate_distance(ship.position, dropoff.position) :
+                min = self.game.game_map.calculate_distance(ship.position, dropoff.position)
+        return (min)
+
+    # donne la position du dropoff ou shipyard le plus proche d'un ship
+    def     get_closest_drop_pos(self, ship) :
+        min = self.game.game_map.calculate_distance(ship.position, self.me.shipyard.position)
+        pos = self.me.shipyard.position
+        for dropoff in self.me.get_dropoffs() :
+            if min > self.game.game_map.calculate_distance(ship.position, dropoff.position) :
+                min = self.game.game_map.calculate_distance(ship.position, dropoff.position)
+                pos = dropoff.position
+        return (pos)

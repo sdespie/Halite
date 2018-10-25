@@ -21,12 +21,6 @@ class Overall:
         self.data = data
         self.me = me
 
-    def get_players_nbr(self):
-        for i in range(0, self.game.game_map.height - 1) :
-            for j in range (0, self.game.game_map.height - 1) :
-                if self.game.game_map[Position(i, j)].has_structure :
-                    self.data.nbr_player += 1
-
     def analyse_map (self):
         for i in range(0, self.game.game_map.height - 1) :
             for j in range (0, self.game.game_map.height - 1) :
