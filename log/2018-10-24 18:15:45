@@ -1,0 +1,5304 @@
+Successfully created bot! My Player ID is 0.
+==== TURN 0 TIME 0.0% ====
+==== TURN 1 TIME 0.2% ====
+Ship 1 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(14, 26).
+Ship 1 is action 3, going to Position(13, 24), with 139.
+==== TURN 2 TIME 0.4% ====
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(13, 24).
+Ship 1 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(14, 26).
+Ship 3 is action 3, going to Position(12, 25), with 164.
+==== TURN 3 TIME 0.7% ====
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(12, 25).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(13, 24).
+Ship 1 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(14, 26).
+Ship 5 has action is 6.
+Ship 5 is action 3, going to 6 to Position(12, 23).
+==== TURN 4 TIME 0.9% ====
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(12, 23).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(12, 25).
+Ship 1 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(14, 26).
+Ship 7 is action 3, going to Position(13, 24), with 78.
+Ship 1 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(14, 26).
+Ship 1 is action 3, going to Position(14, 24), with 98.
+==== TURN 5 TIME 1.1% ====
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(13, 24).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(12, 23).
+Ship 3 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(14, 26).
+Ship 9 is action 3, going to Position(12, 25), with 92.
+Ship 3 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(14, 26).
+Ship 1 is action 3, going to Position(14, 25), with 386.
+Ship 3 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(14, 26).
+Ship 3 is action 3, going to Position(13, 25), with 359.
+==== TURN 6 TIME 1.3% ====
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(13, 25).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(12, 25).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(14, 25).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(12, 23).
+Ship 5 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(14, 26).
+Ship 7 is action 3, going to Position(14, 24), with 98.
+==== TURN 7 TIME 1.6% ====
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(13, 25).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(14, 25).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(12, 23).
+Ship 5 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(14, 26).
+Ship 7 has action is 6.
+Ship 7 is action 3, going to 6 to Position(15, 24).
+Ship 5 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(14, 26).
+Ship 9 is action 3, going to Position(12, 26), with 235.
+==== TURN 8 TIME 1.8% ====
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(15, 24).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(12, 26).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(13, 25).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(14, 25).
+Ship 5 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(14, 26).
+Ship 5 is action 3, going to Position(13, 23), with 123.
+==== TURN 9 TIME 2.0% ====
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(13, 23).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(15, 24).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(12, 26).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(13, 25).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(14, 25).
+==== TURN 10 TIME 2.2% ====
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(15, 24).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(12, 26).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(13, 25).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(14, 25).
+Ship 1 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(14, 26).
+Ship 5 is action 3, going to Position(14, 23), with 150.
+==== TURN 11 TIME 2.4% ====
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(14, 23).
+Ship 1 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(14, 26).
+Ship 7 is action 3, going to Position(14, 24), with 98.
+Ship 1 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(14, 28).
+Ship 9 is action 3, going to Position(13, 26), with 255.
+Ship 1 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(14, 26).
+Ship 3 is action 3, going to Position(14, 25), with 90.
+Ship 1 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(14, 26).
+Ship 1 is action 3, going to Position(14, 26), with 415.
+==== TURN 12 TIME 2.7% ====
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(13, 26).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(14, 26).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(14, 23).
+Ship 5 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(16, 28).
+Ship 7 is action 3, going to Position(15, 24), with 98.
+Ship 5 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(16, 28).
+Ship 3 is action 3, going to Position(15, 25), with 330.
+==== TURN 13 TIME 2.9% ====
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(15, 25).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(13, 26).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(14, 26).
+Ship 5 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(18, 20).
+Ship 7 is action 3, going to Position(16, 24), with 78.
+Ship 5 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(18, 20).
+Ship 5 is action 3, going to Position(15, 23), with 212.
+==== TURN 14 TIME 3.1% ====
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(15, 23).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(15, 25).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(13, 26).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(14, 26).
+Ship 1 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(19, 26).
+Ship 7 is action 3, going to Position(17, 24), with 135.
+==== TURN 15 TIME 3.3% ====
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(17, 24).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(15, 23).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(15, 25).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(13, 26).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(14, 26).
+==== TURN 16 TIME 3.6% ====
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(17, 24).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(15, 23).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(15, 25).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(14, 26).
+Ship 1 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(14, 28).
+Ship 9 is action 3, going to Position(13, 27), with 292.
+==== TURN 17 TIME 3.8% ====
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(13, 27).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(15, 25).
+Ship 1 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(19, 26).
+Ship 7 is action 3, going to Position(18, 24), with 71.
+Ship 1 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(18, 20).
+Ship 5 is action 3, going to Position(16, 23), with 72.
+Ship 1 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(16, 28).
+Ship 1 is action 3, going to Position(15, 26), with 261.
+==== TURN 18 TIME 4.0% ====
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(15, 26).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(13, 27).
+Ship 3 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(20, 26).
+Ship 7 is action 3, going to Position(19, 24), with 279.
+Ship 3 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(18, 20).
+Ship 5 is action 3, going to Position(17, 23), with 60.
+Ship 3 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(16, 28).
+Ship 3 is action 3, going to Position(16, 25), with 86.
+==== TURN 19 TIME 4.2% ====
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(19, 24).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(13, 27).
+Ship 9 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(18, 20).
+Ship 5 is action 3, going to Position(18, 23), with 111.
+Ship 9 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(16, 28).
+Ship 3 is action 3, going to Position(16, 26), with 200.
+Ship 9 has action is 1.
+Ship 1 has action is 1.
+==== TURN 20 TIME 4.4% ====
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(16, 26).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(18, 23).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(19, 24).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(13, 27).
+Ship 9 has action is 1.
+Ship 1 has action is 1.
+==== TURN 21 TIME 4.7% ====
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(16, 26).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(19, 24).
+Ship 9 has action is 1.
+Ship 1 has action is 1.
+Ship 9 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(18, 20).
+Ship 5 is action 3, going to Position(18, 22), with 75.
+Ship 9 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(14, 28).
+Ship 9 is action 3, going to Position(14, 27), with 256.
+==== TURN 22 TIME 4.9% ====
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(14, 27).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(16, 26).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(19, 24).
+Ship 7 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(18, 20).
+Ship 5 is action 3, going to Position(18, 21), with 127.
+Ship 7 has action is 1.
+Ship 1 has action is 1.
+==== TURN 23 TIME 5.1% ====
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(18, 21).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(14, 27).
+Ship 7 has action is 1.
+Ship 1 has action is 1.
+Ship 7 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(16, 28).
+Ship 3 is action 3, going to Position(16, 27), with 315.
+Ship 7 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(19, 25).
+Ship 7 is action 3, going to Position(19, 25), with 390.
+==== TURN 24 TIME 5.3% ====
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(19, 25).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(16, 27).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(14, 27).
+Ship 9 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(8, 20).
+Ship 1 is action 3, going to Position(11, 24), with 82.
+Ship 9 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(18, 20).
+Ship 5 is action 3, going to Position(18, 20), with 413.
+==== TURN 25 TIME 5.6% ====
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(18, 20).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(11, 24).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(19, 25).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(14, 27).
+Ship 9 has action is 1.
+Ship 3 has action is 1.
+==== TURN 26 TIME 5.8% ====
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(18, 20).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(19, 25).
+Ship 9 has action is 1.
+Ship 3 has action is 1.
+Ship 9 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(8, 20).
+Ship 1 is action 3, going to Position(10, 24), with 31.
+Ship 9 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(14, 28).
+Ship 9 is action 3, going to Position(14, 28), with 654.
+==== TURN 27 TIME 6.0% ====
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(14, 28).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(18, 20).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(19, 25).
+Ship 7 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(8, 20).
+Ship 1 is action 3, going to Position(9, 24), with 13.
+Ship 7 has action is 1.
+Ship 3 has action is 1.
+==== TURN 28 TIME 6.2% ====
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(18, 20).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(19, 25).
+Ship 7 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(8, 20).
+Ship 1 is action 3, going to Position(8, 24), with 0.
+Ship 7 has action is 1.
+Ship 3 has action is 1.
+Ship 7 has action is 1.
+Ship 9 has action is 1.
+==== TURN 29 TIME 6.4% ====
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(18, 20).
+Ship 7 has action is 1.
+Ship 9 has action is 1.
+Ship 7 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(8, 20).
+Ship 1 is action 3, going to Position(8, 23), with 13.
+Ship 7 has action is 1.
+Ship 3 has action is 1.
+Ship 7 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(20, 26).
+Ship 7 is action 3, going to Position(20, 25), with 389.
+==== TURN 30 TIME 6.7% ====
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 25).
+Ship 5 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(8, 20).
+Ship 1 is action 3, going to Position(8, 22), with 91.
+Ship 5 has action is 1.
+Ship 9 has action is 1.
+Ship 5 has action is 1.
+Ship 3 has action is 1.
+Ship 5 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(18, 19).
+Ship 5 is action 3, going to Position(18, 19), with 408.
+==== TURN 31 TIME 6.9% ====
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(18, 19).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 25).
+Ship 7 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(8, 20).
+Ship 1 is action 3, going to Position(8, 21), with 183.
+Ship 7 has action is 1.
+Ship 3 has action is 1.
+Ship 7 has action is 1.
+Ship 9 has action is 1.
+==== TURN 32 TIME 7.1% ====
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(8, 21).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(18, 19).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 25).
+Ship 7 has action is 1.
+Ship 9 has action is 1.
+Ship 7 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(8, 20).
+Ship 3 is action 3, going to Position(11, 24), with 61.
+==== TURN 33 TIME 7.3% ====
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(11, 24).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(8, 21).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(18, 19).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 25).
+Ship 7 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(8, 20).
+Ship 11 is action 3, going to Position(12, 23), with 93.
+Ship 7 has action is 1.
+Ship 9 has action is 1.
+==== TURN 34 TIME 7.6% ====
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(12, 23).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(8, 21).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 25).
+Ship 7 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(8, 20).
+Ship 9 is action 3, going to Position(11, 24), with 45.
+Ship 7 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(8, 20).
+Ship 3 is action 3, going to Position(10, 24), with 31.
+Ship 7 has action is 1.
+Ship 5 has action is 1.
+==== TURN 35 TIME 7.8% ====
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(11, 24).
+Ship 7 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(8, 20).
+Ship 3 is action 3, going to Position(9, 24), with 13.
+Ship 7 has action is 1.
+Ship 5 has action is 1.
+Ship 7 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(8, 20).
+Ship 11 is action 3, going to Position(11, 23), with 89.
+Ship 7 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(8, 20).
+Ship 12 is action 3, going to Position(12, 23), with 69.
+Ship 7 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(8, 20).
+Ship 1 is action 3, going to Position(8, 20), with 394.
+Ship 7 has action is 1.
+Ship 7 has action is 1.
+==== TURN 36 TIME 8.0% ====
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(12, 23).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(8, 20).
+Ship 9 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(14, 29).
+Ship 3 is action 3, going to Position(10, 24), with 31.
+Ship 9 has action is 1.
+Ship 5 has action is 1.
+Ship 9 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(16, 28).
+Ship 11 is action 3, going to Position(11, 24), with 33.
+Ship 9 has action is 1.
+Ship 7 has action is 1.
+Ship 9 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(14, 28).
+Ship 9 is action 3, going to Position(12, 24), with 0.
+==== TURN 37 TIME 8.2% ====
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(8, 20).
+Ship 1 has action is 1.
+Ship 7 has action is 1.
+Ship 1 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(14, 28).
+Ship 3 is action 3, going to Position(11, 24), with 33.
+Ship 1 has action is 1.
+Ship 5 has action is 1.
+Ship 1 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(14, 28).
+Ship 11 is action 3, going to Position(12, 24), with 0.
+Ship 1 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(16, 28).
+Ship 9 is action 3, going to Position(13, 24), with 58.
+Ship 1 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(16, 18).
+Ship 12 is action 3, going to Position(13, 23), with 92.
+==== TURN 38 TIME 8.4% ====
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(13, 24).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(8, 20).
+Ship 1 has action is 1.
+Ship 7 has action is 1.
+Ship 1 has action is 1.
+Ship 5 has action is 1.
+Ship 1 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(16, 28).
+Ship 11 is action 3, going to Position(12, 25), with 69.
+Ship 1 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(14, 28).
+Ship 3 is action 3, going to Position(12, 24), with 0.
+Ship 1 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(16, 18).
+Ship 12 is action 3, going to Position(14, 23), with 84.
+==== TURN 39 TIME 8.7% ====
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(12, 25).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(14, 23).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(8, 20).
+Ship 1 has action is 1.
+Ship 7 has action is 1.
+Ship 1 has action is 1.
+Ship 5 has action is 1.
+Ship 1 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(16, 28).
+Ship 3 is action 3, going to Position(13, 24), with 43.
+Ship 1 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(16, 28).
+Ship 9 is action 3, going to Position(14, 24), with 98.
+==== TURN 40 TIME 8.9% ====
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(13, 24).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(8, 20).
+Ship 1 has action is 1.
+Ship 7 has action is 1.
+Ship 1 has action is 1.
+Ship 5 has action is 1.
+Ship 1 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(16, 28).
+Ship 9 is action 3, going to Position(15, 24), with 98.
+Ship 1 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(14, 28).
+Ship 11 is action 3, going to Position(13, 25), with 84.
+Ship 1 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(16, 18).
+Ship 12 is action 3, going to Position(15, 23), with 89.
+==== TURN 41 TIME 9.1% ====
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(15, 24).
+Ship 1 has action is 1.
+Ship 5 has action is 1.
+Ship 1 has action is 1.
+Ship 7 has action is 1.
+Ship 1 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(16, 28).
+Ship 11 is action 3, going to Position(14, 25), with 90.
+Ship 1 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(16, 28).
+Ship 3 is action 3, going to Position(14, 24), with 98.
+Ship 1 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(19, 26).
+Ship 12 is action 3, going to Position(16, 23), with 72.
+Ship 1 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(12, 14).
+Ship 1 is action 3, going to Position(9, 20), with 153.
+==== TURN 42 TIME 9.3% ====
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(14, 25).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(9, 20).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(14, 24).
+Ship 9 has action is 1.
+Ship 5 has action is 1.
+Ship 9 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(19, 26).
+Ship 12 is action 3, going to Position(17, 23), with 60.
+Ship 9 has action is 1.
+Ship 7 has action is 1.
+Ship 9 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(16, 28).
+Ship 9 is action 3, going to Position(16, 24), with 78.
+==== TURN 43 TIME 9.6% ====
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(17, 23).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(9, 20).
+Ship 3 has action is 1.
+Ship 7 has action is 1.
+Ship 3 has action is 1.
+Ship 5 has action is 1.
+Ship 3 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(19, 26).
+Ship 9 is action 3, going to Position(17, 24), with 75.
+Ship 3 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(16, 28).
+Ship 11 is action 3, going to Position(15, 25), with 77.
+Ship 3 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(16, 28).
+Ship 3 is action 3, going to Position(15, 24), with 73.
+==== TURN 44 TIME 9.8% ====
+Ship 1 has action is 1.
+Ship 5 has action is 1.
+Ship 1 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(16, 28).
+Ship 11 is action 3, going to Position(16, 25), with 86.
+Ship 1 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(19, 26).
+Ship 9 is action 3, going to Position(18, 24), with 71.
+Ship 1 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(16, 28).
+Ship 7 is action 3, going to Position(13, 24), with 32.
+Ship 1 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(16, 28).
+Ship 3 is action 3, going to Position(16, 24), with 78.
+Ship 1 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(20, 26).
+Ship 12 is action 3, going to Position(18, 23), with 83.
+Ship 1 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(12, 14).
+Ship 1 is action 3, going to Position(10, 20), with 44.
+==== TURN 45 TIME 10.0% ====
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(18, 24).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(13, 24).
+Ship 12 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(16, 28).
+Ship 5 is action 3, going to Position(12, 25), with 51.
+Ship 12 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(16, 28).
+Ship 11 is action 3, going to Position(16, 26), with 84.
+Ship 12 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(19, 26).
+Ship 3 is action 3, going to Position(17, 24), with 75.
+Ship 12 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(12, 14).
+Ship 1 is action 3, going to Position(11, 20), with 20.
+Ship 12 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(20, 26).
+Ship 12 is action 3, going to Position(19, 23), with 145.
+==== TURN 46 TIME 10.2% ====
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(16, 26).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(12, 25).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(19, 23).
+Ship 7 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(16, 28).
+Ship 14 is action 3, going to Position(13, 24), with 24.
+Ship 7 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(19, 26).
+Ship 3 is action 3, going to Position(18, 24), with 53.
+Ship 7 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(12, 14).
+Ship 1 is action 3, going to Position(12, 20), with 3.
+Ship 7 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(20, 26).
+Ship 9 is action 3, going to Position(19, 24), with 87.
+Ship 7 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(16, 28).
+Ship 7 is action 3, going to Position(14, 24), with 73.
+==== TURN 47 TIME 10.4% ====
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(13, 24).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(18, 24).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(14, 24).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(19, 23).
+Ship 12 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(20, 26).
+Ship 9 is action 3, going to Position(20, 24), with 357.
+Ship 12 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(16, 28).
+Ship 11 is action 3, going to Position(16, 27), with 236.
+Ship 12 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(14, 28).
+Ship 5 is action 3, going to Position(13, 25), with 84.
+Ship 12 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(16, 18).
+Ship 1 is action 3, going to Position(13, 20), with 9.
+==== TURN 48 TIME 10.7% ====
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(16, 27).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(20, 24).
+Ship 12 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(16, 28).
+Ship 5 is action 3, going to Position(14, 25), with 67.
+Ship 12 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(16, 28).
+Ship 14 is action 3, going to Position(14, 24), with 54.
+Ship 12 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(20, 26).
+Ship 3 is action 3, going to Position(19, 24), with 87.
+Ship 12 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(16, 28).
+Ship 7 is action 3, going to Position(15, 24), with 73.
+Ship 12 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(16, 18).
+Ship 1 is action 3, going to Position(14, 20), with 32.
+Ship 12 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(20, 26).
+Ship 12 is action 3, going to Position(20, 23), with 183.
+==== TURN 49 TIME 10.9% ====
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(14, 25).
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(14, 24).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(20, 23).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(16, 27).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(20, 24).
+Ship 9 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(20, 26).
+Ship 3 is action 3, going to Position(19, 25), with 92.
+Ship 9 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(16, 28).
+Ship 7 is action 3, going to Position(16, 24), with 78.
+Ship 9 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(16, 18).
+Ship 1 is action 3, going to Position(15, 20), with 145.
+==== TURN 50 TIME 11.1% ====
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(19, 25).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(15, 20).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(20, 23).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(16, 27).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(20, 24).
+Ship 9 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(19, 26).
+Ship 7 is action 3, going to Position(17, 24), with 75.
+Ship 9 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(16, 28).
+Ship 5 is action 3, going to Position(15, 25), with 77.
+Ship 9 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(16, 28).
+Ship 14 is action 3, going to Position(15, 24), with 73.
+==== TURN 51 TIME 11.3% ====
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(17, 24).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(15, 20).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(20, 23).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(20, 24).
+Ship 9 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(16, 28).
+Ship 5 is action 3, going to Position(16, 25), with 86.
+Ship 9 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(16, 28).
+Ship 14 is action 3, going to Position(16, 24), with 78.
+Ship 9 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(20, 26).
+Ship 3 is action 3, going to Position(20, 25), with 91.
+Ship 9 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(16, 28).
+Ship 11 is action 3, going to Position(16, 28), with 658.
+==== TURN 52 TIME 11.6% ====
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(16, 28).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(16, 25).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(20, 24).
+Ship 9 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(19, 26).
+Ship 14 is action 3, going to Position(17, 24), with 56.
+Ship 9 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(20, 26).
+Ship 3 is action 3, going to Position(20, 26), with 494.
+Ship 9 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(19, 26).
+Ship 7 is action 3, going to Position(18, 24), with 39.
+Ship 9 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(16, 18).
+Ship 1 is action 3, going to Position(16, 20), with 117.
+Ship 9 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(22, 20).
+Ship 12 is action 3, going to Position(21, 23), with 158.
+==== TURN 53 TIME 11.8% ====
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(20, 26).
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(17, 24).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(16, 20).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(21, 23).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(16, 28).
+Ship 9 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(19, 26).
+Ship 7 is action 3, going to Position(19, 24), with 87.
+Ship 9 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(14, 28).
+Ship 5 is action 3, going to Position(15, 25), with 77.
+Ship 9 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(19, 26).
+Ship 9 is action 3, going to Position(20, 25), with 91.
+==== TURN 54 TIME 12.0% ====
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(20, 26).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(21, 23).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(16, 28).
+Ship 11 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(19, 26).
+Ship 7 is action 3, going to Position(19, 25), with 69.
+Ship 11 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(14, 28).
+Ship 5 is action 3, going to Position(14, 25), with 50.
+Ship 11 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(19, 26).
+Ship 9 has action is 6.
+Ship 9 is action 3, going to 6 to Position(21, 25).
+Ship 11 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(19, 26).
+Ship 14 is action 3, going to Position(18, 24), with 39.
+Ship 11 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(16, 18).
+Ship 1 is action 3, going to Position(16, 19), with 254.
+==== TURN 55 TIME 12.2% ====
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(21, 25).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(20, 26).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(16, 19).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(16, 28).
+Ship 11 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(14, 28).
+Ship 5 is action 3, going to Position(14, 26), with 97.
+Ship 11 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(19, 26).
+Ship 7 is action 3, going to Position(19, 26), with 482.
+Ship 11 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(19, 26).
+Ship 14 is action 3, going to Position(19, 24), with 87.
+Ship 11 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(22, 20).
+Ship 12 is action 3, going to Position(22, 23), with 199.
+==== TURN 56 TIME 12.4% ====
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(19, 26).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(21, 25).
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(19, 24).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(20, 26).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(22, 23).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(16, 19).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(16, 28).
+Ship 11 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(14, 28).
+Ship 5 is action 3, going to Position(14, 27), with 81.
+==== TURN 57 TIME 12.7% ====
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(14, 27).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(19, 26).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(20, 26).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(22, 23).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(16, 19).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(16, 28).
+Ship 11 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(19, 27).
+Ship 9 is action 3, going to Position(20, 25), with 91.
+Ship 11 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(22, 20).
+Ship 14 is action 3, going to Position(20, 24), with 84.
+==== TURN 58 TIME 12.9% ====
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(19, 26).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(20, 26).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(22, 23).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(16, 19).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(16, 28).
+Ship 11 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(19, 27).
+Ship 9 is action 3, going to Position(19, 25), with 69.
+Ship 11 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(14, 28).
+Ship 5 is action 3, going to Position(14, 28), with 490.
+Ship 11 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(22, 20).
+Ship 14 is action 3, going to Position(21, 24), with 253.
+==== TURN 59 TIME 13.1% ====
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(14, 28).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(19, 26).
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(21, 24).
+Ship 11 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(19, 27).
+Ship 9 has action is 6.
+Ship 9 is action 3, going to 6 to Position(18, 25).
+Ship 11 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(19, 27).
+Ship 3 is action 3, going to Position(20, 27), with 284.
+Ship 11 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(22, 20).
+Ship 12 is action 3, going to Position(22, 22), with 30.
+Ship 11 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(16, 18).
+Ship 1 is action 3, going to Position(16, 18), with 396.
+Ship 11 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(15, 28).
+Ship 11 is action 3, going to Position(15, 28), with 375.
+==== TURN 60 TIME 13.3% ====
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(18, 25).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(16, 18).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(14, 28).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(19, 26).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(20, 27).
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(21, 24).
+Ship 14 has action is 1.
+Ship 11 has action is 1.
+Ship 14 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(22, 20).
+Ship 12 is action 3, going to Position(22, 21), with 311.
+==== TURN 61 TIME 13.6% ====
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(18, 25).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(22, 21).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(16, 18).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(14, 28).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(19, 26).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(20, 27).
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(21, 24).
+Ship 14 has action is 1.
+Ship 11 has action is 1.
+==== TURN 62 TIME 13.8% ====
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(18, 25).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(22, 21).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(16, 18).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(14, 28).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(20, 27).
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(21, 24).
+Ship 14 has action is 1.
+Ship 11 has action is 1.
+Ship 14 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(19, 27).
+Ship 7 is action 3, going to Position(19, 27), with 405.
+==== TURN 63 TIME 14.0% ====
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(19, 27).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(18, 25).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(22, 21).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(14, 28).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(20, 27).
+Ship 14 has action is 1.
+Ship 11 has action is 1.
+Ship 14 has action is 1.
+Ship 1 has action is 1.
+Ship 14 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(22, 20).
+Ship 14 is action 3, going to Position(22, 24), with 131.
+==== TURN 64 TIME 14.2% ====
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(19, 27).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(22, 21).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(14, 28).
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(22, 24).
+Ship 3 has action is 1.
+Ship 11 has action is 1.
+Ship 3 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(15, 28).
+Ship 9 is action 3, going to Position(17, 25), with 197.
+Ship 3 has action is 1.
+Ship 1 has action is 1.
+Ship 3 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(18, 30).
+Ship 3 is action 3, going to Position(20, 28), with 296.
+==== TURN 65 TIME 14.4% ====
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(17, 25).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(19, 27).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(20, 28).
+Ship 14 has action is 1.
+Ship 11 has action is 1.
+Ship 14 has action is 1.
+Ship 1 has action is 1.
+Ship 14 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(22, 20).
+Ship 12 is action 3, going to Position(22, 20), with 427.
+Ship 14 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(14, 29).
+Ship 5 is action 3, going to Position(14, 29), with 495.
+Ship 14 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(22, 20).
+Ship 14 is action 3, going to Position(22, 23), with 83.
+==== TURN 66 TIME 14.7% ====
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(22, 20).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(14, 29).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(17, 25).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(19, 27).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(20, 28).
+Ship 3 has action is 1.
+Ship 11 has action is 1.
+Ship 3 has action is 1.
+Ship 1 has action is 1.
+Ship 3 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(25, 20).
+Ship 14 is action 3, going to Position(23, 23), with 45.
+==== TURN 67 TIME 14.9% ====
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(22, 20).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(14, 29).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(17, 25).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(19, 27).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(20, 28).
+Ship 3 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(15, 28).
+Ship 11 is action 3, going to Position(13, 24), with 18.
+Ship 3 has action is 1.
+Ship 1 has action is 1.
+Ship 3 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(25, 20).
+Ship 14 is action 3, going to Position(24, 23), with 45.
+==== TURN 68 TIME 15.1% ====
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(13, 24).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(22, 20).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(14, 29).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(20, 28).
+Ship 3 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(15, 28).
+Ship 17 is action 3, going to Position(12, 25), with 38.
+Ship 3 has action is 1.
+Ship 1 has action is 1.
+Ship 3 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(15, 28).
+Ship 9 is action 3, going to Position(16, 25), with 64.
+Ship 3 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(15, 29).
+Ship 7 is action 3, going to Position(18, 27), with 167.
+Ship 3 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(25, 20).
+Ship 14 is action 3, going to Position(25, 23), with 199.
+==== TURN 69 TIME 15.3% ====
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(12, 25).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(18, 27).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(22, 20).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(14, 29).
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(25, 23).
+Ship 3 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(15, 28).
+Ship 9 is action 3, going to Position(15, 25), with 77.
+Ship 3 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(15, 28).
+Ship 11 is action 3, going to Position(14, 24), with 40.
+Ship 3 has action is 1.
+Ship 1 has action is 1.
+Ship 3 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(18, 30).
+Ship 3 is action 3, going to Position(19, 28), with 149.
+==== TURN 70 TIME 15.6% ====
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(18, 27).
+Total Halite =10789.
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(22, 20).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(19, 28).
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(25, 23).
+Ship 14 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(15, 28).
+Ship 9 is action 3, going to Position(15, 26), with 195.
+Ship 14 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(15, 28).
+Ship 11 is action 3, going to Position(15, 24), with 73.
+Ship 14 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(15, 28).
+Ship 17 is action 3, going to Position(13, 25), with 84.
+Ship 14 has action is 1.
+Ship 1 has action is 1.
+Ship 14 has action is 1.
+Ship 5 has action is 1.
+==== TURN 71 TIME 15.8% ====
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(15, 24).
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(13, 25).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(15, 26).
+Total Halite =10717.
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(22, 20).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(19, 28).
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(25, 23).
+Ship 14 has action is 1.
+Ship 5 has action is 1.
+Ship 14 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(15, 29).
+Ship 7 is action 3, going to Position(17, 27), with 193.
+Ship 14 has action is 1.
+Ship 1 has action is 1.
+==== TURN 72 TIME 16.0% ====
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(17, 27).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(15, 26).
+Total Halite =10663.
+Total Halite =10663.
+Ship 14 has action is 1.
+Ship 5 has action is 1.
+Ship 14 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(15, 28).
+Ship 11 is action 3, going to Position(15, 25), with 77.
+Ship 14 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(15, 28).
+Ship 17 is action 3, going to Position(14, 25), with 50.
+Ship 14 has action is 1.
+Ship 1 has action is 1.
+Total Halite =10663.
+Ship 14 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(25, 20).
+Ship 12 is action 3, going to Position(23, 20), with 144.
+Ship 14 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(18, 30).
+Ship 3 is action 3, going to Position(18, 28), with 179.
+Ship 14 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(25, 20).
+Ship 14 is action 3, going to Position(25, 22), with 30.
+==== TURN 73 TIME 16.2% ====
+Total Halite =10508.
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(23, 20).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(18, 28).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(17, 27).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(15, 26).
+Ship 9 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(15, 28).
+Ship 17 is action 3, going to Position(15, 25), with 77.
+Ship 9 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(15, 28).
+Ship 1 is action 3, going to Position(13, 24), with 13.
+Ship 9 has action is 1.
+Ship 5 has action is 1.
+Ship 9 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(15, 28).
+Ship 11 has action is 6.
+Ship 11 is action 3, going to 6 to Position(16, 25).
+Ship 9 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(25, 20).
+Ship 14 is action 3, going to Position(25, 21), with 311.
+==== TURN 74 TIME 16.4% ====
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(13, 24).
+Total Halite =10472.
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(25, 21).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(18, 28).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(17, 27).
+Total Halite =10472.
+Ship 9 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(15, 28).
+Ship 19 is action 3, going to Position(12, 25), with 28.
+Ship 9 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(15, 28).
+Ship 17 is action 3, going to Position(15, 26), with 81.
+Ship 9 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(15, 28).
+Ship 11 is action 3, going to Position(15, 25), with 77.
+Ship 9 has action is 1.
+Ship 5 has action is 1.
+Total Halite =10472.
+Ship 9 has action is 1.
+Ship 12 has action is 1.
+Ship 9 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(15, 28).
+Ship 9 is action 3, going to Position(15, 27), with 240.
+==== TURN 75 TIME 16.7% ====
+Ship 19 has action is stay.
+Ship 19 is action stay, staying at Position(12, 25).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(15, 25).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(15, 27).
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(25, 21).
+Ship 7 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(15, 28).
+Ship 17 has action is 6.
+Ship 17 is action 3, going to 6 to Position(14, 26).
+Ship 7 has action is 1.
+Ship 5 has action is 1.
+Ship 5 has action is 6.
+Ship 5 is action 1, going to 6 to Position(12, 27).
+Ship 7 has action is 1.
+Ship 12 has action is 1.
+Ship 7 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(15, 28).
+Ship 1 is action 3, going to Position(14, 24), with 40.
+Ship 7 has action is 1.
+Ship 3 has action is 1.
+Ship 7 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(15, 28).
+Ship 7 is action 3, going to Position(16, 27), with 99.
+==== TURN 76 TIME 16.9% ====
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(14, 26).
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(25, 21).
+Ship 14 has action is 1.
+Ship 5 has action is 1.
+Ship 14 has action is 1.
+Ship 12 has action is 1.
+Ship 14 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(15, 28).
+Ship 1 is action 3, going to Position(15, 24), with 54.
+Ship 14 has action is 1.
+Ship 7 has action is 1.
+Ship 14 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(15, 28).
+Ship 19 is action 3, going to Position(13, 25), with 63.
+Ship 14 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(15, 28).
+Ship 11 is action 3, going to Position(15, 26), with 81.
+Ship 14 has action is 1.
+Ship 9 has action is 1.
+Ship 14 has action is 1.
+Ship 3 has action is 1.
+==== TURN 77 TIME 17.1% ====
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(15, 24).
+Ship 19 has action is stay.
+Ship 19 is action stay, staying at Position(13, 25).
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(25, 21).
+Ship 14 has action is 1.
+Ship 7 has action is 1.
+Ship 14 has action is 1.
+Ship 5 has action is 1.
+Ship 14 has action is 1.
+Ship 12 has action is 1.
+Ship 14 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(15, 28).
+Ship 11 is action 3, going to Position(15, 27), with 180.
+Ship 14 has action is 1.
+Ship 9 has action is 1.
+Ship 14 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(15, 28).
+Ship 17 is action 3, going to Position(15, 26), with 81.
+Ship 14 has action is 1.
+Ship 3 has action is 1.
+==== TURN 78 TIME 17.3% ====
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(15, 27).
+Ship 14 has action is 1.
+Ship 9 has action is 1.
+Ship 14 has action is 1.
+Ship 7 has action is 1.
+Ship 14 has action is 1.
+Ship 5 has action is 1.
+Ship 14 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(15, 29).
+Ship 17 has action is 6.
+Ship 17 is action 3, going to 6 to Position(14, 26).
+Ship 14 has action is 1.
+Ship 12 has action is 1.
+Ship 14 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(15, 29).
+Ship 1 is action 3, going to Position(15, 25), with 57.
+Ship 14 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(15, 29).
+Ship 19 is action 3, going to Position(14, 25), with 50.
+Ship 14 has action is 1.
+Ship 3 has action is 1.
+Ship 14 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(25, 20).
+Ship 14 is action 3, going to Position(25, 20), with 427.
+==== TURN 79 TIME 17.6% ====
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(25, 20).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(15, 27).
+Ship 11 has action is 1.
+Ship 7 has action is 1.
+Ship 11 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(15, 28).
+Ship 5 is action 3, going to Position(13, 24), with 9.
+Ship 11 has action is 1.
+Ship 9 has action is 1.
+Ship 11 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(15, 28).
+Ship 17 is action 3, going to Position(15, 26), with 81.
+Ship 11 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(15, 28).
+Ship 1 has action is 6.
+Ship 1 is action 3, going to 6 to Position(16, 25).
+Ship 11 has action is 1.
+Ship 12 has action is 1.
+Ship 11 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(15, 28).
+Ship 19 is action 3, going to Position(15, 25), with 57.
+Ship 11 has action is 1.
+Ship 3 has action is 1.
+==== TURN 80 TIME 17.8% ====
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(13, 24).
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(15, 26).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(16, 25).
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(25, 20).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(15, 27).
+Ship 11 has action is 1.
+Ship 9 has action is 1.
+Ship 11 has action is 1.
+Ship 7 has action is 1.
+Ship 11 has action is 1.
+Ship 12 has action is 1.
+Ship 11 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(15, 28).
+Ship 19 has action is 6.
+Ship 19 is action 3, going to 6 to Position(14, 25).
+Ship 11 has action is 1.
+Ship 3 has action is 1.
+==== TURN 81 TIME 18.0% ====
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(25, 20).
+Ship 11 has action is 1.
+Ship 7 has action is 1.
+Ship 11 has action is 1.
+Ship 9 has action is 1.
+Ship 11 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(15, 28).
+Ship 19 is action 3, going to Position(15, 25), with 57.
+Ship 11 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(15, 28).
+Ship 5 is action 3, going to Position(14, 24), with 40.
+Ship 11 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(15, 28).
+Ship 17 is action 3, going to Position(15, 27), with 75.
+Ship 11 has action is 1.
+Ship 12 has action is 1.
+Ship 11 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(15, 28).
+Ship 1 is action 3, going to Position(16, 26), with 63.
+Ship 11 has action is 1.
+Ship 3 has action is 1.
+Ship 11 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(15, 28).
+Ship 11 is action 3, going to Position(15, 28), with 375.
+==== TURN 82 TIME 18.2% ====
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(14, 24).
+Ship 19 has action is stay.
+Ship 19 is action stay, staying at Position(15, 25).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(15, 28).
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(25, 20).
+Ship 14 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(15, 29).
+Ship 9 is action 3, going to Position(13, 24), with 6.
+Ship 14 has action is 1.
+Ship 7 has action is 1.
+Ship 14 has action is 1.
+Ship 12 has action is 1.
+Ship 14 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(15, 29).
+Ship 1 is action 3, going to Position(15, 26), with 60.
+Ship 14 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(15, 29).
+Ship 17 has action is 6.
+Ship 17 is action 3, going to 6 to Position(16, 27).
+Ship 14 has action is 1.
+Ship 3 has action is 1.
+==== TURN 83 TIME 18.4% ====
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(13, 24).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(15, 28).
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(25, 20).
+Ship 14 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(15, 29).
+Ship 17 is action 3, going to Position(15, 27), with 75.
+Ship 14 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(15, 29).
+Ship 7 is action 3, going to Position(12, 25), with 21.
+Ship 14 has action is 1.
+Ship 12 has action is 1.
+Ship 14 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(15, 29).
+Ship 1 has action is 6.
+Ship 1 is action 3, going to 6 to Position(14, 26).
+Ship 14 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(15, 29).
+Ship 5 is action 3, going to Position(15, 24), with 40.
+Ship 14 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(15, 29).
+Ship 19 is action 3, going to Position(15, 26), with 60.
+Ship 14 has action is 1.
+Ship 3 has action is 1.
+Ship 3 has action is 6.
+Ship 3 is action 1, going to 6 to Position(12, 27).
+==== TURN 84 TIME 18.7% ====
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(12, 25).
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(15, 27).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(14, 26).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(15, 28).
+Total Halite =10103.
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(25, 20).
+Ship 14 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(15, 29).
+Ship 19 has action is 6.
+Ship 19 is action 3, going to 6 to Position(16, 26).
+Ship 14 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(15, 29).
+Ship 5 is action 3, going to Position(15, 25), with 42.
+Ship 14 has action is 1.
+Ship 12 has action is 1.
+Ship 14 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(15, 29).
+Ship 9 is action 3, going to Position(14, 24), with 30.
+Ship 14 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(15, 29).
+Ship 22 is action 3, going to Position(13, 24), with 4.
+Ship 14 has action is 1.
+Ship 3 has action is 1.
+==== TURN 85 TIME 18.9% ====
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(14, 24).
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(13, 24).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(15, 28).
+Total Halite =10077.
+Total Halite =10077.
+Ship 14 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(15, 29).
+Ship 23 is action 3, going to Position(12, 25), with 15.
+Ship 14 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(15, 29).
+Ship 19 is action 3, going to Position(15, 26), with 60.
+Ship 14 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(15, 29).
+Ship 5 has action is 6.
+Ship 5 is action 3, going to 6 to Position(14, 25).
+Ship 14 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(15, 29).
+Ship 7 is action 3, going to Position(13, 25), with 47.
+Ship 14 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(15, 29).
+Ship 17 has action is 6.
+Ship 17 is action 3, going to 6 to Position(16, 27).
+Ship 14 has action is 1.
+Ship 12 has action is 1.
+Ship 14 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(15, 29).
+Ship 1 is action 3, going to Position(14, 27), with 60.
+Ship 14 has action is 1.
+Ship 3 has action is 1.
+Ship 3 has action is 6.
+Ship 3 is action 1, going to 6 to Position(12, 27).
+Total Halite =10077.
+Ship 14 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(29, 16).
+Ship 14 is action 3, going to Position(26, 20), with 239.
+==== TURN 86 TIME 19.1% ====
+Ship 19 has action is stay.
+Ship 19 is action stay, staying at Position(15, 26).
+Total Halite =10009.
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(26, 20).
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(12, 25).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(14, 25).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(15, 28).
+Ship 11 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(15, 29).
+Ship 7 is action 3, going to Position(13, 26), with 80.
+Ship 11 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(15, 29).
+Ship 17 is action 3, going to Position(15, 27), with 56.
+Ship 11 has action is 1.
+Ship 12 has action is 1.
+Ship 11 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(15, 29).
+Ship 1 is action 3, going to Position(14, 28), with 86.
+Ship 11 has action is 1.
+Ship 3 has action is 1.
+Ship 11 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(15, 29).
+Ship 9 is action 3, going to Position(15, 24), with 40.
+Ship 11 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(15, 29).
+Ship 22 is action 3, going to Position(14, 24), with 22.
+==== TURN 87 TIME 19.3% ====
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(13, 26).
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(14, 24).
+Total Halite =9949.
+Total Halite =9949.
+Ship 11 has action is 1.
+Ship 3 has action is 1.
+Ship 11 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(15, 29).
+Ship 17 is action 3, going to Position(15, 28), with 87.
+Ship 11 has action is 1.
+Ship 12 has action is 1.
+Ship 11 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(15, 29).
+Ship 1 is action 3, going to Position(14, 29), with 156.
+Ship 11 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(15, 29).
+Ship 9 is action 3, going to Position(15, 25), with 42.
+Ship 11 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(15, 29).
+Ship 19 is action 3, going to Position(15, 27), with 56.
+Total Halite =9949.
+Ship 11 has action is 1.
+Ship 14 has action is 1.
+Ship 11 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(15, 29).
+Ship 23 is action 3, going to Position(13, 25), with 47.
+Ship 11 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(15, 29).
+Ship 5 is action 3, going to Position(14, 26), with 54.
+Ship 11 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(15, 29).
+Ship 11 is action 3, going to Position(15, 29), with 480.
+==== TURN 88 TIME 19.6% ====
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(15, 28).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(14, 29).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(15, 25).
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(13, 25).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(15, 29).
+Ship 22 has action is 1.
+Ship 3 has action is 1.
+Ship 22 has action is 1.
+Ship 12 has action is 1.
+Ship 12 has action is 6.
+Ship 12 is action 1, going to 6 to Position(13, 23).
+Ship 22 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(18, 30).
+Ship 19 is action 3, going to Position(16, 27), with 99.
+Ship 22 has action is 1.
+Ship 14 has action is 1.
+Ship 22 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(18, 30).
+Ship 5 is action 3, going to Position(15, 26), with 45.
+Ship 22 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(17, 30).
+Ship 7 is action 3, going to Position(14, 26), with 54.
+Ship 22 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(18, 18).
+Ship 22 is action 3, going to Position(15, 24), with 40.
+==== TURN 89 TIME 19.8% ====
+Ship 19 has action is stay.
+Ship 19 is action stay, staying at Position(16, 27).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(14, 29).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(15, 29).
+Ship 11 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(18, 30).
+Ship 3 is action 3, going to Position(13, 24), with 3.
+Ship 11 has action is 1.
+Ship 14 has action is 1.
+Ship 11 has action is 1.
+Ship 12 has action is 1.
+Ship 11 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(18, 30).
+Ship 5 is action 3, going to Position(16, 26), with 63.
+Ship 11 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(18, 30).
+Ship 7 is action 3, going to Position(15, 26), with 45.
+Ship 11 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(18, 18).
+Ship 22 is action 3, going to Position(16, 24), with 78.
+Ship 11 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(17, 30).
+Ship 17 is action 3, going to Position(16, 28), with 87.
+Ship 11 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(18, 30).
+Ship 9 is action 3, going to Position(16, 25), with 48.
+Ship 11 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(18, 30).
+Ship 23 is action 3, going to Position(14, 25), with 37.
+==== TURN 90 TIME 20.0% ====
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(13, 24).
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(16, 24).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(16, 26).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(15, 29).
+Ship 11 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(18, 30).
+Ship 17 is action 3, going to Position(17, 28), with 239.
+Ship 11 has action is 1.
+Ship 14 has action is 1.
+Ship 11 has action is 1.
+Ship 12 has action is 1.
+Ship 11 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(18, 30).
+Ship 7 is action 3, going to Position(15, 27), with 56.
+Ship 11 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(18, 30).
+Ship 9 is action 3, going to Position(17, 25), with 82.
+Ship 11 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(18, 30).
+Ship 23 is action 3, going to Position(15, 25), with 31.
+Ship 11 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(18, 30).
+Ship 19 is action 3, going to Position(17, 27), with 81.
+Ship 11 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(18, 30).
+Ship 24 is action 3, going to Position(12, 25), with 11.
+Ship 11 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(13, 31).
+Ship 1 is action 3, going to Position(13, 29), with 268.
+==== TURN 91 TIME 20.2% ====
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(17, 28).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(17, 25).
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(12, 25).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(13, 29).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(15, 29).
+Ship 11 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(18, 30).
+Ship 23 is action 3, going to Position(16, 25), with 48.
+Ship 11 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(18, 30).
+Ship 12 is action 3, going to Position(13, 24), with 2.
+Ship 11 has action is 1.
+Ship 14 has action is 1.
+Ship 11 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(18, 30).
+Ship 7 is action 3, going to Position(16, 27), with 74.
+Ship 11 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(18, 30).
+Ship 19 is action 3, going to Position(18, 27), with 93.
+Ship 11 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(18, 18).
+Ship 3 is action 3, going to Position(14, 24), with 16.
+Ship 11 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(18, 18).
+Ship 22 is action 3, going to Position(17, 24), with 42.
+Ship 11 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(18, 30).
+Ship 5 is action 3, going to Position(17, 26), with 307.
+==== TURN 92 TIME 20.4% ====
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(13, 24).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(16, 27).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(14, 24).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(17, 26).
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(17, 28).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(13, 29).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(15, 29).
+Ship 11 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(18, 18).
+Ship 22 is action 3, going to Position(18, 24), with 39.
+Ship 11 has action is 1.
+Ship 14 has action is 1.
+Ship 11 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(18, 30).
+Ship 23 is action 3, going to Position(17, 25), with 61.
+Ship 11 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(18, 30).
+Ship 19 is action 3, going to Position(18, 28), with 100.
+Ship 11 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(18, 30).
+Ship 9 is action 3, going to Position(18, 25), with 87.
+Ship 11 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(17, 30).
+Ship 24 is action 3, going to Position(13, 25), with 35.
+==== TURN 93 TIME 20.7% ====
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(17, 25).
+Ship 19 has action is stay.
+Ship 19 is action stay, staying at Position(18, 28).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(17, 26).
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(17, 28).
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(13, 25).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(13, 29).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(15, 29).
+Ship 11 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(18, 18).
+Ship 22 is action 3, going to Position(18, 23), with 83.
+Ship 11 has action is 1.
+Ship 14 has action is 1.
+Ship 11 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(18, 30).
+Ship 9 is action 3, going to Position(18, 26), with 349.
+Ship 11 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(18, 18).
+Ship 12 is action 3, going to Position(14, 24), with 12.
+Ship 11 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(18, 30).
+Ship 7 is action 3, going to Position(17, 27), with 81.
+Ship 11 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(18, 18).
+Ship 3 is action 3, going to Position(15, 24), with 40.
+==== TURN 94 TIME 20.9% ====
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(18, 26).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(14, 24).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(17, 26).
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(17, 28).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(13, 29).
+Ship 11 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(18, 18).
+Ship 22 is action 3, going to Position(18, 22), with 75.
+Ship 11 has action is 1.
+Ship 14 has action is 1.
+Ship 11 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(18, 30).
+Ship 7 is action 3, going to Position(18, 27), with 93.
+Ship 11 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(18, 18).
+Ship 3 is action 3, going to Position(16, 24), with 58.
+Ship 11 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(18, 30).
+Ship 23 is action 3, going to Position(18, 25), with 87.
+Ship 11 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(18, 30).
+Ship 19 is action 3, going to Position(18, 29), with 283.
+Ship 11 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(18, 30).
+Ship 24 is action 3, going to Position(14, 25), with 37.
+Ship 11 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(17, 30).
+Ship 11 is action 3, going to Position(16, 29), with 275.
+==== TURN 95 TIME 21.1% ====
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(18, 22).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(16, 29).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(18, 27).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(16, 24).
+Ship 19 has action is stay.
+Ship 19 is action stay, staying at Position(18, 29).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(18, 26).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(17, 26).
+Ship 1 has action is 1.
+Ship 14 has action is 1.
+Ship 1 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(18, 30).
+Ship 23 has action is 6.
+Ship 23 is action 3, going to 6 to Position(19, 25).
+Ship 1 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(18, 18).
+Ship 12 is action 3, going to Position(15, 24), with 40.
+Ship 1 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(18, 30).
+Ship 17 is action 3, going to Position(18, 28), with 75.
+Ship 1 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(18, 30).
+Ship 24 is action 3, going to Position(15, 25), with 31.
+Ship 1 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(13, 31).
+Ship 1 is action 3, going to Position(13, 30), with 166.
+==== TURN 96 TIME 21.3% ====
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(13, 30).
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(19, 25).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(16, 29).
+Ship 19 has action is stay.
+Ship 19 is action stay, staying at Position(18, 29).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(18, 26).
+Ship 5 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(18, 18).
+Ship 12 is action 3, going to Position(16, 24), with 43.
+Ship 5 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(18, 30).
+Ship 17 has action is 6.
+Ship 17 is action 3, going to 6 to Position(19, 28).
+Ship 5 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(18, 30).
+Ship 24 is action 3, going to Position(16, 25), with 48.
+Ship 5 has action is 1.
+Ship 14 has action is 1.
+Ship 5 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(18, 18).
+Ship 22 is action 3, going to Position(18, 21), with 95.
+Ship 5 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(18, 30).
+Ship 7 is action 3, going to Position(18, 28), with 75.
+Ship 5 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(18, 18).
+Ship 3 is action 3, going to Position(17, 24), with 42.
+Ship 5 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(18, 30).
+Ship 5 is action 3, going to Position(17, 27), with 81.
+==== TURN 97 TIME 21.6% ====
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(16, 24).
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(16, 25).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(13, 30).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(16, 29).
+Ship 19 has action is stay.
+Ship 19 is action stay, staying at Position(18, 29).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(18, 26).
+Ship 9 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(18, 30).
+Ship 5 is action 3, going to Position(18, 27), with 69.
+Ship 9 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(18, 30).
+Ship 17 is action 3, going to Position(18, 28), with 75.
+Ship 9 has action is 1.
+Ship 14 has action is 1.
+Ship 9 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(18, 30).
+Ship 7 has action is 6.
+Ship 7 is action 3, going to 6 to Position(19, 28).
+Ship 9 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(18, 18).
+Ship 22 is action 3, going to Position(18, 20), with 96.
+Ship 9 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(18, 18).
+Ship 3 is action 3, going to Position(18, 24), with 39.
+Ship 9 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(18, 30).
+Ship 23 is action 3, going to Position(18, 25), with 87.
+==== TURN 98 TIME 21.8% ====
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(18, 20).
+Ship 19 has action is stay.
+Ship 19 is action stay, staying at Position(18, 29).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(18, 26).
+Ship 9 has action is 1.
+Ship 14 has action is 1.
+Ship 9 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(18, 30).
+Ship 5 is action 3, going to Position(18, 28), with 75.
+Ship 9 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(18, 30).
+Ship 17 has action is 6.
+Ship 17 is action 3, going to 6 to Position(19, 28).
+Ship 9 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(18, 30).
+Ship 7 is action 3, going to Position(19, 29), with 268.
+Ship 9 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(18, 18).
+Ship 3 is action 3, going to Position(18, 23), with 83.
+Ship 9 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(18, 30).
+Ship 23 has action is 6.
+Ship 23 is action 3, going to 6 to Position(19, 25).
+Ship 9 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(18, 18).
+Ship 12 is action 3, going to Position(17, 24), with 42.
+Ship 9 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(18, 30).
+Ship 24 is action 3, going to Position(17, 25), with 45.
+Ship 9 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(13, 31).
+Ship 1 is action 3, going to Position(13, 31), with 410.
+Ship 9 has action is 1.
+Ship 11 has action is 1.
+==== TURN 99 TIME 22.0% ====
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(18, 23).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(19, 29).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(13, 31).
+Ship 9 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(18, 30).
+Ship 5 is action 3, going to Position(18, 29), with 89.
+Ship 9 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(18, 30).
+Ship 17 is action 3, going to Position(18, 28), with 75.
+Ship 9 has action is 1.
+Ship 14 has action is 1.
+Ship 9 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(21, 27).
+Ship 23 is action 3, going to Position(20, 25), with 91.
+Ship 9 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(21, 27).
+Ship 12 is action 3, going to Position(18, 24), with 39.
+Ship 9 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(21, 27).
+Ship 24 is action 3, going to Position(18, 25), with 87.
+Ship 9 has action is 1.
+Ship 11 has action is 1.
+Ship 9 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(18, 18).
+Ship 22 is action 3, going to Position(18, 19), with 171.
+Ship 9 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(18, 30).
+Ship 19 is action 3, going to Position(18, 30), with 480.
+Ship 9 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(21, 27).
+Ship 9 is action 3, going to Position(19, 26), with 84.
+==== TURN 100 TIME 22.2% ====
+Ship 19 has action is stay.
+Ship 19 is action stay, staying at Position(18, 30).
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(20, 25).
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(18, 19).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(19, 29).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(13, 31).
+Ship 1 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(17, 30).
+Ship 17 is action 3, going to Position(17, 28), with 75.
+Ship 1 has action is 1.
+Ship 14 has action is 1.
+Ship 1 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(17, 30).
+Ship 5 is action 3, going to Position(17, 29), with 239.
+Ship 1 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(21, 27).
+Ship 12 is action 3, going to Position(19, 24), with 65.
+Ship 1 has action is 1.
+Ship 11 has action is 1.
+Ship 1 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(21, 27).
+Ship 9 is action 3, going to Position(20, 26), with 87.
+Ship 1 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(18, 18).
+Ship 3 is action 3, going to Position(18, 22), with 56.
+Ship 1 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(21, 27).
+Ship 24 is action 3, going to Position(19, 25), with 51.
+==== TURN 101 TIME 22.4% ====
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(17, 29).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(19, 24).
+Ship 19 has action is stay.
+Ship 19 is action stay, staying at Position(18, 30).
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(18, 19).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(19, 29).
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(19, 25).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(13, 31).
+Ship 1 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(18, 18).
+Ship 3 is action 3, going to Position(18, 21), with 95.
+Ship 1 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(17, 30).
+Ship 17 has action is 6.
+Ship 17 is action 3, going to 6 to Position(16, 28).
+Ship 1 has action is 1.
+Ship 14 has action is 1.
+Ship 1 has action is 1.
+Ship 11 has action is 1.
+Ship 1 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(21, 27).
+Ship 9 is action 3, going to Position(21, 26), with 170.
+Ship 1 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(21, 27).
+Ship 23 is action 3, going to Position(21, 25), with 85.
+==== TURN 102 TIME 22.7% ====
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(21, 26).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(17, 29).
+Ship 19 has action is stay.
+Ship 19 is action stay, staying at Position(18, 30).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(19, 29).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(13, 31).
+Ship 1 has action is 1.
+Ship 14 has action is 1.
+Ship 1 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(17, 30).
+Ship 17 is action 3, going to Position(17, 28), with 75.
+Ship 1 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(18, 18).
+Ship 3 is action 3, going to Position(18, 20), with 72.
+Ship 1 has action is 1.
+Ship 11 has action is 1.
+Ship 1 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(21, 27).
+Ship 23 has action is 6.
+Ship 23 is action 3, going to 6 to Position(22, 25).
+Ship 1 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(21, 27).
+Ship 12 is action 3, going to Position(20, 24), with 84.
+Ship 1 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(18, 18).
+Ship 22 is action 3, going to Position(18, 18), with 383.
+Ship 1 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(21, 27).
+Ship 24 is action 3, going to Position(20, 25), with 68.
+==== TURN 103 TIME 22.9% ====
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(18, 18).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(18, 20).
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(22, 25).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(21, 26).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(17, 29).
+Ship 19 has action is stay.
+Ship 19 is action stay, staying at Position(18, 30).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(13, 31).
+Ship 1 has action is 1.
+Ship 14 has action is 1.
+Ship 1 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(21, 27).
+Ship 12 is action 3, going to Position(21, 24), with 78.
+Ship 1 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(17, 30).
+Ship 17 has action is 6.
+Ship 17 is action 3, going to 6 to Position(16, 28).
+Ship 1 has action is 1.
+Ship 11 has action is 1.
+Ship 1 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(17, 30).
+Ship 7 is action 3, going to Position(18, 29), with 89.
+Ship 1 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(21, 27).
+Ship 24 is action 3, going to Position(21, 25), with 85.
+==== TURN 104 TIME 23.1% ====
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(21, 24).
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(18, 18).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(17, 29).
+Ship 19 has action is stay.
+Ship 19 is action stay, staying at Position(18, 30).
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(21, 25).
+Ship 1 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(17, 30).
+Ship 17 is action 3, going to Position(17, 28), with 75.
+Ship 1 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(17, 30).
+Ship 7 has action is 6.
+Ship 7 is action 3, going to 6 to Position(19, 29).
+Ship 1 has action is 1.
+Ship 14 has action is 1.
+Ship 1 has action is 1.
+Ship 11 has action is 1.
+Ship 1 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(18, 16).
+Ship 3 is action 3, going to Position(18, 19), with 96.
+Ship 1 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(21, 27).
+Ship 23 is action 3, going to Position(22, 26), with 280.
+Ship 1 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(21, 27).
+Ship 9 is action 3, going to Position(21, 27), with 356.
+Ship 1 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(12, 32).
+Ship 1 is action 3, going to Position(12, 31), with 259.
+==== TURN 105 TIME 23.3% ====
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(22, 26).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(21, 27).
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(18, 18).
+Ship 19 has action is stay.
+Ship 19 is action stay, staying at Position(18, 30).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(12, 31).
+Ship 24 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(17, 30).
+Ship 17 is action 3, going to Position(17, 29), with 75.
+Ship 24 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(17, 30).
+Ship 7 is action 3, going to Position(18, 29), with 89.
+Ship 24 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(17, 30).
+Ship 14 is action 3, going to Position(13, 24), with 1.
+Ship 24 has action is 1.
+Ship 11 has action is 1.
+Ship 24 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(18, 16).
+Ship 3 has action is 6.
+Ship 3 is action 3, going to 6 to Position(17, 19).
+Ship 24 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(17, 30).
+Ship 12 is action 3, going to Position(20, 24), with 84.
+Ship 24 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(17, 30).
+Ship 5 is action 3, going to Position(17, 30), with 416.
+Ship 24 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(17, 30).
+Ship 24 is action 3, going to Position(20, 25), with 68.
+==== TURN 106 TIME 23.6% ====
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(17, 19).
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(13, 24).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(17, 30).
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(22, 26).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(21, 27).
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(18, 18).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(12, 31).
+Ship 1 has action is 3.
+Ship 26 has action is 3.
+Ship 26 has target :Position(17, 31).
+Ship 26 is action 3, going to Position(12, 25), with 8.
+Ship 1 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(17, 31).
+Ship 17 has action is 6.
+Ship 17 is action 3, going to 6 to Position(16, 29).
+Ship 1 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(17, 31).
+Ship 7 is action 3, going to Position(17, 29), with 75.
+Ship 1 has action is 1.
+Ship 11 has action is 1.
+Ship 1 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(17, 31).
+Ship 12 is action 3, going to Position(19, 24), with 48.
+Ship 1 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(17, 31).
+Ship 19 is action 3, going to Position(18, 31), with 212.
+Ship 1 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(17, 31).
+Ship 24 is action 3, going to Position(19, 25), with 38.
+==== TURN 107 TIME 23.8% ====
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(16, 29).
+Ship 19 has action is stay.
+Ship 19 is action stay, staying at Position(18, 31).
+Ship 26 has action is stay.
+Ship 26 is action stay, staying at Position(12, 25).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(17, 19).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(17, 30).
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(22, 26).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(21, 27).
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(18, 18).
+Ship 1 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(17, 31).
+Ship 12 is action 3, going to Position(18, 24), with 39.
+Ship 1 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(17, 31).
+Ship 11 is action 3, going to Position(13, 24), with 0.
+Ship 1 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(17, 31).
+Ship 7 has action is 6.
+Ship 7 is action 3, going to 6 to Position(18, 29).
+Ship 1 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(17, 31).
+Ship 14 is action 3, going to Position(14, 24), with 9.
+Ship 1 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(17, 31).
+Ship 24 is action 3, going to Position(18, 25), with 87.
+Ship 1 has action is 1.
+Ship 1 has action is 1.
+==== TURN 108 TIME 24.0% ====
+Ship 19 has action is stay.
+Ship 19 is action stay, staying at Position(18, 31).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(17, 19).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(17, 30).
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(22, 26).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(21, 27).
+Ship 22 has action is 3.
+Ship 27 has action is 3.
+Ship 27 has target :Position(17, 31).
+Ship 27 is action 3, going to Position(13, 24), with 0.
+Ship 22 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(17, 31).
+Ship 12 is action 3, going to Position(17, 24), with 42.
+Ship 22 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(17, 31).
+Ship 11 is action 3, going to Position(14, 24), with 9.
+Ship 22 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(17, 31).
+Ship 7 is action 3, going to Position(17, 29), with 75.
+Ship 22 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(17, 31).
+Ship 14 is action 3, going to Position(15, 24), with 40.
+Ship 22 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(17, 31).
+Ship 24 is action 3, going to Position(17, 25), with 45.
+Ship 22 has action is 1.
+Ship 1 has action is 1.
+Ship 22 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(17, 31).
+Ship 17 is action 3, going to Position(16, 30), with 143.
+Ship 22 has action is 3.
+Ship 26 has action is 3.
+Ship 26 has target :Position(17, 31).
+Ship 26 is action 3, going to Position(13, 25), with 26.
+Ship 22 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(18, 16).
+Ship 22 is action 3, going to Position(18, 17), with 147.
+==== TURN 109 TIME 24.2% ====
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(14, 24).
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(17, 25).
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(18, 17).
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(15, 24).
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(16, 30).
+Ship 19 has action is stay.
+Ship 19 is action stay, staying at Position(18, 31).
+Ship 26 has action is stay.
+Ship 26 is action stay, staying at Position(13, 25).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(17, 19).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(17, 30).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(21, 27).
+Ship 9 has action is 3.
+Ship 27 has action is 3.
+Ship 27 has target :Position(17, 31).
+Ship 27 has action is 6.
+Ship 27 is action 3, going to 6 to Position(13, 23).
+Ship 9 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(17, 31).
+Ship 7 has action is 6.
+Ship 7 is action 3, going to 6 to Position(18, 29).
+Ship 9 has action is 1.
+Ship 1 has action is 1.
+Ship 9 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(17, 31).
+Ship 12 has action is 6.
+Ship 12 is action 3, going to 6 to Position(17, 23).
+Ship 9 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(17, 31).
+Ship 23 is action 3, going to Position(21, 26), with 95.
+==== TURN 110 TIME 24.4% ====
+Ship 27 has action is stay.
+Ship 27 is action stay, staying at Position(13, 23).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(17, 23).
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(18, 17).
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(16, 30).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(17, 19).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(17, 30).
+Ship 9 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(17, 31).
+Ship 7 is action 3, going to Position(17, 29), with 75.
+Ship 9 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(17, 31).
+Ship 23 is action 3, going to Position(20, 26), with 87.
+Ship 9 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(17, 31).
+Ship 11 is action 3, going to Position(15, 24), with 30.
+Ship 9 has action is 1.
+Ship 1 has action is 1.
+Ship 9 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(17, 31).
+Ship 24 is action 3, going to Position(17, 26), with 96.
+Ship 9 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(17, 31).
+Ship 14 is action 3, going to Position(16, 24), with 32.
+Ship 9 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(17, 31).
+Ship 19 is action 3, going to Position(17, 31), with 395.
+Ship 9 has action is 3.
+Ship 26 has action is 3.
+Ship 26 has target :Position(17, 31).
+Ship 26 is action 3, going to Position(14, 25), with 37.
+Ship 9 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(17, 31).
+Ship 9 is action 3, going to Position(20, 27), with 89.
+==== TURN 111 TIME 24.7% ====
+Ship 19 has action is stay.
+Ship 19 is action stay, staying at Position(17, 31).
+Ship 5 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(18, 16).
+Ship 11 is action 3, going to Position(16, 24), with 32.
+Ship 5 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(17, 32).
+Ship 9 is action 3, going to Position(19, 27), with 95.
+Ship 5 has action is 1.
+Ship 1 has action is 1.
+Ship 5 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(12, 32).
+Ship 24 is action 3, going to Position(16, 26), with 47.
+Ship 5 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(17, 32).
+Ship 7 is action 3, going to Position(17, 30), with 98.
+Ship 5 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(17, 32).
+Ship 23 is action 3, going to Position(19, 26), with 84.
+Ship 5 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(18, 16).
+Ship 14 is action 3, going to Position(17, 24), with 42.
+Ship 5 has action is 3.
+Ship 27 has action is 3.
+Ship 27 has target :Position(18, 16).
+Ship 27 is action 3, going to Position(14, 23), with 63.
+Ship 5 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(18, 16).
+Ship 12 is action 3, going to Position(18, 23), with 62.
+Ship 5 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(18, 16).
+Ship 22 is action 3, going to Position(18, 16), with 371.
+Ship 5 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(17, 32).
+Ship 17 is action 3, going to Position(16, 31), with 247.
+Ship 5 has action is 3.
+Ship 26 has action is 3.
+Ship 26 has target :Position(12, 32).
+Ship 26 is action 3, going to Position(13, 25), with 19.
+Ship 5 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(18, 16).
+Ship 3 is action 3, going to Position(18, 19), with 96.
+Ship 5 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(17, 32).
+Ship 5 has action is 6.
+Ship 5 is action 3, going to 6 to Position(18, 30).
+==== TURN 112 TIME 24.9% ====
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(18, 16).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(16, 24).
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(16, 26).
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(16, 31).
+Ship 19 has action is stay.
+Ship 19 is action stay, staying at Position(17, 31).
+Ship 19 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(12, 32).
+Ship 14 is action 3, going to Position(17, 25), with 33.
+Ship 19 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(17, 32).
+Ship 5 is action 3, going to Position(17, 30), with 98.
+Ship 19 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(17, 32).
+Ship 7 has action is 6.
+Ship 7 is action 3, going to 6 to Position(18, 30).
+Ship 19 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(17, 32).
+Ship 9 is action 3, going to Position(18, 27), with 69.
+Ship 19 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(12, 14).
+Ship 12 is action 3, going to Position(17, 23), with 33.
+Ship 19 has action is 1.
+Ship 1 has action is 1.
+Ship 19 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(12, 32).
+Ship 23 is action 3, going to Position(18, 26), with 81.
+Ship 19 has action is 3.
+Ship 27 has action is 3.
+Ship 27 has target :Position(12, 14).
+Ship 27 is action 3, going to Position(13, 23), with 69.
+Ship 19 has action is 3.
+Ship 26 has action is 3.
+Ship 26 has target :Position(12, 32).
+Ship 26 is action 3, going to Position(13, 26), with 60.
+Ship 19 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(12, 14).
+Ship 3 is action 3, going to Position(17, 19), with 80.
+==== TURN 113 TIME 25.1% ====
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(17, 25).
+Ship 26 has action is stay.
+Ship 26 is action stay, staying at Position(13, 26).
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(18, 16).
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(16, 31).
+Ship 19 has action is stay.
+Ship 19 is action stay, staying at Position(17, 31).
+Ship 19 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(17, 32).
+Ship 7 is action 3, going to Position(17, 30), with 98.
+Ship 19 has action is 3.
+Ship 27 has action is 3.
+Ship 27 has target :Position(12, 14).
+Ship 27 is action 3, going to Position(12, 23), with 51.
+Ship 19 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(17, 32).
+Ship 5 has action is 6.
+Ship 5 is action 3, going to 6 to Position(18, 30).
+Ship 19 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(12, 32).
+Ship 9 is action 3, going to Position(17, 27), with 81.
+Ship 19 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(12, 14).
+Ship 12 is action 3, going to Position(16, 23), with 72.
+Ship 19 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(12, 32).
+Ship 23 is action 3, going to Position(17, 26), with 96.
+Ship 19 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(12, 14).
+Ship 3 is action 3, going to Position(16, 19), with 79.
+Ship 19 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(12, 32).
+Ship 11 is action 3, going to Position(15, 24), with 30.
+Ship 19 has action is 1.
+Ship 1 has action is 1.
+Ship 19 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(12, 32).
+Ship 24 is action 3, going to Position(15, 26), with 45.
+==== TURN 114 TIME 25.3% ====
+Ship 27 has action is stay.
+Ship 27 is action stay, staying at Position(12, 23).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(16, 23).
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(18, 16).
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(16, 31).
+Ship 19 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(17, 32).
+Ship 5 is action 3, going to Position(17, 30), with 98.
+Ship 19 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(12, 32).
+Ship 24 is action 3, going to Position(14, 26), with 54.
+Ship 19 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(12, 32).
+Ship 1 is action 3, going to Position(12, 25), with 6.
+Ship 19 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(17, 32).
+Ship 7 is action 3, going to Position(17, 31), with 166.
+Ship 19 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(12, 32).
+Ship 9 is action 3, going to Position(16, 27), with 55.
+Ship 19 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(12, 32).
+Ship 23 is action 3, going to Position(16, 26), with 35.
+Ship 19 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(12, 32).
+Ship 11 is action 3, going to Position(14, 24), with 6.
+Ship 19 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(12, 32).
+Ship 14 is action 3, going to Position(16, 25), with 36.
+Ship 19 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(12, 14).
+Ship 3 is action 3, going to Position(15, 19), with 59.
+Ship 19 has action is 3.
+Ship 26 has action is 3.
+Ship 26 has target :Position(12, 32).
+Ship 26 is action 3, going to Position(12, 26), with 99.
+Ship 19 has action is 1.
+Ship 19 has action is 1.
+Ship 19 has action is 6.
+Ship 19 is action 1, going to 6 to Position(17, 32).
+==== TURN 115 TIME 25.6% ====
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(17, 31).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(12, 25).
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(18, 16).
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(16, 31).
+Ship 17 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(12, 32).
+Ship 9 is action 3, going to Position(15, 27), with 56.
+Ship 17 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(12, 32).
+Ship 11 is action 3, going to Position(13, 24), with 0.
+Ship 17 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(19, 33).
+Ship 5 is action 3, going to Position(18, 30), with 84.
+Ship 17 has action is 3.
+Ship 26 has action is 3.
+Ship 26 has target :Position(12, 32).
+Ship 26 is action 3, going to Position(12, 27), with 194.
+Ship 17 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(12, 14).
+Ship 3 is action 3, going to Position(14, 19), with 164.
+Ship 17 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(12, 32).
+Ship 24 is action 3, going to Position(13, 26), with 45.
+Ship 17 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(12, 32).
+Ship 23 is action 3, going to Position(15, 26), with 45.
+Ship 17 has action is 1.
+Ship 19 has action is 1.
+Ship 17 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(12, 32).
+Ship 14 is action 3, going to Position(15, 25), with 31.
+Ship 17 has action is 3.
+Ship 27 has action is 3.
+Ship 27 has target :Position(12, 14).
+Ship 27 is action 3, going to Position(12, 22), with 33.
+Ship 17 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(12, 14).
+Ship 12 is action 3, going to Position(15, 23), with 89.
+==== TURN 116 TIME 25.8% ====
+Ship 26 has action is stay.
+Ship 26 is action stay, staying at Position(12, 27).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(14, 19).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(17, 31).
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(13, 26).
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(18, 16).
+Ship 17 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(17, 32).
+Ship 5 is action 3, going to Position(17, 30), with 98.
+Ship 17 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(12, 32).
+Ship 23 is action 3, going to Position(14, 26), with 54.
+Ship 17 has action is 3.
+Ship 27 has action is 3.
+Ship 27 has target :Position(12, 14).
+Ship 27 is action 3, going to Position(12, 21), with 26.
+Ship 17 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(12, 32).
+Ship 9 is action 3, going to Position(14, 27), with 60.
+Ship 17 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(12, 32).
+Ship 11 is action 3, going to Position(12, 24), with 0.
+Ship 17 has action is 1.
+Ship 19 has action is 1.
+Ship 17 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(12, 32).
+Ship 14 is action 3, going to Position(14, 25), with 37.
+Ship 17 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(12, 14).
+Ship 12 is action 3, going to Position(14, 23), with 63.
+Ship 17 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(12, 32).
+Ship 1 is action 3, going to Position(12, 26), with 99.
+Ship 17 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(17, 32).
+Ship 17 is action 3, going to Position(16, 32), with 316.
+==== TURN 117 TIME 26.0% ====
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(14, 25).
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(16, 32).
+Ship 26 has action is stay.
+Ship 26 is action stay, staying at Position(12, 27).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(14, 19).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(12, 26).
+Ship 22 has action is 3.
+Ship 27 has action is 3.
+Ship 27 has target :Position(12, 14).
+Ship 27 is action 3, going to Position(12, 20), with 3.
+Ship 22 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(12, 32).
+Ship 9 is action 3, going to Position(13, 27), with 92.
+Ship 22 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(17, 32).
+Ship 5 is action 3, going to Position(17, 31), with 93.
+Ship 22 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(12, 32).
+Ship 23 is action 3, going to Position(13, 26), with 33.
+Ship 22 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(12, 32).
+Ship 11 is action 3, going to Position(12, 25), with 4.
+Ship 22 has action is 1.
+Ship 19 has action is 1.
+Ship 22 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(12, 14).
+Ship 12 is action 3, going to Position(13, 23), with 69.
+Ship 22 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(17, 32).
+Ship 7 is action 3, going to Position(17, 32), with 365.
+Ship 22 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(12, 32).
+Ship 24 has action is 6.
+Ship 24 is action 3, going to 6 to Position(14, 26).
+Ship 22 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(19, 12).
+Ship 22 is action 3, going to Position(19, 16), with 206.
+==== TURN 118 TIME 26.2% ====
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(12, 25).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(13, 23).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(17, 32).
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(19, 16).
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(16, 32).
+Ship 26 has action is stay.
+Ship 26 is action stay, staying at Position(12, 27).
+Ship 1 has action is 3.
+Ship 27 has action is 3.
+Ship 27 has target :Position(12, 14).
+Ship 27 is action 3, going to Position(12, 19), with 4.
+Ship 1 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(12, 32).
+Ship 9 is action 3, going to Position(13, 28), with 205.
+Ship 1 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(19, 33).
+Ship 5 is action 3, going to Position(18, 31), with 89.
+Ship 1 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(12, 32).
+Ship 23 is action 3, going to Position(12, 26), with 74.
+Ship 1 has action is 1.
+Ship 19 has action is 1.
+Ship 1 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(12, 32).
+Ship 14 is action 3, going to Position(13, 25), with 19.
+Ship 1 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(12, 14).
+Ship 3 is action 3, going to Position(13, 19), with 44.
+Ship 1 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(12, 32).
+Ship 24 is action 3, going to Position(13, 26), with 33.
+Ship 1 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(12, 32).
+Ship 1 has action is 6.
+Ship 1 is action 3, going to 6 to Position(11, 26).
+==== TURN 119 TIME 26.4% ====
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(13, 28).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(11, 26).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(17, 32).
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(19, 16).
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(16, 32).
+Ship 26 has action is 1.
+Ship 19 has action is 1.
+Ship 26 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(19, 33).
+Ship 5 is action 3, going to Position(19, 31), with 132.
+Ship 26 has action is 3.
+Ship 27 has action is 3.
+Ship 27 has target :Position(12, 14).
+Ship 27 is action 3, going to Position(12, 18), with 5.
+Ship 26 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(12, 32).
+Ship 23 is action 3, going to Position(12, 27), with 81.
+Ship 26 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(12, 32).
+Ship 14 is action 3, going to Position(12, 25), with 3.
+Ship 26 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(12, 32).
+Ship 24 is action 3, going to Position(12, 26), with 74.
+Ship 26 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(12, 32).
+Ship 11 has action is 6.
+Ship 11 is action 3, going to 6 to Position(11, 25).
+Ship 26 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(12, 14).
+Ship 12 is action 3, going to Position(12, 23), with 38.
+Ship 26 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(12, 14).
+Ship 3 is action 3, going to Position(12, 19), with 4.
+Ship 26 has action is 3.
+Ship 26 has action is 3.
+Ship 26 has target :Position(12, 32).
+Ship 26 is action 3, going to Position(12, 28), with 164.
+==== TURN 120 TIME 26.7% ====
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(11, 25).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 31).
+Ship 26 has action is stay.
+Ship 26 is action stay, staying at Position(12, 28).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(13, 28).
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(12, 26).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(11, 26).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(17, 32).
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(19, 16).
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(16, 32).
+Ship 17 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(12, 14).
+Ship 12 is action 3, going to Position(12, 22), with 33.
+Ship 17 has action is 1.
+Ship 19 has action is 1.
+Ship 17 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(10, 33).
+Ship 23 is action 3, going to Position(11, 27), with 73.
+Ship 17 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(12, 14).
+Ship 3 is action 3, going to Position(12, 18), with 5.
+Ship 17 has action is 3.
+Ship 27 has action is 3.
+Ship 27 has target :Position(12, 14).
+Ship 27 is action 3, going to Position(12, 17), with 9.
+Ship 17 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(19, 33).
+Ship 14 is action 3, going to Position(13, 25), with 19.
+==== TURN 121 TIME 26.9% ====
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(11, 25).
+Ship 26 has action is stay.
+Ship 26 is action stay, staying at Position(12, 28).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(13, 28).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(17, 32).
+Total Halite =9374.
+Total Halite =9374.
+Ship 17 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(12, 14).
+Ship 12 is action 3, going to Position(12, 21), with 26.
+Ship 17 has action is 1.
+Ship 19 has action is 1.
+Ship 17 has action is 3.
+Ship 27 has action is 3.
+Ship 27 has target :Position(12, 14).
+Ship 27 is action 3, going to Position(12, 16), with 25.
+Ship 17 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(12, 32).
+Ship 23 is action 3, going to Position(12, 27), with 81.
+Ship 17 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(12, 32).
+Ship 14 is action 3, going to Position(12, 25), with 3.
+Ship 17 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(19, 33).
+Ship 5 is action 3, going to Position(19, 32), with 250.
+Ship 17 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(12, 14).
+Ship 3 is action 3, going to Position(12, 17), with 9.
+Ship 17 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(12, 32).
+Ship 24 has action is 6.
+Ship 24 is action 3, going to 6 to Position(11, 26).
+Ship 17 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(12, 32).
+Ship 1 is action 3, going to Position(12, 26), with 55.
+Total Halite =9374.
+Ship 17 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(19, 12).
+Ship 22 is action 3, going to Position(19, 15), with 267.
+Ship 17 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(14, 34).
+Ship 17 is action 3, going to Position(15, 32), with 156.
+==== TURN 122 TIME 27.1% ====
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(15, 32).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 32).
+Total Halite =9898.
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(19, 15).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(11, 25).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(17, 32).
+Ship 7 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(12, 32).
+Ship 24 is action 3, going to Position(12, 26), with 55.
+Ship 7 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(12, 32).
+Ship 1 is action 3, going to Position(12, 27), with 81.
+Ship 7 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(12, 14).
+Ship 12 is action 3, going to Position(12, 20), with 3.
+Ship 7 has action is 1.
+Ship 19 has action is 1.
+Ship 7 has action is 3.
+Ship 27 has action is 3.
+Ship 27 has target :Position(12, 14).
+Ship 27 is action 3, going to Position(12, 15), with 56.
+Ship 7 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(12, 32).
+Ship 23 is action 3, going to Position(12, 28), with 92.
+Ship 7 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(12, 32).
+Ship 14 has action is 6.
+Ship 14 is action 3, going to 6 to Position(13, 25).
+Ship 7 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(12, 14).
+Ship 3 is action 3, going to Position(12, 16), with 25.
+Ship 7 has action is 3.
+Ship 26 has action is 3.
+Ship 26 has target :Position(12, 32).
+Ship 26 has action is 6.
+Ship 26 is action 3, going to 6 to Position(11, 28).
+Ship 7 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(12, 32).
+Ship 9 is action 3, going to Position(13, 29), with 84.
+==== TURN 123 TIME 27.3% ====
+Ship 26 has action is stay.
+Ship 26 is action stay, staying at Position(11, 28).
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(15, 32).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 32).
+Total Halite =9831.
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(19, 15).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(11, 25).
+Ship 7 has action is 3.
+Ship 27 has action is 3.
+Ship 27 has target :Position(12, 14).
+Ship 27 is action 3, going to Position(12, 14), with 404.
+Ship 7 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(12, 32).
+Ship 9 is action 3, going to Position(12, 29), with 180.
+Ship 7 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(12, 14).
+Ship 12 is action 3, going to Position(12, 19), with 4.
+Ship 7 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(12, 32).
+Ship 1 is action 3, going to Position(12, 28), with 92.
+Ship 7 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(12, 32).
+Ship 24 is action 3, going to Position(12, 27), with 81.
+Ship 7 has action is 1.
+Ship 19 has action is 1.
+Ship 19 has action is 6.
+Ship 19 is action 1, going to 6 to Position(12, 30).
+Ship 7 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(12, 32).
+Ship 23 has action is 6.
+Ship 23 is action 3, going to 6 to Position(13, 28).
+Ship 7 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(12, 32).
+Ship 14 is action 3, going to Position(12, 25), with 3.
+Ship 7 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(12, 14).
+Ship 3 is action 3, going to Position(12, 15), with 56.
+Ship 7 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(19, 33).
+Ship 7 is action 3, going to Position(18, 32), with 331.
+==== TURN 124 TIME 27.6% ====
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(18, 32).
+Ship 27 has action is stay.
+Ship 27 is action stay, staying at Position(12, 14).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(12, 29).
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(12, 27).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 32).
+Total Halite =9781.
+Total Halite =9781.
+Ship 11 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(12, 32).
+Ship 23 is action 3, going to Position(12, 28), with 92.
+Ship 11 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(7, 14).
+Ship 12 is action 3, going to Position(11, 19), with 27.
+Ship 11 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(12, 32).
+Ship 1 has action is 6.
+Ship 1 is action 3, going to 6 to Position(11, 28).
+Ship 11 has action is 1.
+Ship 19 has action is 1.
+Ship 19 has action is 6.
+Ship 19 is action 1, going to 6 to Position(11, 30).
+Ship 11 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(12, 32).
+Ship 14 is action 3, going to Position(12, 26), with 55.
+Ship 11 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(10, 13).
+Ship 3 is action 3, going to Position(11, 15), with 53.
+Ship 11 has action is 3.
+Ship 26 has action is 3.
+Ship 26 has target :Position(12, 32).
+Ship 26 is action 3, going to Position(11, 29), with 241.
+Ship 11 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(12, 32).
+Ship 17 is action 3, going to Position(14, 32), with 119.
+Total Halite =9781.
+Ship 11 has action is 1.
+Ship 22 has action is 1.
+Ship 11 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(12, 32).
+Ship 11 is action 3, going to Position(12, 25), with 3.
+==== TURN 125 TIME 27.8% ====
+Ship 26 has action is stay.
+Ship 26 is action stay, staying at Position(11, 29).
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(14, 32).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(18, 32).
+Ship 27 has action is stay.
+Ship 27 is action stay, staying at Position(12, 14).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(12, 29).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 32).
+Ship 5 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(12, 32).
+Ship 14 is action 3, going to Position(12, 27), with 60.
+Ship 5 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(12, 32).
+Ship 23 has action is 6.
+Ship 23 is action 3, going to 6 to Position(11, 28).
+Ship 5 has action is 1.
+Ship 19 has action is 1.
+Ship 5 has action is 1.
+Ship 22 has action is 1.
+Ship 5 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(7, 14).
+Ship 12 is action 3, going to Position(10, 19), with 46.
+Ship 5 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(10, 14).
+Ship 3 is action 3, going to Position(10, 15), with 132.
+Ship 5 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(12, 32).
+Ship 11 is action 3, going to Position(12, 26), with 55.
+Ship 5 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(12, 32).
+Ship 1 is action 3, going to Position(12, 28), with 92.
+Ship 5 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(12, 32).
+Ship 24 has action is 6.
+Ship 24 is action 3, going to 6 to Position(13, 27).
+==== TURN 126 TIME 28.0% ====
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(12, 27).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(10, 19).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(10, 15).
+Ship 26 has action is stay.
+Ship 26 is action stay, staying at Position(11, 29).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(18, 32).
+Ship 27 has action is stay.
+Ship 27 is action stay, staying at Position(12, 14).
+Ship 5 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(12, 32).
+Ship 11 has action is 6.
+Ship 11 is action 3, going to 6 to Position(11, 26).
+Ship 5 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(12, 32).
+Ship 23 is action 3, going to Position(12, 28), with 92.
+Ship 5 has action is 1.
+Ship 19 has action is 1.
+Ship 5 has action is 1.
+Ship 22 has action is 1.
+Ship 5 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(12, 32).
+Ship 1 has action is 6.
+Ship 1 is action 3, going to 6 to Position(11, 28).
+Ship 5 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(12, 32).
+Ship 24 is action 3, going to Position(13, 28), with 85.
+Ship 5 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(12, 32).
+Ship 17 is action 3, going to Position(13, 32), with 227.
+Ship 5 has action is 1.
+Ship 9 has action is 1.
+Ship 9 has action is 6.
+Ship 9 is action 1, going to 6 to Position(12, 30).
+Ship 5 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(19, 33).
+Ship 5 is action 3, going to Position(19, 33), with 442.
+==== TURN 127 TIME 28.2% ====
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(13, 32).
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 26 has action is stay.
+Ship 26 is action stay, staying at Position(11, 29).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(18, 32).
+Ship 27 has action is stay.
+Ship 27 is action stay, staying at Position(12, 14).
+Ship 27 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(12, 32).
+Ship 23 is action 3, going to Position(12, 29), with 101.
+Ship 27 has action is 1.
+Ship 19 has action is 1.
+Ship 27 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(12, 32).
+Ship 11 is action 3, going to Position(12, 26), with 55.
+Ship 27 has action is 1.
+Ship 22 has action is 1.
+Ship 27 has action is 1.
+Ship 9 has action is 1.
+Ship 9 has action is 6.
+Ship 9 is action 1, going to 6 to Position(11, 30).
+Ship 27 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(12, 32).
+Ship 1 has action is 6.
+Ship 1 is action 3, going to 6 to Position(11, 27).
+Ship 27 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(12, 32).
+Ship 24 is action 3, going to Position(13, 29), with 84.
+Ship 27 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(12, 32).
+Ship 14 has action is 6.
+Ship 14 is action 3, going to 6 to Position(13, 27).
+Ship 27 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(7, 14).
+Ship 12 is action 3, going to Position(9, 19), with 99.
+Ship 27 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(10, 14).
+Ship 3 is action 3, going to Position(10, 14), with 353.
+==== TURN 128 TIME 28.4% ====
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(12, 29).
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(13, 29).
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(13, 32).
+Total Halite =14549.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(10, 14).
+Ship 26 has action is stay.
+Ship 26 is action stay, staying at Position(11, 29).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(18, 32).
+Ship 27 has action is stay.
+Ship 27 is action stay, staying at Position(12, 14).
+Ship 27 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(12, 32).
+Ship 14 is action 3, going to Position(12, 27), with 45.
+Ship 27 has action is 1.
+Ship 19 has action is 1.
+Ship 19 has action is 6.
+Ship 19 is action 1, going to 6 to Position(11, 28).
+Ship 27 has action is 1.
+Ship 22 has action is 1.
+Ship 27 has action is 1.
+Ship 9 has action is 1.
+Ship 27 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(12, 32).
+Ship 11 has action is 6.
+Ship 11 is action 3, going to 6 to Position(11, 26).
+Ship 27 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(12, 32).
+Ship 1 has action is 6.
+Ship 1 is action 3, going to 6 to Position(10, 27).
+Ship 27 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(7, 14).
+Ship 12 is action 3, going to Position(8, 19), with 245.
+==== TURN 129 TIME 28.7% ====
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(12, 27).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(8, 19).
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(13, 32).
+Total Halite =14440.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(10, 14).
+Ship 27 has action is 1.
+Ship 19 has action is 1.
+Ship 27 has action is 1.
+Ship 22 has action is 1.
+Ship 27 has action is 1.
+Ship 9 has action is 1.
+Ship 27 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(12, 32).
+Ship 11 is action 3, going to Position(12, 26), with 55.
+Ship 27 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(12, 32).
+Ship 23 is action 3, going to Position(12, 30), with 303.
+Ship 27 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(12, 32).
+Ship 1 is action 3, going to Position(11, 27), with 73.
+Ship 27 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(12, 32).
+Ship 24 is action 3, going to Position(13, 30), with 93.
+Ship 27 has action is 3.
+Ship 26 has action is 3.
+Ship 26 has target :Position(12, 32).
+Ship 26 is action 3, going to Position(11, 30), with 199.
+Ship 27 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(20, 34).
+Ship 7 is action 3, going to Position(19, 32), with 78.
+Ship 27 has action is 3.
+Ship 27 has action is 3.
+Ship 27 has target :Position(10, 12).
+Ship 27 is action 3, going to Position(11, 14), with 177.
+==== TURN 130 TIME 28.9% ====
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(12, 30).
+Ship 27 has action is stay.
+Ship 27 is action stay, staying at Position(11, 14).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(8, 19).
+Total Halite =14409.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 26 has action is stay.
+Ship 26 is action stay, staying at Position(11, 30).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(10, 14).
+Ship 3 has action is 1.
+Ship 9 has action is 1.
+Ship 3 has action is 1.
+Ship 19 has action is 1.
+Ship 3 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(20, 33).
+Ship 7 is action 3, going to Position(20, 32), with 160.
+Ship 3 has action is 1.
+Ship 22 has action is 1.
+Ship 3 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(12, 32).
+Ship 11 has action is 6.
+Ship 11 is action 3, going to 6 to Position(11, 26).
+Ship 3 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(12, 32).
+Ship 1 is action 3, going to Position(11, 28), with 99.
+Ship 3 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(12, 32).
+Ship 24 is action 3, going to Position(13, 31), with 96.
+Ship 3 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(12, 32).
+Ship 14 has action is 6.
+Ship 14 is action 3, going to 6 to Position(13, 27).
+Ship 3 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(12, 32).
+Ship 17 is action 3, going to Position(12, 32), with 469.
+==== TURN 131 TIME 29.1% ====
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 32).
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(12, 32).
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(12, 30).
+Ship 27 has action is stay.
+Ship 27 is action stay, staying at Position(11, 14).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(8, 19).
+Total Halite =14409.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 26 has action is stay.
+Ship 26 is action stay, staying at Position(11, 30).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(10, 14).
+Ship 3 has action is 1.
+Ship 9 has action is 1.
+Ship 3 has action is 1.
+Ship 19 has action is 1.
+Ship 3 has action is 1.
+Ship 22 has action is 1.
+Ship 3 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(10, 33).
+Ship 11 is action 3, going to Position(10, 26), with 31.
+Ship 3 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(10, 33).
+Ship 24 is action 3, going to Position(12, 31), with 145.
+Ship 3 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(10, 33).
+Ship 1 is action 3, going to Position(10, 28), with 28.
+Ship 3 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(10, 33).
+Ship 14 is action 3, going to Position(13, 28), with 85.
+==== TURN 132 TIME 29.3% ====
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(12, 31).
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(13, 28).
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 32).
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(12, 32).
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(12, 30).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(8, 19).
+Total Halite =14369.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 26 has action is stay.
+Ship 26 is action stay, staying at Position(11, 30).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(10, 14).
+Ship 3 has action is 1.
+Ship 22 has action is 1.
+Ship 3 has action is 1.
+Ship 9 has action is 1.
+Ship 3 has action is 1.
+Ship 19 has action is 1.
+Ship 3 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(10, 33).
+Ship 11 is action 3, going to Position(10, 27), with 27.
+Ship 3 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(10, 33).
+Ship 1 is action 3, going to Position(10, 29), with 32.
+Ship 3 has action is 3.
+Ship 27 has action is 3.
+Ship 27 has target :Position(10, 13).
+Ship 27 is action 3, going to Position(11, 13), with 146.
+==== TURN 133 TIME 29.6% ====
+Ship 27 has action is stay.
+Ship 27 is action stay, staying at Position(11, 13).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(10, 29).
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(12, 31).
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(12, 30).
+Total Halite =14339.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 3 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(10, 33).
+Ship 11 is action 3, going to Position(10, 28), with 28.
+Ship 3 has action is 1.
+Ship 9 has action is 1.
+Ship 3 has action is 1.
+Ship 22 has action is 1.
+Ship 3 has action is 1.
+Ship 19 has action is 1.
+Ship 3 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(10, 33).
+Ship 14 is action 3, going to Position(12, 28), with 92.
+Ship 3 has action is 3.
+Ship 7 has action is 3.
+Ship 7 has target :Position(20, 33).
+Ship 7 is action 3, going to Position(20, 33), with 383.
+Ship 3 has action is 1.
+Ship 17 has action is 1.
+Ship 17 has action is 6.
+Ship 17 is action 1, going to 6 to Position(11, 32).
+Ship 3 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(7, 14).
+Ship 12 is action 3, going to Position(7, 19), with 82.
+Ship 3 has action is 3.
+Ship 26 has action is 3.
+Ship 26 has target :Position(10, 33).
+Ship 26 is action 3, going to Position(10, 30), with 40.
+Ship 3 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(9, 13).
+Ship 3 is action 3, going to Position(9, 14), with 138.
+==== TURN 134 TIME 29.8% ====
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(9, 14).
+Ship 27 has action is stay.
+Ship 27 is action stay, staying at Position(11, 13).
+Total Halite =14339.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 5 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(7, 14).
+Ship 12 is action 3, going to Position(7, 18), with 63.
+Ship 5 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(10, 33).
+Ship 14 is action 3, going to Position(11, 28), with 99.
+Ship 5 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(7, 14).
+Ship 19 is action 3, going to Position(11, 24), with 33.
+Ship 5 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(10, 33).
+Ship 11 is action 3, going to Position(10, 29), with 24.
+Ship 5 has action is 1.
+Ship 9 has action is 1.
+Ship 5 has action is 1.
+Ship 22 has action is 1.
+Ship 5 has action is 1.
+Ship 17 has action is 1.
+Ship 5 has action is 3.
+Ship 26 has action is 3.
+Ship 26 has target :Position(10, 33).
+Ship 26 is action 3, going to Position(10, 31), with 69.
+Ship 5 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(10, 33).
+Ship 1 is action 3, going to Position(10, 30), with 40.
+Ship 5 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(10, 33).
+Ship 24 is action 3, going to Position(11, 31), with 164.
+Ship 5 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(10, 33).
+Ship 23 is action 3, going to Position(11, 30), with 83.
+==== TURN 135 TIME 30.0% ====
+Ship 19 has action is stay.
+Ship 19 is action stay, staying at Position(11, 24).
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(11, 31).
+Total Halite =13188.
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(9, 14).
+Total Halite =14243.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 5 has action is 1.
+Ship 17 has action is 1.
+Ship 5 has action is 1.
+Ship 22 has action is 1.
+Ship 5 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(10, 33).
+Ship 14 is action 3, going to Position(10, 28), with 28.
+Ship 5 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(7, 14).
+Ship 12 is action 3, going to Position(7, 17), with 98.
+Ship 5 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(10, 33).
+Ship 11 is action 3, going to Position(10, 30), with 40.
+Ship 5 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(7, 14).
+Ship 9 is action 3, going to Position(12, 23), with 38.
+Ship 5 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(10, 33).
+Ship 1 is action 3, going to Position(10, 31), with 69.
+Ship 5 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(10, 33).
+Ship 23 has action is 6.
+Ship 23 is action 3, going to 6 to Position(12, 30).
+Ship 5 has action is 3.
+Ship 26 has action is 3.
+Ship 26 has target :Position(10, 33).
+Ship 26 is action 3, going to Position(10, 32), with 116.
+Ship 5 has action is 3.
+Ship 27 has action is 3.
+Ship 27 has target :Position(10, 12).
+Ship 27 is action 3, going to Position(10, 13), with 381.
+==== TURN 136 TIME 30.2% ====
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(10, 28).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(12, 23).
+Ship 27 has action is stay.
+Ship 27 is action stay, staying at Position(10, 13).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(10, 31).
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(11, 31).
+Total Halite =13116.
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Ship 26 has action is stay.
+Ship 26 is action stay, staying at Position(10, 32).
+Total Halite =14171.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 5 has action is 1.
+Ship 17 has action is 1.
+Ship 5 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(7, 14).
+Ship 12 is action 3, going to Position(7, 16), with 17.
+Ship 5 has action is 1.
+Ship 22 has action is 1.
+Ship 5 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(10, 33).
+Ship 11 has action is 6.
+Ship 11 is action 3, going to 6 to Position(9, 30).
+Ship 5 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(10, 33).
+Ship 23 is action 3, going to Position(11, 30), with 83.
+Ship 5 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(7, 14).
+Ship 19 is action 3, going to Position(10, 24), with 31.
+Ship 5 has action is 3.
+Ship 30 has action is 3.
+Ship 30 has target :Position(7, 14).
+Ship 30 is action 3, going to Position(11, 24), with 24.
+Ship 5 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(8, 13).
+Ship 3 is action 3, going to Position(8, 14), with 245.
+==== TURN 137 TIME 30.4% ====
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(9, 30).
+Ship 27 has action is stay.
+Ship 27 is action stay, staying at Position(10, 13).
+Ship 30 has action is stay.
+Ship 30 is action stay, staying at Position(11, 24).
+Total Halite =13062.
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(8, 14).
+Total Halite =14117.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 5 has action is 3.
+Ship 31 has action is 3.
+Ship 31 has target :Position(7, 14).
+Ship 31 is action 3, going to Position(12, 23), with 28.
+Ship 5 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(7, 14).
+Ship 12 is action 3, going to Position(7, 15), with 18.
+Ship 5 has action is 1.
+Ship 17 has action is 1.
+Ship 5 has action is 1.
+Ship 22 has action is 1.
+Ship 5 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(10, 33).
+Ship 23 is action 3, going to Position(10, 30), with 40.
+Ship 5 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(0, 28).
+Ship 19 is action 3, going to Position(9, 24), with 13.
+Ship 5 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(10, 33).
+Ship 14 is action 3, going to Position(10, 29), with 24.
+Ship 5 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(7, 14).
+Ship 9 is action 3, going to Position(11, 23), with 89.
+Ship 5 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(10, 33).
+Ship 1 is action 3, going to Position(10, 32), with 87.
+Ship 5 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(10, 33).
+Ship 24 is action 3, going to Position(10, 31), with 51.
+Ship 5 has action is 3.
+Ship 26 has action is 3.
+Ship 26 has target :Position(10, 33).
+Ship 26 is action 3, going to Position(10, 33), with 348.
+==== TURN 138 TIME 30.7% ====
+Ship 31 has action is stay.
+Ship 31 is action stay, staying at Position(12, 23).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(11, 23).
+Ship 27 has action is stay.
+Ship 27 is action stay, staying at Position(10, 13).
+Total Halite =13021.
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Ship 26 has action is stay.
+Ship 26 is action stay, staying at Position(10, 33).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(8, 14).
+Total Halite =14076.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 5 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(7, 14).
+Ship 12 is action 3, going to Position(7, 14), with 360.
+Ship 5 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(0, 28).
+Ship 19 is action 3, going to Position(8, 24), with 0.
+Ship 5 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(10, 34).
+Ship 24 is action 3, going to Position(10, 32), with 87.
+Ship 5 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(10, 34).
+Ship 1 has action is 6.
+Ship 1 is action 3, going to 6 to Position(11, 32).
+Ship 5 has action is 1.
+Ship 17 has action is 1.
+Ship 5 has action is 1.
+Ship 22 has action is 1.
+Ship 22 has action is 6.
+Ship 22 is action 1, going to 6 to Position(13, 22).
+Ship 5 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(10, 34).
+Ship 23 is action 3, going to Position(10, 31), with 51.
+Ship 5 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(10, 34).
+Ship 14 is action 3, going to Position(10, 30), with 40.
+Ship 5 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(10, 34).
+Ship 11 is action 3, going to Position(9, 31), with 39.
+Ship 5 has action is 3.
+Ship 30 has action is 3.
+Ship 30 has target :Position(7, 14).
+Ship 30 is action 3, going to Position(10, 24), with 31.
+==== TURN 139 TIME 30.9% ====
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(7, 14).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(11, 32).
+Ship 27 has action is stay.
+Ship 27 is action stay, staying at Position(10, 13).
+Total Halite =13019.
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Ship 26 has action is stay.
+Ship 26 is action stay, staying at Position(10, 33).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(8, 14).
+Total Halite =14074.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 5 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(10, 34).
+Ship 14 is action 3, going to Position(10, 31), with 51.
+Ship 5 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(0, 28).
+Ship 19 is action 3, going to Position(7, 24), with 6.
+Ship 5 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(10, 34).
+Ship 24 has action is 6.
+Ship 24 is action 3, going to 6 to Position(9, 32).
+Ship 5 has action is 1.
+Ship 17 has action is 1.
+Ship 5 has action is 1.
+Ship 22 has action is 1.
+Ship 5 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(10, 34).
+Ship 23 is action 3, going to Position(10, 32), with 87.
+Ship 5 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(10, 34).
+Ship 11 has action is 6.
+Ship 11 is action 3, going to 6 to Position(9, 30).
+Ship 5 has action is 3.
+Ship 31 has action is 3.
+Ship 31 has target :Position(8, 13).
+Ship 31 is action 3, going to Position(11, 23), with 66.
+Ship 5 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(8, 13).
+Ship 9 is action 3, going to Position(10, 23), with 76.
+Ship 5 has action is 3.
+Ship 30 has action is 3.
+Ship 30 has target :Position(0, 28).
+Ship 30 is action 3, going to Position(9, 24), with 13.
+==== TURN 140 TIME 31.1% ====
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(10, 31).
+Ship 31 has action is stay.
+Ship 31 is action stay, staying at Position(11, 23).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(7, 14).
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(9, 32).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(11, 32).
+Ship 27 has action is stay.
+Ship 27 is action stay, staying at Position(10, 13).
+Total Halite =13019.
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Ship 26 has action is stay.
+Ship 26 is action stay, staying at Position(10, 33).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(8, 14).
+Total Halite =14074.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 5 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(0, 28).
+Ship 9 is action 3, going to Position(9, 23), with 34.
+Ship 5 has action is 1.
+Ship 17 has action is 1.
+Ship 5 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(10, 34).
+Ship 23 has action is 6.
+Ship 5 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(0, 28).
+Ship 19 is action 3, going to Position(6, 24), with 19.
+Ship 5 has action is 1.
+Ship 22 has action is 1.
+Ship 5 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(10, 34).
+Ship 11 is action 3, going to Position(10, 30), with 40.
+Ship 5 has action is 3.
+Ship 30 has action is 3.
+Ship 30 has target :Position(0, 28).
+Ship 30 is action 3, going to Position(8, 24), with 0.
+==== TURN 141 TIME 31.3% ====
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(7, 14).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(11, 32).
+Total Halite =13019.
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Ship 26 has action is stay.
+Ship 26 is action stay, staying at Position(10, 33).
+Total Halite =14074.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 5 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(0, 28).
+Ship 9 is action 3, going to Position(8, 23), with 13.
+Ship 5 has action is 1.
+Ship 22 has action is 1.
+Ship 5 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(0, 28).
+Ship 19 is action 3, going to Position(5, 24), with 113.
+Ship 5 has action is 1.
+Ship 17 has action is 1.
+Ship 5 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(10, 34).
+Ship 11 is action 3, going to Position(10, 31), with 38.
+Ship 5 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(10, 34).
+Ship 23 has action is 6.
+Ship 23 is action 3, going to 6 to Position(9, 32).
+Ship 5 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(10, 34).
+Ship 14 is action 3, going to Position(10, 32), with 65.
+Ship 5 has action is 3.
+Ship 31 has action is 3.
+Ship 31 has target :Position(8, 13).
+Ship 31 is action 3, going to Position(10, 23), with 76.
+Ship 5 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(10, 34).
+Ship 24 is action 3, going to Position(9, 33), with 150.
+Ship 5 has action is 3.
+Ship 27 has action is 3.
+Ship 27 has target :Position(10, 12).
+Ship 27 is action 3, going to Position(10, 12), with 560.
+Ship 5 has action is 3.
+Ship 30 has action is 3.
+Ship 30 has target :Position(0, 28).
+Ship 30 is action 3, going to Position(7, 24), with 6.
+Ship 5 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(8, 13).
+Ship 3 is action 3, going to Position(8, 13), with 415.
+==== TURN 142 TIME 31.6% ====
+Ship 27 has action is stay.
+Ship 27 is action stay, staying at Position(10, 12).
+Ship 19 has action is stay.
+Ship 19 is action stay, staying at Position(5, 24).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(7, 14).
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(9, 33).
+Total Halite =13019.
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(8, 13).
+Ship 26 has action is stay.
+Ship 26 is action stay, staying at Position(10, 33).
+Total Halite =14074.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 5 has action is 3.
+Ship 31 has action is 3.
+Ship 31 has target :Position(0, 28).
+Ship 31 is action 3, going to Position(9, 23), with 34.
+Ship 5 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(0, 28).
+Ship 9 is action 3, going to Position(7, 23), with 76.
+Ship 5 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(10, 34).
+Ship 23 is action 3, going to Position(10, 32), with 65.
+Ship 5 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(10, 34).
+Ship 22 is action 3, going to Position(11, 24), with 18.
+Ship 5 has action is 1.
+Ship 17 has action is 1.
+Ship 5 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(10, 34).
+Ship 11 has action is 6.
+Ship 11 is action 3, going to 6 to Position(11, 31).
+Ship 5 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(10, 34).
+Ship 14 has action is 6.
+Ship 14 is action 3, going to 6 to Position(11, 32).
+Ship 5 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(10, 34).
+Ship 1 is action 3, going to Position(11, 33), with 235.
+Ship 5 has action is 3.
+Ship 30 has action is 3.
+Ship 30 has target :Position(0, 28).
+Ship 30 is action 3, going to Position(6, 24), with 19.
+==== TURN 143 TIME 31.8% ====
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(11, 32).
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(11, 24).
+Total Halite =11722.
+Ship 27 has action is stay.
+Ship 27 is action stay, staying at Position(10, 12).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(7, 14).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(11, 33).
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(9, 33).
+Ship 30 has action is stay.
+Ship 30 is action stay, staying at Position(6, 24).
+Total Halite =13019.
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Total Halite =11847.
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(8, 13).
+Total Halite =14074.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 5 has action is 3.
+Ship 31 has action is 3.
+Ship 31 has target :Position(0, 28).
+Ship 31 is action 3, going to Position(8, 23), with 13.
+Ship 5 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(10, 34).
+Ship 23 is action 3, going to Position(10, 33), with 81.
+Ship 5 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(10, 34).
+Ship 17 is action 3, going to Position(12, 25), with 3.
+Ship 5 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(0, 28).
+Ship 9 is action 3, going to Position(6, 23), with 19.
+Ship 5 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(10, 34).
+Ship 11 is action 3, going to Position(10, 31), with 38.
+Ship 5 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(0, 28).
+Ship 19 is action 3, going to Position(4, 24), with 11.
+Ship 5 has action is 3.
+Ship 26 has action is 3.
+Ship 26 has target :Position(10, 34).
+Ship 26 is action 3, going to Position(10, 34), with 459.
+==== TURN 144 TIME 32.0% ====
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(12, 25).
+Total Halite =11510.
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(11, 33).
+Total Halite =13019.
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Ship 26 has action is stay.
+Ship 26 is action stay, staying at Position(10, 34).
+Total Halite =11635.
+Total Halite =14074.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Total Halite =11510.
+Total Halite =11635.
+Ship 5 has action is 3.
+Ship 31 has action is 3.
+Ship 31 has target :Position(0, 28).
+Ship 31 is action 3, going to Position(7, 23), with 76.
+Ship 5 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(9, 34).
+Ship 23 is action 3, going to Position(9, 33), with 84.
+Ship 5 has action is 3.
+Ship 32 has action is 3.
+Ship 32 has target :Position(7, 34).
+Ship 32 is action 3, going to Position(11, 24), with 13.
+Ship 5 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(0, 28).
+Ship 9 is action 3, going to Position(5, 23), with 5.
+Ship 5 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(7, 34).
+Ship 11 is action 3, going to Position(9, 31), with 39.
+Ship 5 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(-1, 28).
+Ship 19 is action 3, going to Position(3, 24), with 4.
+Ship 5 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(9, 34).
+Ship 14 is action 3, going to Position(10, 32), with 65.
+Ship 5 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(0, 28).
+Ship 22 is action 3, going to Position(10, 24), with 31.
+Total Halite =11510.
+Ship 5 has action is 1.
+Ship 27 has action is 1.
+Ship 5 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(8, 12).
+Ship 12 is action 3, going to Position(8, 14), with 76.
+Ship 5 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(7, 34).
+Ship 24 is action 3, going to Position(8, 33), with 177.
+Ship 5 has action is 3.
+Ship 30 has action is 3.
+Ship 30 has target :Position(0, 28).
+Ship 30 is action 3, going to Position(5, 24), with 84.
+Total Halite =11635.
+Ship 5 has action is 1.
+Ship 3 has action is 1.
+==== TURN 145 TIME 32.2% ====
+Ship 31 has action is stay.
+Ship 31 is action stay, staying at Position(7, 23).
+Ship 32 has action is stay.
+Ship 32 is action stay, staying at Position(11, 24).
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(8, 33).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(11, 33).
+Ship 30 has action is stay.
+Ship 30 is action stay, staying at Position(5, 24).
+Total Halite =13019.
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Ship 26 has action is stay.
+Ship 26 is action stay, staying at Position(10, 34).
+Total Halite =14074.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 5 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(7, 34).
+Ship 23 is action 3, going to Position(9, 34), with 379.
+Ship 5 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(-1, 28).
+Ship 9 is action 3, going to Position(4, 23), with 11.
+Ship 5 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(7, 34).
+Ship 11 is action 3, going to Position(8, 31), with 50.
+Ship 5 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(-1, 28).
+Ship 19 is action 3, going to Position(2, 24), with 2.
+Ship 5 has action is 1.
+Ship 27 has action is 1.
+Ship 5 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(7, 34).
+Ship 14 is action 3, going to Position(9, 32), with 81.
+Ship 5 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(0, 28).
+Ship 22 is action 3, going to Position(9, 24), with 13.
+Ship 5 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(8, 12).
+Ship 12 is action 3, going to Position(8, 13), with 233.
+Ship 5 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(7, 34).
+Ship 17 is action 3, going to Position(11, 25), with 78.
+Ship 5 has action is 1.
+Ship 3 has action is 1.
+==== TURN 146 TIME 32.4% ====
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(8, 13).
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(11, 25).
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(9, 34).
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(9, 24).
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(8, 33).
+Total Halite =13019.
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Total Halite =14074.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 5 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(7, 34).
+Ship 11 is action 3, going to Position(7, 31), with 130.
+Ship 5 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(-1, 28).
+Ship 19 is action 3, going to Position(1, 24), with 16.
+Ship 5 has action is 1.
+Ship 27 has action is 1.
+Ship 5 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(7, 34).
+Ship 14 is action 3, going to Position(8, 32), with 9.
+Ship 5 has action is 3.
+Ship 31 has action is 3.
+Ship 31 has target :Position(0, 28).
+Ship 31 is action 3, going to Position(6, 23), with 19.
+Ship 5 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(-1, 28).
+Ship 9 is action 3, going to Position(3, 23), with 52.
+Ship 5 has action is 3.
+Ship 32 has action is 3.
+Ship 32 has target :Position(0, 28).
+Ship 32 is action 3, going to Position(10, 24), with 31.
+Ship 5 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(8, 35).
+Ship 1 is action 3, going to Position(10, 33), with 81.
+Ship 5 has action is 3.
+Ship 30 has action is 3.
+Ship 30 has target :Position(0, 28).
+Ship 30 is action 3, going to Position(4, 24), with 11.
+Ship 5 has action is 1.
+Ship 3 has action is 1.
+Ship 5 has action is 1.
+Ship 26 has action is 1.
+==== TURN 147 TIME 32.7% ====
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(7, 31).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(3, 23).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(8, 13).
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(9, 34).
+Total Halite =13019.
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Total Halite =14074.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 5 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(-1, 28).
+Ship 19 is action 3, going to Position(0, 24), with 2.
+Ship 5 has action is 1.
+Ship 27 has action is 1.
+Ship 5 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(7, 34).
+Ship 14 is action 3, going to Position(7, 32), with 71.
+Ship 5 has action is 3.
+Ship 31 has action is 3.
+Ship 31 has target :Position(0, 28).
+Ship 31 is action 3, going to Position(5, 23), with 5.
+Ship 5 has action is 3.
+Ship 32 has action is 3.
+Ship 32 has target :Position(0, 28).
+Ship 32 is action 3, going to Position(9, 24), with 9.
+Ship 5 has action is 1.
+Ship 3 has action is 1.
+Ship 5 has action is 1.
+Ship 26 has action is 1.
+Ship 5 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(7, 34).
+Ship 17 is action 3, going to Position(10, 25), with 91.
+Ship 5 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(0, 28).
+Ship 22 is action 3, going to Position(8, 24), with 0.
+Ship 5 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(8, 35).
+Ship 1 is action 3, going to Position(9, 33), with 84.
+Ship 5 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(7, 34).
+Ship 24 is action 3, going to Position(7, 33), with 87.
+Ship 5 has action is 3.
+Ship 30 has action is 3.
+Ship 30 has target :Position(-1, 28).
+Ship 30 is action 3, going to Position(3, 24), with 4.
+==== TURN 148 TIME 32.9% ====
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(7, 32).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(8, 13).
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(9, 34).
+Total Halite =13019.
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Total Halite =14074.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 5 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(0, 28).
+Ship 17 is action 3, going to Position(9, 25), with 26.
+Ship 5 has action is 1.
+Ship 27 has action is 1.
+Ship 5 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(-1, 28).
+Ship 19 is action 3, going to Position(47, 24), with 2.
+Ship 5 has action is 3.
+Ship 31 has action is 3.
+Ship 31 has target :Position(-1, 28).
+Ship 31 is action 3, going to Position(4, 23), with 11.
+Ship 5 has action is 1.
+Ship 26 has action is 1.
+Ship 5 has action is 1.
+Ship 3 has action is 1.
+Ship 5 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(0, 28).
+Ship 22 is action 3, going to Position(7, 24), with 6.
+Ship 5 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(7, 34).
+Ship 1 is action 3, going to Position(8, 33), with 99.
+Ship 5 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(7, 34).
+Ship 24 is action 3, going to Position(7, 34), with 435.
+Ship 5 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(7, 34).
+Ship 11 has action is 6.
+Ship 11 is action 3, going to 6 to Position(8, 31).
+Ship 5 has action is 3.
+Ship 32 has action is 3.
+Ship 32 has target :Position(0, 28).
+Ship 32 is action 3, going to Position(8, 24), with 0.
+Ship 5 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(-1, 28).
+Ship 9 is action 3, going to Position(2, 23), with 76.
+Ship 5 has action is 3.
+Ship 30 has action is 3.
+Ship 30 has target :Position(-1, 28).
+Ship 30 is action 3, going to Position(2, 24), with 2.
+==== TURN 149 TIME 33.1% ====
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(7, 34).
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(9, 34).
+Total Halite =13019.
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Total Halite =14074.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 5 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(47, 28).
+Ship 19 is action 3, going to Position(47, 25), with 79.
+Ship 5 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(0, 28).
+Ship 17 is action 3, going to Position(8, 25), with 117.
+Ship 5 has action is 1.
+Ship 27 has action is 1.
+Ship 5 has action is 3.
+Ship 31 has action is 3.
+Ship 31 has target :Position(-1, 28).
+Ship 31 is action 3, going to Position(3, 23), with 39.
+Ship 5 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(8, 35).
+Ship 11 is action 3, going to Position(8, 32), with 9.
+Ship 5 has action is 1.
+Ship 3 has action is 1.
+Ship 5 has action is 1.
+Ship 26 has action is 1.
+Ship 5 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(8, 35).
+Ship 1 is action 3, going to Position(8, 34), with 315.
+Ship 5 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(0, 28).
+Ship 22 is action 3, going to Position(6, 24), with 14.
+Ship 5 has action is 3.
+Ship 32 has action is 3.
+Ship 32 has target :Position(0, 28).
+Ship 32 is action 3, going to Position(7, 24), with 6.
+Ship 5 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(-1, 28).
+Ship 9 is action 3, going to Position(1, 23), with 30.
+Ship 5 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(8, 35).
+Ship 14 is action 3, going to Position(7, 33), with 87.
+Ship 5 has action is 3.
+Ship 12 has action is 3.
+Ship 12 has target :Position(8, 12).
+Ship 12 is action 3, going to Position(8, 12), with 718.
+Ship 5 has action is 3.
+Ship 30 has action is 3.
+Ship 30 has target :Position(-1, 28).
+Ship 30 is action 3, going to Position(1, 24), with 16.
+==== TURN 150 TIME 33.3% ====
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(8, 25).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(8, 12).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(8, 34).
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(7, 34).
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(9, 34).
+Total Halite =13019.
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Total Halite =14074.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 5 has action is 1.
+Ship 27 has action is 1.
+Ship 5 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(8, 35).
+Ship 11 is action 3, going to Position(8, 33), with 99.
+Ship 5 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(0, 28).
+Ship 22 is action 3, going to Position(5, 24), with 63.
+Ship 5 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(47, 28).
+Ship 19 is action 3, going to Position(47, 26), with 82.
+Ship 5 has action is 3.
+Ship 31 has action is 3.
+Ship 31 has target :Position(-1, 28).
+Ship 31 is action 3, going to Position(2, 23), with 76.
+Ship 5 has action is 1.
+Ship 26 has action is 1.
+Ship 5 has action is 1.
+Ship 3 has action is 1.
+Ship 5 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(8, 35).
+Ship 14 has action is 6.
+Ship 14 is action 3, going to 6 to Position(6, 33).
+Ship 5 has action is 3.
+Ship 32 has action is 3.
+Ship 32 has target :Position(0, 28).
+Ship 32 is action 3, going to Position(6, 24), with 14.
+Ship 5 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(-1, 28).
+Ship 9 is action 3, going to Position(0, 23), with 30.
+Ship 5 has action is 3.
+Ship 30 has action is 3.
+Ship 30 has target :Position(-1, 28).
+Ship 30 is action 3, going to Position(0, 24), with 2.
+==== TURN 151 TIME 33.6% ====
+Ship 22 has action is stay.
+Ship 22 is action stay, staying at Position(5, 24).
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(6, 33).
+Ship 32 has action is stay.
+Ship 32 is action stay, staying at Position(6, 24).
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(8, 12).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(8, 34).
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(7, 34).
+Total Halite =13019.
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Total Halite =14074.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 5 has action is 3.
+Ship 31 has action is 3.
+Ship 31 has target :Position(-1, 28).
+Ship 31 is action 3, going to Position(1, 23), with 30.
+Ship 5 has action is 3.
+Ship 19 has action is 3.
+Ship 19 has target :Position(47, 28).
+Ship 19 is action 3, going to Position(47, 27), with 103.
+Ship 5 has action is 1.
+Ship 27 has action is 1.
+Ship 5 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(8, 35).
+Ship 11 has action is 6.
+Ship 11 is action 3, going to 6 to Position(7, 33).
+Ship 5 has action is 1.
+Ship 26 has action is 1.
+Ship 5 has action is 1.
+Ship 3 has action is 1.
+Ship 5 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(-1, 28).
+Ship 9 is action 3, going to Position(47, 23), with 30.
+Ship 5 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(0, 28).
+Ship 17 is action 3, going to Position(7, 25), with 121.
+Ship 5 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(8, 35).
+Ship 23 is action 3, going to Position(9, 35), with 225.
+Ship 5 has action is 3.
+Ship 30 has action is 3.
+Ship 30 has target :Position(-1, 28).
+Ship 30 is action 3, going to Position(47, 24), with 2.
+==== TURN 152 TIME 33.8% ====
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(7, 25).
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(9, 35).
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(6, 33).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(47, 23).
+Total Halite =12122.
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(8, 12).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(8, 34).
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(7, 34).
+Total Halite =13019.
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Total Halite =14074.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 5 has action is 3.
+Ship 31 has action is 3.
+Ship 31 has target :Position(-1, 27).
+Ship 31 is action 3, going to Position(0, 23), with 30.
+Ship 5 has action is 1.
+Ship 27 has action is 1.
+Ship 5 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(8, 35).
+Ship 11 is action 3, going to Position(8, 33), with 99.
+Ship 5 has action is 1.
+Ship 26 has action is 1.
+Ship 5 has action is 1.
+Ship 3 has action is 1.
+Ship 5 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(0, 28).
+Ship 22 is action 3, going to Position(4, 24), with 11.
+Ship 5 has action is 3.
+Ship 32 has action is 3.
+Ship 32 has target :Position(0, 28).
+Ship 32 is action 3, going to Position(5, 24), with 47.
+Ship 5 has action is 3.
+Ship 30 has action is 3.
+Ship 30 has target :Position(47, 27).
+Ship 30 is action 3, going to Position(47, 25), with 79.
+==== TURN 153 TIME 34.0% ====
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(9, 35).
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(6, 33).
+Ship 32 has action is stay.
+Ship 32 is action stay, staying at Position(5, 24).
+Total Halite =12021.
+Ship 12 has action is stay.
+Ship 12 is action stay, staying at Position(8, 12).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(8, 34).
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(7, 34).
+Total Halite =13019.
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Total Halite =14074.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 5 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(-1, 27).
+Ship 22 is action 3, going to Position(3, 24), with 4.
+Ship 5 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(8, 35).
+Ship 11 has action is 6.
+Ship 11 is action 3, going to 6 to Position(7, 33).
+Ship 5 has action is 3.
+Ship 31 has action is 3.
+Ship 31 has target :Position(-1, 27).
+Ship 31 is action 3, going to Position(47, 23), with 22.
+Ship 5 has action is 1.
+Ship 27 has action is 1.
+Ship 5 has action is 1.
+Ship 3 has action is 1.
+Ship 5 has action is 1.
+Ship 26 has action is 1.
+Ship 5 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(0, 28).
+Ship 17 is action 3, going to Position(6, 25), with 49.
+Ship 5 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(47, 27).
+Ship 9 is action 3, going to Position(47, 24), with 2.
+Ship 5 has action is 3.
+Ship 30 has action is 3.
+Ship 30 has target :Position(47, 27).
+Ship 30 is action 3, going to Position(47, 26), with 82.
+==== TURN 154 TIME 34.2% ====
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(9, 35).
+Total Halite =11966.
+Ship 24 has action is stay.
+Ship 24 is action stay, staying at Position(7, 34).
+Total Halite =13019.
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Total Halite =14074.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Total Halite =11966.
+Ship 5 has action is 3.
+Ship 31 has action is 3.
+Ship 31 has target :Position(47, 27).
+Ship 31 is action 3, going to Position(47, 24), with 2.
+Ship 5 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(-1, 27).
+Ship 22 is action 3, going to Position(2, 24), with 2.
+Ship 5 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(8, 35).
+Ship 11 is action 3, going to Position(8, 33), with 99.
+Ship 5 has action is 1.
+Ship 27 has action is 1.
+Ship 5 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(0, 28).
+Ship 17 is action 3, going to Position(5, 25), with 18.
+Ship 5 has action is 1.
+Ship 3 has action is 1.
+Ship 5 has action is 1.
+Ship 26 has action is 1.
+Ship 5 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(8, 35).
+Ship 14 is action 3, going to Position(7, 33), with 87.
+Ship 5 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(47, 27).
+Ship 9 is action 3, going to Position(47, 25), with 79.
+Ship 5 has action is 3.
+Ship 32 has action is 3.
+Ship 32 has target :Position(0, 28).
+Ship 32 is action 3, going to Position(4, 24), with 11.
+Total Halite =11966.
+Ship 5 has action is 1.
+Ship 12 has action is 1.
+Ship 5 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(8, 35).
+Ship 1 is action 3, going to Position(8, 35), with 544.
+Ship 5 has action is 3.
+Ship 30 has action is 3.
+Ship 30 has target :Position(47, 27).
+Ship 30 is action 3, going to Position(47, 27), with 492.
+==== TURN 155 TIME 34.4% ====
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(8, 35).
+Ship 30 has action is stay.
+Ship 30 is action stay, staying at Position(47, 27).
+Total Halite =13019.
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Total Halite =14074.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 5 has action is 3.
+Ship 31 has action is 3.
+Ship 31 has target :Position(47, 28).
+Ship 31 is action 3, going to Position(47, 25), with 79.
+Ship 5 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(0, 28).
+Ship 17 is action 3, going to Position(4, 25), with 12.
+Ship 5 has action is 1.
+Ship 27 has action is 1.
+Ship 5 has action is 1.
+Ship 12 has action is 1.
+Ship 5 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(-1, 28).
+Ship 22 is action 3, going to Position(1, 24), with 16.
+Ship 5 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(10, 35).
+Ship 11 is action 3, going to Position(9, 33), with 84.
+Ship 5 has action is 1.
+Ship 3 has action is 1.
+Ship 5 has action is 1.
+Ship 26 has action is 1.
+Ship 5 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(4, 35).
+Ship 14 is action 3, going to Position(6, 33), with 97.
+Ship 5 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(47, 28).
+Ship 9 is action 3, going to Position(47, 26), with 82.
+Ship 5 has action is 3.
+Ship 32 has action is 3.
+Ship 32 has target :Position(-1, 28).
+Ship 32 is action 3, going to Position(3, 24), with 4.
+Ship 5 has action is 3.
+Ship 23 has action is 3.
+Ship 23 has target :Position(8, 36).
+Ship 23 is action 3, going to Position(9, 36), with 451.
+Ship 5 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(8, 36).
+Ship 24 is action 3, going to Position(8, 34), with 99.
+==== TURN 156 TIME 34.7% ====
+Ship 31 has action is stay.
+Ship 31 is action stay, staying at Position(47, 25).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(47, 26).
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(9, 36).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(8, 35).
+Ship 30 has action is stay.
+Ship 30 is action stay, staying at Position(47, 27).
+Total Halite =13019.
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Total Halite =14074.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 5 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(-1, 28).
+Ship 22 is action 3, going to Position(0, 24), with 2.
+Ship 5 has action is 1.
+Ship 27 has action is 1.
+Ship 5 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(10, 35).
+Ship 11 is action 3, going to Position(10, 33), with 81.
+Ship 5 has action is 3.
+Ship 14 has action is 3.
+Ship 14 has target :Position(4, 35).
+Ship 14 is action 3, going to Position(5, 33), with 228.
+Ship 5 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(0, 28).
+Ship 17 is action 3, going to Position(3, 25), with 51.
+Ship 5 has action is 3.
+Ship 32 has action is 3.
+Ship 32 has target :Position(-1, 28).
+Ship 32 is action 3, going to Position(2, 24), with 2.
+Ship 5 has action is 1.
+Ship 12 has action is 1.
+Ship 5 has action is 1.
+Ship 3 has action is 1.
+Ship 5 has action is 1.
+Ship 26 has action is 1.
+Ship 5 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(8, 36).
+Ship 24 has action is 6.
+Ship 24 is action 3, going to 6 to Position(8, 33).
+==== TURN 157 TIME 34.9% ====
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(5, 33).
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(9, 36).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(8, 35).
+Ship 30 has action is stay.
+Ship 30 is action stay, staying at Position(47, 27).
+Total Halite =13019.
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Total Halite =14074.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 5 has action is 1.
+Ship 12 has action is 1.
+Ship 5 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(-1, 28).
+Ship 22 is action 3, going to Position(47, 24), with 2.
+Ship 5 has action is 1.
+Ship 27 has action is 1.
+Ship 5 has action is 3.
+Ship 11 has action is 3.
+Ship 11 has target :Position(10, 35).
+Ship 11 is action 3, going to Position(10, 34), with 258.
+Ship 5 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(-1, 28).
+Ship 17 is action 3, going to Position(2, 25), with 7.
+Ship 5 has action is 1.
+Ship 3 has action is 1.
+Ship 5 has action is 1.
+Ship 26 has action is 1.
+Ship 26 has action is 6.
+Ship 26 is action 1, going to 6 to Position(11, 25).
+Ship 5 has action is 3.
+Ship 31 has action is 3.
+Ship 31 has target :Position(47, 28).
+Ship 31 is action 3, going to Position(47, 26), with 61.
+Ship 5 has action is 3.
+Ship 32 has action is 3.
+Ship 32 has target :Position(-1, 28).
+Ship 32 is action 3, going to Position(1, 24), with 16.
+Ship 5 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(47, 28).
+Ship 9 has action is 6.
+Ship 9 is action 3, going to 6 to Position(0, 26).
+Ship 5 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(10, 35).
+Ship 24 is action 3, going to Position(9, 33), with 84.
+==== TURN 158 TIME 35.1% ====
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(10, 34).
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(5, 33).
+Total Halite =16122.
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(9, 36).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(8, 35).
+Ship 30 has action is stay.
+Ship 30 is action stay, staying at Position(47, 27).
+Total Halite =13019.
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Total Halite =14074.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 5 has action is 3.
+Ship 31 has action is 3.
+Ship 31 has target :Position(47, 28).
+Ship 31 has action is 6.
+Ship 31 is action 3, going to 6 to Position(0, 26).
+Ship 5 has action is 1.
+Ship 12 has action is 1.
+Ship 5 has action is 1.
+Ship 26 has action is 1.
+Ship 5 has action is 1.
+Ship 3 has action is 1.
+Ship 5 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(47, 28).
+Ship 22 is action 3, going to Position(47, 25), with 59.
+Ship 5 has action is 3.
+Ship 27 has action is 3.
+Ship 27 has target :Position(19, 30).
+Ship 27 is action 3, going to Position(13, 24), with 0.
+Ship 5 has action is 3.
+Ship 32 has action is 3.
+Ship 32 has target :Position(-1, 28).
+Ship 32 is action 3, going to Position(0, 24), with 2.
+Ship 5 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(-1, 28).
+Ship 9 is action 3, going to Position(47, 26), with 61.
+Ship 5 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(-1, 28).
+Ship 17 is action 3, going to Position(1, 25), with 97.
+Ship 5 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(10, 35).
+Ship 24 is action 3, going to Position(10, 33), with 81.
+==== TURN 159 TIME 35.3% ====
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(10, 34).
+Ship 14 has action is stay.
+Ship 14 is action stay, staying at Position(5, 33).
+Total Halite =15892.
+Ship 23 has action is stay.
+Ship 23 is action stay, staying at Position(9, 36).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(8, 35).
+Ship 30 has action is stay.
+Ship 30 is action stay, staying at Position(47, 27).
+Total Halite =13019.
+Ship 7 has action is stay.
+Ship 7 is action stay, staying at Position(20, 33).
+Total Halite =14074.
+Ship 5 has action is stay.
+Ship 5 is action stay, staying at Position(19, 33).
+Ship 5 has action is 3.
+Ship 31 has action is 3.
+Ship 31 has target :Position(-1, 28).
+Ship 31 is action 3, going to Position(47, 26), with 61.
+Ship 5 has action is 1.
+Ship 12 has action is 1.
+Ship 5 has action is 3.
+Ship 17 has action is 3.
+Ship 17 has target :Position(-1, 28).
+Ship 17 is action 3, going to Position(0, 25), with 106.
+Ship 5 has action is 1.
+Ship 26 has action is 1.
+Ship 5 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(19, 30).
+Ship 3 is action 3, going to Position(13, 24), with 0.
+Ship 5 has action is 3.
+Ship 22 has action is 3.
+Ship 22 has target :Position(47, 28).
+Ship 22 has action is 6.
+Ship 5 has action is 3.
+Ship 27 has action is 3.
+Ship 27 has target :Position(19, 30).
+Ship 27 is action 3, going to Position(14, 24), with 6.
+Ship 5 has action is 3.
+Ship 9 has action is 3.
+Ship 9 has target :Position(47, 28).
+Ship 9 has action is 6.
+Ship 9 is action 3, going to 6 to Position(0, 26).
+Ship 5 has action is 3.
+Ship 32 has action is 3.
+Ship 32 has target :Position(-1, 28).
+Ship 32 is action 3, going to Position(47, 24), with 2.
+Ship 5 has action is 3.
+Ship 24 has action is 3.
+Ship 24 has target :Position(10, 35).
+Ship 24 has action is 6.
+Ship 24 is action 3, going to 6 to Position(11, 33).
+==== TURN 160 TIME 35.6% ====
+Ship 31 has action is stay.
+Ship 31 is action stay, staying at Position(47, 26).
+Ship 17 has action is stay.
+Ship 17 is action stay, staying at Position(0, 25).
+Ship 27 has action is stay.
+Ship 27 is action stay, staying at Position(14, 24).
+Ship 9 has action is stay.
+Ship 9 is action stay, staying at Position(0, 26).
+Ship 11 has action is stay.
+Ship 11 is action stay, staying at Position(10, 34).
+Total Halite =15720.
+Total Halite =12859.
+Ship 30 has action is stay.
+Ship 30 is action stay, staying at Position(47, 27).
+Total Halite =13019.
+Total Halite =14074.
+Total Halite =15720.
+Ship 23 has action is 2.
+Ship 23 is action 2, doing a dropoff at Position(9, 36).
+Total Halite =12859.

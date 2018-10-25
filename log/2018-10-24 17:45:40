@@ -1,0 +1,5 @@
+==== TURN 0 TIME 0.0% ====
+Successfully created bot! My Player ID is 0.Ship 1 has action is 3.
+Ship 1 has action is 3.Ship 1 has target :Position(11, 24).Ship 1 is action 3, going to Position(11, 24), with 489.Ship 1 has action is stay.Ship 1 is action stay, staying at Position(11, 24).Ship 1 has action is 3.
+Ship 3 has action is 3.Ship 3 has target :Position(12, 23).Ship 3 is action 3, going to Position(12, 23), with 451.Ship 3 has action is stay.Ship 3 is action stay, staying at Position(12, 23).Ship 1 has action is stay.Ship 1 is action stay, staying at Position(11, 24).Ship 1 has action is 3.
+Ship 5 has action is 3.Ship 5 has target :Position(11, 23).Ship 5 has action is 6.

@@ -1,0 +1,20 @@
+Successfully created bot! My Player ID is 0.
+==== TURN 0 TIME 0.0% ====
+Ship 1 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has target :Position(14, 26).
+Ship 1 is action 3, going to Position(13, 24), with 191.
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(13, 24).
+Ship 1 has action is 3.
+Ship 3 has action is 3.
+Ship 3 has target :Position(14, 26).
+Ship 3 is action 3, going to Position(12, 25), with 122.
+Ship 3 has action is stay.
+Ship 3 is action stay, staying at Position(12, 25).
+Ship 1 has action is stay.
+Ship 1 is action stay, staying at Position(13, 24).
+Ship 1 has action is 3.
+Ship 5 has action is 3.
+Ship 5 has target :Position(14, 26).
+Ship 5 has action is 6.
