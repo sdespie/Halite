@@ -11,6 +11,7 @@ from hlt import constants
 from hlt.positionals import *
 from hlt.positionals import *
 from hlt.perso_ft import *
+from hlt.perso_ship import *
 from hlt.entity import *
 from hlt.constants import *
 import random
@@ -18,24 +19,6 @@ import logging
 
 from time import gmtime, strftime
 
-
-
-def     detect_closest_worth(game_map, ship, me, game, val, max):
-    pos = ship.position
-    new_max = max
-    for i in range(pos.x - val, pos.x + val):
-        for j in range(pos.y - val, pos.y + val):
-            if game.game_map[Position(i,j)].halite_amount > new_max and game.game_map[Position(i,j)].is_occupied == False:
-                new_max = game.game_map[Position(i,j)].halite_amount
-                max_pos = Position(i,j)
-
-    if new_max > max :
-       #file.write("Ship {} has target :{}.\n".format(ship.id, max_pos))
-        return (max_pos)
-    elif val >= game_map.height / 2:
-        return (detect_closest_worth(game_map, ship, me, game, 1, max / 2))
-    else :
-        return (detect_closest_worth(game_map, ship, me, game, val + 1, max))
 
 def     check_best_spot(game_map, ship, me, game) :
     list = []
@@ -156,7 +139,7 @@ def     choose_action(ship, game_map, me, nbr_drop) :
    #         return ("stay")
    #     return(5)
 
-    if game_map[ship.position].halite_amount > ship.halite_amount * 10 and ship.position not in opp_pos:
+    if game_map[ship.position].halite_amount > ship.halite_amount * 10 and ship.position not in data.opp_pos:
         return ("stay")
 
     elif ship_status[ship.id] == "returning" :
@@ -167,7 +150,7 @@ def     choose_action(ship, game_map, me, nbr_drop) :
 
     elif ship_status[ship.id] == "exploring" :
         if data.nbr_drop < 2 and ship.halite_amount >= 800 \
-            and get_closest_drop_dist(ship, me, game_map) >= MAX_T / 17 / data.nbr_player \
+            and get_closest_drop_dist(ship, me, game_map) >= MAX_T / 14 / data.nbr_player \
             and game.turn_number < 0.75 * MAX_T and overall.check_halite_around(ship) > 12000 \
             and data.nbr_ships >= 8 and (data.on_hold == 0 or ship.id in data.drop_duty):
             if me.halite_amount + ship.halite_amount >= 4000 :
@@ -208,7 +191,7 @@ def     do_action(nbr, game_map, ship, me, game, data) :
         move = game_map.get_unsafe_moves(ship.position, get_closest_drop_pos(ship, me, game_map))
         for direction in move :
             direct = overall.get_correct_dir(ship.position, direction)
-            if direct not in data.planned_pos and direct not in data.planned_dest and direct not in opp_pos:
+            if direct not in data.planned_pos and direct not in data.planned_dest and direct not in data.opp_pos:
                 #file.write("Ship {} is action 1, going to {}.\n".format(ship.id, action, direct))
                 data.planned_dest.append(direct)
                 data.planned_pos.append(direct)
@@ -224,10 +207,10 @@ def     do_action(nbr, game_map, ship, me, game, data) :
 
     elif nbr == 3 :
         ship_status[ship.id] = "exploring"
-        move = game_map.get_unsafe_moves(ship.position, detect_closest_worth(game_map, ship, me, game, 1, data.max_radar))
+        move = game_map.get_unsafe_moves(ship.position, calc.detect_closest_worth(ship, 1, data.max_radar))
         for direction in move :
             direct = overall.get_correct_dir(ship.position, direction)
-            if direct not in data.planned_pos and direct not in data.planned_dest and direct not in opp_pos:
+            if direct not in data.planned_pos and direct not in data.planned_dest and direct not in data.opp_pos:
                #file.write("Ship {} is action {}, going to {}, with {}.\n".format(ship.id, action, direct, game_map[direct].halite_amount))
                 data.planned_dest.append(direct)
                 data.planned_pos.append(direct)
@@ -250,7 +233,7 @@ def     do_action(nbr, game_map, ship, me, game, data) :
         move = game_map.get_unsafe_moves(ship.position, get_best_pos(ship.position, 1, ship, me, game_map))
         for direction in move :
             direct = overall.get_correct_dir(ship.position, direction)
-            if direct not in data.planned_pos and direct not in data.planned_dest and direct not in opp_pos:
+            if direct not in data.planned_pos and direct not in data.planned_dest and direct not in data.opp_pos:
                #file.write("Ship {} is action {}, going to 6 to {}.\n".format(ship.id, action, direct))
                 data.planned_pos.append(direct)
                 data.planned_dest.append(direct)
@@ -275,24 +258,21 @@ ship_status = {}
 game.ready("AsgardBot")
 #file.write("Successfully created bot! My Player ID is {}.\n".format(game.my_id))
 
-
-
-
-
 MAX_T = constants.MAX_TURNS
 if (MAX_T < 450) :
     MAX_DROP = 2
 else :
     MAX_DROP = 3
 
-""" <<<Game Loop>>> """
 turtle_list = []
 data = Data_game()
 overall = Overall(game, data, game.me)
+calc = Calc(game, data, game.me)
 data.nbr_drop = 0
 data.on_hold = 0
 data.drop_duty = []
 
+""" <<<Game Loop>>> """
 while True:
 
    #file.write("==== TURN {} TIME {:3.1f}% ====\n".format(game.turn_number, 100 * game.turn_number / constants.MAX_TURNS))
@@ -313,7 +293,6 @@ while True:
         data.nbr_player = 0
         overall.get_players_nbr()
 
-    opp_pos = []
     overall.analyse_map()
 
     for ship in me.get_ships() :
@@ -383,10 +362,11 @@ while True:
                 else :
                     do_action(action, game_map, turtle, me, game, data)
 
-
+    ratio = (game_map.height - 32) / 8 * 0.05
+    max_turn = MAX_T * (0.5 + ratio)
     if data.construction == 0 and me.halite_amount >= constants.SHIP_COST and data.on_hold == 0:
         if  me.shipyard.position not in data.planned_pos :
-            if game.turn_number <= MAX_T / 3 * 2 / min(data.nbr_player, 3)  :#or nbr_ships < (MAX_T - game.turn_number) / 10 :
+            if game.turn_number <= max_turn  :#or nbr_ships < (MAX_T - game.turn_number) / 10 :
                 command_queue.append(me.shipyard.spawn())
 
                 #file.write("Je Sapwn!.\n".format())

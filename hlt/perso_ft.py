@@ -13,7 +13,6 @@ from .entity import *
 from .constants import *
 from .game_map import *
 import random
-import logging
 
 class Overall:
 
