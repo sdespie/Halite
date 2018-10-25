@@ -49,6 +49,7 @@ class Data_game() :
         self.planned_pos = []
         self.planned_dest = []
         self.opp_pos = []
+        self.drop_duty = {}
 
 
 
