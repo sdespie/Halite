@@ -1,0 +1,119 @@
+data.max_turn = 247.50000000000003.
+Successfully created bot! My Player ID is 0.
+==== TURN 0 TIME 0.0% ====
+J'ai fini la boucle
+J'aimerais peut etre spawn!.
+J'aimerais spawn!.
+Je Sapwn!.
+==== TURN 1 TIME 0.2% ====
+Je rentre la
+Je rentre ici
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+J'ai fini la boucle
+Ship 1 is in action.
+Ship 1 is in action.
+Ship 1 has action is exploring.
+Ship 1 has action is exploring.
+Ship 1 has 0 halite.
+Ship 1 is exploring, going to Position(13, 24), with 165.
+J'aimerais peut etre spawn!.
+J'aimerais spawn!.
+Je Sapwn!.
+==== TURN 2 TIME 0.4% ====
+Je rentre la
+Je rentre ici
+Je rentre la
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+Ship 1 has action is stay.
+Ship 1 has 0 halite.
+Ship 1 = Stay, staying at Position(13, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+J'ai fini la boucle
+Ship 2 is in action.
+Ship 2 is in action.
+Ship 2 has action is exploring.
+Ship 2 has action is exploring.
+Ship 2 has 0 halite.
+Ship 2 = Safety, going to 6 to Position(11, 24).
+J'aimerais peut etre spawn!.
+J'aimerais spawn!.
+Je Sapwn!.
+==== TURN 3 TIME 0.7% ====
+Je rentre la
+Je rentre ici
+Je rentre la
+Je rentre la
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+Ship 1 has action is stay.
+Ship 1 has 42 halite.
+Ship 1 = Stay, staying at Position(13, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay.
+Ship 2 has 0 halite.
+Ship 2 = Stay, staying at Position(11, 24).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+J'ai fini la boucle
+Ship 4 is in action.
+Ship 4 is in action.
+Ship 4 has action is exploring.
+Ship 4 has action is exploring.
+Ship 4 has 0 halite.
+Ship 4 = Safety, going to 6 to Position(12, 25).
+J'aimerais peut etre spawn!.
+J'aimerais spawn!.
+Je Sapwn!.
+==== TURN 4 TIME 0.9% ====
+Je rentre la
+Je rentre ici
+Je rentre la
+Je rentre la
+Je rentre la
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay.
+Ship 4 has 0 halite.
+Ship 4 = Stay, staying at Position(12, 25).
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+J'ai fini la boucle
+Ship 1 is in action.
+Ship 2 is in action.
+Ship 5 is in action.
+Ship 1 is in action.
+Ship 1 has action is exploring.
+Ship 1 has action is exploring.
+Ship 1 has 73 halite.
+Ship 1 is exploring, going to Position(14, 24), with 392.
+Ship 2 is in action.
+Ship 2 has action is exploring.
+Ship 2 has action is exploring.
+Ship 2 has 26 halite.
+Ship 2 is exploring, going to Position(10, 24), with 254.
+Ship 5 is in action.
+Ship 5 has action is exploring.
+Ship 5 has action is exploring.
+Ship 5 has 0 halite.
+Ship 5 is exploring, going to Position(13, 24), with 92.
+J'aimerais peut etre spawn!.
+J'aimerais spawn!.
+Je Sapwn!.
