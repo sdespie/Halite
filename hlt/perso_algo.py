@@ -26,7 +26,7 @@ class Action :
 
 
     def exploring(self, ship):
-        self.data.ship_status[ship.id] = "exploring"
+        self.data.turtle_list[ship.id].status = "exploring"
         move = self.game.game_map.get_unsafe_moves(ship.position, self.calc.detect_closest_worth(ship, 1, self.data.max_radar))
         for direction in move :
             direct = self.overall.get_correct_dir(ship.position, direction)
@@ -40,7 +40,7 @@ class Action :
 
 
     def returning(self, ship):
-        self.data.ship_status[ship.id] = "returning"
+        self.data.turtle_list[ship.id].status = "returning"
         move = self.game.game_map.get_unsafe_moves(ship.position, self.calc.get_closest_drop_pos(ship))
         for direction in move :
             direct = self.overall.get_correct_dir(ship.position, direction)
@@ -58,7 +58,6 @@ class Action :
     def make_dropoff(self, ship):
         self.file.write("---------Ship {} = Make Dropoff, doing a dropoff at {}.\n".format(ship.id, ship.position))
         self.data.command_queue.append(ship.make_dropoff())
-
 
 
 

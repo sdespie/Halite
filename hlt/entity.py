@@ -53,6 +53,7 @@ class Data_game() :
         self.max_turn_spawn = 0
         self.ship_status = {}
         self.command_queue = []
+        self.turtle_list = {}
 
 
 

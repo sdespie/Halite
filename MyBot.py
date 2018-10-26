@@ -83,13 +83,13 @@ def     choose_action(ship, game_map, me, nbr_drop) :
     if game_map[ship.position].halite_amount > ship.halite_amount * 10:
         return ("stay")
 
-    elif data.ship_status[ship.id] == "returning" :
+    elif data.turtle_list[ship.id].status == "returning" :
         if calc.get_closest_drop_dist(ship) == 0 :
             return ("exploring")
         else :
             return ("returning")
 
-    elif data.ship_status[ship.id] == "exploring" :
+    elif data.turtle_list[ship.id].status == "exploring" :
         if data.nbr_drop < MAX_DROP and ship.halite_amount >= 800 \
             and calc.get_closest_drop_dist(ship) >= MAX_T / 14 / data.nbr_player \
             and game.turn_number < 0.75 * MAX_T and overall.check_halite_around(ship) > 12000 \
@@ -151,39 +151,48 @@ def contains(list, filter):
             return True
     return False
 
-""" <<<Game Begin>>> """
+
+
+
+
+"""
+-----------------------------------------------------------<<<Game Begin>>>
+"""
 
 
 game = hlt.Game()
 
 file = open("log/" + strftime("%Y-%m-%d %H:%M:%S", gmtime()), "a")
 
-
-game.ready("AsgardBot-v33")
-file.write("Successfully created bot! My Player ID is {}.\n".format(game.my_id))
-
 MAX_T = constants.MAX_TURNS
-
-turtle_list = []
 data = Data_game()
 overall = Overall(game, data, game.me)
 calc = Calc(game, data, game.me)
 action = Action(game, data, game.me, game_map, file, calc, overall)
 data.nbr_drop = 0
 data.on_hold = 0
-data.ship_status = {}
+#data.ship_status = {}
 data.drop_duty = []
 data.nbr_player = len(game.players.values())
 ratio = (game.game_map.height - 32) / 16 * 0.05
 data.max_turn_spawn = MAX_T * (0.5 + ratio)
 file.write("data.max_turn = {}.\n".format(data.max_turn_spawn))
 
+
+data.turtle_list = {}
 if (MAX_T < 450) :
     MAX_DROP = 2
 else :
     MAX_DROP = 3
 
-""" <<<Game Loop>>> """
+game.ready("AsgardBot-v33")
+file.write("Successfully created bot! My Player ID is {}.\n".format(game.my_id))
+
+
+
+"""
+---------------------------<<<Game Loop>>>
+"""
 while True:
 
     file.write("==== TURN {} TIME {:3.1f}% ====\n".format(game.turn_number, 100 * game.turn_number / constants.MAX_TURNS))
@@ -197,17 +206,28 @@ while True:
     data.planned_pos = []
     data.planned_dest = []
     data.opp_pos = []
-    data.turtle_list = []
     data.nbr_turn_left = MAX_T - game.turn_number
 
 
     overall.analyse_map()
 
+
     for ship in me.get_ships() :
+        if ship.id not in data.turtle_list.keys():
+            turtle = Turtle(ship)
+            data.turtle_list[ship.id] = turtle
+            data.turtle_list[ship.id].status == "exploring"
+
+    for ship in me.get_ships() :
+        data.turtle_list[ship.id].position = ship.position
+        data.turtle_list[ship.id].halite_amount = ship.halite_amount
+
+
+    '''    ship = Turtle(ship)
         if calc.get_closest_drop_dist(ship) > data.max_turn_to_base :
             data.max_turn_to_base = calc.get_closest_drop_dist(ship)
-
-    ''''
+    '''
+    '''
     if  data.nbr_turn_left * 1.1 + data.nbr_ships < data.max_turn_to_base:
         for ship in me.get_ships():
             ship_busy.append(ship)
@@ -235,21 +255,16 @@ while True:
             turtle_list.remove(turtle.id)
     '''
 
-    for ship in me.get_ships():
-        ship = Turtle(ship)
-        turtle_list.append(ship)
-
-
-    for turtle in turtle_list:
-        if turtle.id not in data.ship_status:
-            data.ship_status[turtle.id] = "exploring"
+    for turtle in data.turtle_list.values():
+#        if turtle.id not in data.ship_status:
+#            data.ship_status[turtle.id] = "exploring"
         if turtle.busy == 0:
             choice = choose_action(turtle, game_map, me, data.nbr_drop)
             if choice == "stay" :
                 do_action(choice, game_map, turtle, me, game, data)
 
 
-    for turtle in turtle_list:
+    for turtle in data.turtle_list.values():
         if turtle.busy == 0 :
             choice = choose_action(turtle, game_map, me, data.nbr_drop)
             if choice == "dropoff" :
@@ -260,10 +275,10 @@ while True:
             if choice == "safety" or choice == "dropoff" :
                 do_action(choice, game_map, turtle, me, game, data)
 
-    for turtle in turtle_list:
+    for turtle in data.turtle_list.values():
         if turtle.busy == 0:
             choice = choose_action(turtle, game_map, me, data.nbr_drop)
-            file.write("Ship {} has action is {}.\n".format(ship.id, choice))
+            file.write("Ship {} has action is {}.\n".format(turtle.id, choice))
             if choice != "dropoff" and choice != "stay" and choice != "safety" or (choice == "dropoff" and data.construction > 1) :
                 if choice == "dropoff" :
                     do_action("exploring", game_map, turtle, me, game, data)
@@ -278,7 +293,6 @@ while True:
             if game.turn_number <= data.max_turn_spawn and data.on_hold == 0 :
                 data.command_queue.append(me.shipyard.spawn())
                 file.write("Je Sapwn!.\n".format())
-
 
     # Send your moves back to the game environment, ending this turn.
     game.end_turn(data.command_queue)
