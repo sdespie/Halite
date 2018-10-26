@@ -97,12 +97,12 @@ def     choose_action(ship, game_map, me, nbr_drop) :
             if me.halite_amount + ship.halite_amount + game_map[ship.position].halite_amount >= 4000 :
                 data.on_hold = 0
                 data.drop_duty = []
-                file.write("------Ship {} created dropoff.\n".format(ship.id))
+                file.write("Ship {} created dropoff.\n".format(ship.id))
                 return ("dropoff")
             else :
                 data.drop_duty.append(ship.id)
                 data.on_hold = 1
-                file.write("-------Ship {} staying for dropoff.\n".format(ship.id))
+                file.write("Ship {} staying for dropoff.\n".format(ship.id))
                 return ("stay")
 
         elif ship.halite_amount >= 950 :
@@ -120,8 +120,7 @@ def     choose_action(ship, game_map, me, nbr_drop) :
 
 # fait ce qui a ete deterniné dans la fonction choose_action
 def     do_action(nbr, game_map, ship, me, game, data) :
-    file.write("Ship {} has action is {}.\n".format(ship.id, nbr))
-    file.write("Ship {} has {} halite.\n".format(ship.id, ship.halite_amount))
+    file.write("Ship {} has action is {} and has {} halite.\n".format(ship.id, nbr, ship.halite_amount))
 
     turtle.busy = 1
 
@@ -266,9 +265,9 @@ while True:
             choice = choose_action(turtle, game_map, me, data.nbr_drop)
             if choice == "stay" :
                 do_action(choice, game_map, turtle, me, game, data)
-    file.write("J'ai fini la boucle\n")
 
 
+    #overall.sort_list()
     for turtle in data.turtle_list.values():
         if turtle.busy == 0 :
             choice = choose_action(turtle, game_map, me, data.nbr_drop)
@@ -283,7 +282,6 @@ while True:
     for turtle in data.turtle_list.values():
         if turtle.busy == 0:
             choice = choose_action(turtle, game_map, me, data.nbr_drop)
-            file.write("Ship {} has action is {}.\n".format(turtle.id, choice))
             if choice != "dropoff" and choice != "stay" and choice != "safety" or (choice == "dropoff" and data.construction > 1) :
                 if choice == "dropoff" :
                     do_action("exploring", game_map, turtle, me, game, data)
@@ -292,16 +290,14 @@ while True:
 
 
     if data.construction == 0 and me.halite_amount >= constants.SHIP_COST:
-        file.write("J'aimerais peut etre spawn!.\n".format())
         if  me.shipyard.position not in data.planned_pos and data.construction == 0:
-            file.write("J'aimerais spawn!.\n".format())
             if game.turn_number <= data.max_turn_spawn and data.on_hold == 0 :
                 data.command_queue.append(me.shipyard.spawn())
                 file.write("Je Sapwn!.\n".format())
 
     for turtle in data.turtle_list.values():
         turtle.busy = 0
-        
+
     # Send your moves back to the game environment, ending this turn.
     game.end_turn(data.command_queue)
 

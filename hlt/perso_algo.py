@@ -62,7 +62,7 @@ class Action :
 
 
     def safety(self, ship):
-        move = self.game.game_map.get_unsafe_moves(ship.position, self.calc.get_best_pos(ship.position, 1, ship))
+        move = self.game.game_map.get_unsafe_moves(ship.position, self.calc.get_best_pos(ship.position, ship))
         for direction in move :
             direct = self.overall.get_correct_dir(ship.position, direction)
             if direct not in  self.data.planned_pos and direct not in self.data.planned_dest and direct not in  self.data.opp_pos:
@@ -71,7 +71,6 @@ class Action :
                 self.data.planned_dest.append(direct)
                 self.data.command_queue.append(ship.move(direction))
                 return
-
 
 
     def stay (self, ship):
