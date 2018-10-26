@@ -135,6 +135,7 @@ def     do_action(nbr, game_map, ship, me, game, data) :
         action.exploring(ship)
 
     elif nbr == "stay" :
+
         action.stay(ship)
 
     elif nbr == "suicide" :
@@ -201,7 +202,6 @@ while True:
     game_map = game.game_map
     data.command_queue = []
     data.construction = 0
-    ship_busy = []
     data.nbr_ships = len(me.get_ships())
     data.planned_pos = []
     data.planned_dest = []
@@ -213,10 +213,12 @@ while True:
 
 
     for ship in me.get_ships() :
+        file.write("Je rentre la\n")
         if ship.id not in data.turtle_list.keys():
+            file.write("Je rentre ici\n")
             turtle = Turtle(ship)
             data.turtle_list[ship.id] = turtle
-            data.turtle_list[ship.id].status == "exploring"
+            data.turtle_list[ship.id].status = "exploring"
 
     for ship in me.get_ships() :
         data.turtle_list[ship.id].position = ship.position
@@ -256,12 +258,15 @@ while True:
     '''
 
     for turtle in data.turtle_list.values():
+        file.write("data.turtle_list.ID = {}.\n".format(turtle.id))
+        file.write("data.turtle_list.STATUS = {}.\n".format(turtle.status))
 #        if turtle.id not in data.ship_status:
 #            data.ship_status[turtle.id] = "exploring"
         if turtle.busy == 0:
             choice = choose_action(turtle, game_map, me, data.nbr_drop)
             if choice == "stay" :
                 do_action(choice, game_map, turtle, me, game, data)
+    file.write("J'ai fini la boucle\n")
 
 
     for turtle in data.turtle_list.values():
@@ -294,8 +299,10 @@ while True:
                 data.command_queue.append(me.shipyard.spawn())
                 file.write("Je Sapwn!.\n".format())
 
+    for turtle in data.turtle_list.values():
+        turtle.busy = 0
+        
     # Send your moves back to the game environment, ending this turn.
     game.end_turn(data.command_queue)
-
 
 file.close()

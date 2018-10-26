@@ -31,7 +31,7 @@ class Action :
         for direction in move :
             direct = self.overall.get_correct_dir(ship.position, direction)
             if direct not in self.data.planned_pos and direct not in self.data.planned_dest and direct not in self.data.opp_pos:
-                self.file.write("Ship {} is safety, going to {}, with {}.\n".format(ship.id, direct, self.game.game_map[direct].halite_amount))
+                self.file.write("Ship {} is exploring, going to {}, with {}.\n".format(ship.id, direct, self.game.game_map[direct].halite_amount))
                 self.data.planned_dest.append(direct)
                 self.data.planned_pos.append(direct)
                 self.data.command_queue.append(ship.move(direction))
