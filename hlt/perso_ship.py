@@ -38,7 +38,7 @@ class Calc :
             return (Calc.detect_closest_worth(self, ship, val + 1, max))
 
 
-#defini la prochaine position que prendre le ship
+    #defini la prochaine position que prendre le ship
     def     get_next_pos(self, ship, objectif) :
         move = self.game.game_map.get_unsafe_moves(ship.position, objectif)
         for direction in move :
@@ -65,3 +65,27 @@ class Calc :
                 min = self.game.game_map.calculate_distance(ship.position, dropoff.position)
                 pos = dropoff.position
         return (pos)
+
+
+    def    get_best_pos(self, pos, mode, ship) :
+        if mode == 1 :
+            max = 0
+            direction = pos
+            for posi in pos.get_surrounding_cardinals() :
+                if self.game.game_map[posi].halite_amount >= max \
+                and posi not in self.data.planned_pos \
+                and posi not in self.data.opp_pos:
+                    direction = posi
+                    max = self.game.game_map[posi].halite_amount
+
+        else :
+            min = self.game.game_map[pos].halite_amount
+            direction = pos
+            for posi in pos.get_surrounding_cardinals() :
+                if self.game.game_map[posi].halite_amount < max \
+                and not self.game.game_map[posi].is_occupied \
+                and posi not in self.data.opp_pos:
+                    direction = posi
+                    max = game_map[posi].halite_amount
+
+        return (direction)
