@@ -1,0 +1,354 @@
+Successfully created bot! My Player ID is 0.
+data.max_turn = 247.50000000000003.
+==== TURN 0 TIME 0.0% ====
+J'aimerais peut etre spawn!.
+J'aimerais spawn!.
+Je Sapwn!.
+==== TURN 1 TIME 0.2% ====
+Ship 1 is in action.
+Ship 1 is in action.
+Ship 1 is in action.
+Ship 1 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has 0 halite.
+Ship 1 is action <hlt.perso_algo.Action object at 0x102fd4080>, going to Position(12, 23), with 64.
+J'aimerais peut etre spawn!.
+J'aimerais spawn!.
+Je Sapwn!.
+==== TURN 2 TIME 0.4% ====
+Ship 2 is in action.
+Ship 1 is in action.
+Ship 1 has action is stay.
+Ship 1 has 0 halite.
+Ship 1 = Stay, staying at Position(12, 23).
+Ship 2 is in action.
+Ship 2 is in action.
+Ship 1 has action is 3.
+Ship 2 has action is 3.
+Ship 2 has 0 halite.
+Ship 2 has action is 6.
+Ship 2 has 0 halite.
+J'aimerais peut etre spawn!.
+J'aimerais spawn!.
+Je Sapwn!.
+==== TURN 3 TIME 0.7% ====
+Ship 1 is in action.
+Ship 1 is in action.
+Ship 1 is in action.
+Ship 1 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has 16 halite.
+Ship 1 is action <hlt.perso_algo.Action object at 0x102fd4080>, going to Position(12, 22), with 59.
+J'aimerais peut etre spawn!.
+J'aimerais spawn!.
+Je Sapwn!.
+==== TURN 4 TIME 0.9% ====
+Ship 4 is in action.
+Ship 1 is in action.
+Ship 4 is in action.
+Ship 1 is in action.
+Ship 4 is in action.
+Ship 1 has action is 3.
+Ship 4 has action is 3.
+Ship 4 has 0 halite.
+Ship 4 is action <hlt.perso_algo.Action object at 0x102fd4080>, going to Position(12, 23), with 48.
+Ship 1 is in action.
+Ship 1 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has 12 halite.
+Ship 1 is action <hlt.perso_algo.Action object at 0x102fd4080>, going to Position(12, 21), with 138.
+J'aimerais peut etre spawn!.
+J'aimerais spawn!.
+Je Sapwn!.
+==== TURN 5 TIME 1.1% ====
+Ship 4 is in action.
+Ship 4 has action is stay.
+Ship 4 has 0 halite.
+Ship 4 = Stay, staying at Position(12, 23).
+Ship 6 is in action.
+Ship 1 is in action.
+Ship 1 has action is stay.
+Ship 1 has 7 halite.
+Ship 1 = Stay, staying at Position(12, 21).
+Ship 6 is in action.
+Ship 6 is in action.
+Ship 1 has action is 3.
+Ship 6 has action is 3.
+Ship 6 has 0 halite.
+Ship 6 has action is 6.
+Ship 6 has 0 halite.
+==== TURN 6 TIME 1.3% ====
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 1 is in action.
+Ship 1 has action is stay.
+Ship 1 has 42 halite.
+Ship 1 = Stay, staying at Position(12, 21).
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 4 is in action.
+Ship 1 has action is 3.
+Ship 4 has action is 3.
+Ship 4 has 12 halite.
+Ship 4 is action <hlt.perso_algo.Action object at 0x102fd4080>, going to Position(12, 22), with 59.
+Ship 6 is in action.
+Ship 1 has action is 3.
+Ship 6 has action is 3.
+Ship 6 has 0 halite.
+Ship 6 is action <hlt.perso_algo.Action object at 0x102fd4080>, going to Position(12, 23), with 36.
+==== TURN 7 TIME 1.6% ====
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 6 has action is stay.
+Ship 6 has 0 halite.
+Ship 6 = Stay, staying at Position(12, 23).
+Ship 1 is in action.
+Ship 4 is in action.
+Ship 1 is in action.
+Ship 4 is in action.
+Ship 1 has action is 3.
+Ship 4 has action is 3.
+Ship 4 has 9 halite.
+Ship 4 is action <hlt.perso_algo.Action object at 0x102fd4080>, going to Position(12, 21), with 77.
+Ship 1 is in action.
+Ship 1 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has 68 halite.
+Ship 1 is action <hlt.perso_algo.Action object at 0x102fd4080>, going to Position(12, 20), with 453.
+==== TURN 8 TIME 1.8% ====
+Ship 4 is in action.
+Ship 4 has action is stay.
+Ship 4 has 4 halite.
+Ship 4 = Stay, staying at Position(12, 21).
+Ship 1 is in action.
+Ship 1 has action is stay.
+Ship 1 has 61 halite.
+Ship 1 = Stay, staying at Position(12, 20).
+Ship 6 is in action.
+Ship 6 is in action.
+Ship 6 is in action.
+Ship 6 has action is 3.
+Ship 6 has action is 3.
+Ship 6 has 9 halite.
+Ship 6 is action <hlt.perso_algo.Action object at 0x102fd4080>, going to Position(13, 23), with 85.
+==== TURN 9 TIME 2.0% ====
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 6 has action is stay.
+Ship 6 has 7 halite.
+Ship 6 = Stay, staying at Position(13, 23).
+Ship 1 is in action.
+Ship 1 has action is stay.
+Ship 1 has 175 halite.
+Ship 1 = Stay, staying at Position(12, 20).
+Ship 4 is in action.
+Ship 4 is in action.
+Ship 1 has action is 3.
+Ship 4 has action is 3.
+Ship 4 has 24 halite.
+Ship 4 is action <hlt.perso_algo.Action object at 0x102fd4080>, going to Position(13, 21), with 288.
+==== TURN 10 TIME 2.2% ====
+Ship 4 is in action.
+Ship 4 has action is stay.
+Ship 4 has 19 halite.
+Ship 4 = Stay, staying at Position(13, 21).
+Ship 6 is in action.
+Ship 1 is in action.
+Ship 1 has action is stay.
+Ship 1 has 260 halite.
+Ship 1 = Stay, staying at Position(12, 20).
+Ship 6 is in action.
+Ship 6 is in action.
+Ship 1 has action is 3.
+Ship 6 has action is 3.
+Ship 6 has 29 halite.
+Ship 6 is action <hlt.perso_algo.Action object at 0x102fd4080>, going to Position(14, 23), with 338.
+==== TURN 11 TIME 2.4% ====
+Ship 4 is in action.
+Ship 4 has action is stay.
+Ship 4 has 91 halite.
+Ship 4 = Stay, staying at Position(13, 21).
+Ship 6 is in action.
+Ship 6 has action is stay.
+Ship 6 has 23 halite.
+Ship 6 = Stay, staying at Position(14, 23).
+Ship 1 is in action.
+Ship 1 has action is stay.
+Ship 1 has 324 halite.
+Ship 1 = Stay, staying at Position(12, 20).
+==== TURN 12 TIME 2.7% ====
+Ship 4 is in action.
+Ship 4 has action is stay.
+Ship 4 has 145 halite.
+Ship 4 = Stay, staying at Position(13, 21).
+Ship 6 is in action.
+Ship 6 has action is stay.
+Ship 6 has 108 halite.
+Ship 6 = Stay, staying at Position(14, 23).
+Ship 1 is in action.
+Ship 1 has action is stay.
+Ship 1 has 372 halite.
+Ship 1 = Stay, staying at Position(12, 20).
+==== TURN 13 TIME 2.9% ====
+Ship 4 is in action.
+Ship 4 has action is stay.
+Ship 4 has 186 halite.
+Ship 4 = Stay, staying at Position(13, 21).
+Ship 6 is in action.
+Ship 6 has action is stay.
+Ship 6 has 172 halite.
+Ship 6 = Stay, staying at Position(14, 23).
+Ship 1 is in action.
+Ship 1 has action is stay.
+Ship 1 has 408 halite.
+Ship 1 = Stay, staying at Position(12, 20).
+==== TURN 14 TIME 3.1% ====
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 6 has action is stay.
+Ship 6 has 220 halite.
+Ship 6 = Stay, staying at Position(14, 23).
+Ship 1 is in action.
+Ship 4 is in action.
+Ship 1 is in action.
+Ship 4 is in action.
+Ship 1 has action is 3.
+Ship 4 has action is 3.
+Ship 4 has 217 halite.
+Ship 4 is action <hlt.perso_algo.Action object at 0x102fd4080>, going to Position(14, 21), with 218.
+Ship 1 is in action.
+Ship 1 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has 435 halite.
+Ship 1 is action <hlt.perso_algo.Action object at 0x102fd4080>, going to Position(13, 20), with 223.
+==== TURN 15 TIME 3.3% ====
+Ship 4 is in action.
+Ship 4 has action is stay.
+Ship 4 has 208 halite.
+Ship 4 = Stay, staying at Position(14, 21).
+Ship 1 is in action.
+Ship 1 has action is stay.
+Ship 1 has 428 halite.
+Ship 1 = Stay, staying at Position(13, 20).
+Ship 6 is in action.
+Ship 6 has action is stay.
+Ship 6 has 256 halite.
+Ship 6 = Stay, staying at Position(14, 23).
+==== TURN 16 TIME 3.6% ====
+Ship 4 is in action.
+Ship 4 has action is stay.
+Ship 4 has 263 halite.
+Ship 4 = Stay, staying at Position(14, 21).
+Ship 1 is in action.
+Ship 1 has action is stay.
+Ship 1 has 484 halite.
+Ship 1 = Stay, staying at Position(13, 20).
+Ship 6 is in action.
+Ship 6 is in action.
+Ship 6 is in action.
+Ship 6 has action is 3.
+Ship 6 has action is 3.
+Ship 6 has 283 halite.
+Ship 6 is action <hlt.perso_algo.Action object at 0x102fd4080>, going to Position(15, 23), with 328.
+==== TURN 17 TIME 3.8% ====
+Ship 4 is in action.
+Ship 4 has action is stay.
+Ship 4 has 304 halite.
+Ship 4 = Stay, staying at Position(14, 21).
+Ship 6 is in action.
+Ship 6 has action is stay.
+Ship 6 has 276 halite.
+Ship 6 = Stay, staying at Position(15, 23).
+Ship 1 is in action.
+Ship 1 has action is stay.
+Ship 1 has 526 halite.
+Ship 1 = Stay, staying at Position(13, 20).
+==== TURN 18 TIME 4.0% ====
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 6 has action is stay.
+Ship 6 has 358 halite.
+Ship 6 = Stay, staying at Position(15, 23).
+Ship 1 is in action.
+Ship 4 is in action.
+Ship 1 is in action.
+Ship 4 is in action.
+Ship 1 has action is 3.
+Ship 4 has action is 3.
+Ship 4 has 335 halite.
+Ship 4 is action <hlt.perso_algo.Action object at 0x102fd4080>, going to Position(15, 21), with 449.
+Ship 1 is in action.
+Ship 1 has action is 3.
+Ship 1 has action is 3.
+Ship 1 has 558 halite.
+Ship 1 is action <hlt.perso_algo.Action object at 0x102fd4080>, going to Position(14, 20), with 304.
+==== TURN 19 TIME 4.2% ====
+Ship 4 is in action.
+Ship 4 has action is stay.
+Ship 4 has 326 halite.
+Ship 4 = Stay, staying at Position(15, 21).
+Ship 1 is in action.
+Ship 1 has action is stay.
+Ship 1 has 549 halite.
+Ship 1 = Stay, staying at Position(14, 20).
+Ship 6 is in action.
+Ship 6 has action is stay.
+Ship 6 has 420 halite.
+Ship 6 = Stay, staying at Position(15, 23).
+==== TURN 20 TIME 4.4% ====
+Ship 4 is in action.
+Ship 4 has action is stay.
+Ship 4 has 439 halite.
+Ship 4 = Stay, staying at Position(15, 21).
+Ship 1 is in action.
+Ship 1 has action is stay.
+Ship 1 has 625 halite.
+Ship 1 = Stay, staying at Position(14, 20).
+Ship 6 is in action.
+Ship 6 has action is stay.
+Ship 6 has 466 halite.
+Ship 6 = Stay, staying at Position(15, 23).
+==== TURN 21 TIME 4.7% ====
+Ship 4 is in action.
+Ship 4 has action is stay.
+Ship 4 has 523 halite.
+Ship 4 = Stay, staying at Position(15, 21).
+Ship 1 is in action.
+Ship 1 has action is stay.
+Ship 1 has 682 halite.
+Ship 1 = Stay, staying at Position(14, 20).
+Ship 6 is in action.
+Ship 6 has action is stay.
+Ship 6 has 501 halite.
+Ship 6 = Stay, staying at Position(15, 23).
+==== TURN 22 TIME 4.9% ====
+Ship 4 is in action.
+Ship 4 has action is stay.
+Ship 4 has 586 halite.
+Ship 4 = Stay, staying at Position(15, 21).
+Ship 1 is in action.
+Ship 1 has action is stay.
+Ship 1 has 725 halite.
+Ship 1 = Stay, staying at Position(14, 20).
+Ship 6 is in action.
+Ship 6 is in action.
+Ship 6 is in action.
+Ship 6 has action is 3.
+Ship 6 has action is 3.
+Ship 6 has 527 halite.
+Ship 6 is action <hlt.perso_algo.Action object at 0x102fd4080>, going to Position(16, 23), with 224.
+==== TURN 23 TIME 5.1% ====
+Ship 4 is in action.
+Ship 4 has action is stay.
+Ship 4 has 634 halite.
+Ship 4 = Stay, staying at Position(15, 21).
+Ship 6 is in action.
+Ship 6 has action is stay.
+Ship 6 has 520 halite.
+Ship 6 = Stay, staying at Position(16, 23).
+Ship 1 is in action.
+Ship 1 is in action.
+Ship 1 is in action.
+Ship 1 has action is returning.
+Ship 1 has action is returning.
+Ship 1 has 757 halite.

@@ -49,6 +49,12 @@ class Data_game() :
         self.planned_pos = []
         self.planned_dest = []
         self.opp_pos = []
+        self.drop_duty = {}
+        self.max_turn_spawn = 0
+        self.ship_status = {}
+        self.command_queue = []
+        self.turtle_list = {}
+
 
 
 
