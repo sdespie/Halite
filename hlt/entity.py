@@ -50,11 +50,7 @@ class Data_game() :
         self.planned_dest = []
         self.opp_pos = []
         self.drop_duty = {}
-        self.max_turn_spawn = 0
-        self.ship_status = {}
-        self.command_queue = []
-        self.turtle_list = {}
-        self.sorted_list = []
+
 
 
 class Shipyard(Entity):
@@ -122,7 +118,6 @@ class Turtle(Ship):
         self.nbr_choice = 0
         self.status = None
         self.busy = 0
-        self.possible_moves = 0
 
 
     def update_dir(self, dir):

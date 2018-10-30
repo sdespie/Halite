@@ -24,12 +24,28 @@ class Calc :
     def     detect_closest_worth(self, ship, val, max):
         pos = ship.position
         new_max = max
-        for i in range(pos.x - val, pos.x + val):
-            for j in range(pos.y - val, pos.y + val):
-                if self.game.game_map[Position(i,j)].halite_amount > new_max \
-                and self.game.game_map[Position(i,j)].is_occupied == False:
-                    new_max = self.game.game_map[Position(i,j)].halite_amount
-                    max_pos = Position(i,j)
+        y = val
+        x = val - y
+
+        while x <= val :
+            y = val - x
+            while y >= 0 :
+                if self.game.game_map[Position(pos.x + x, pos.y + y)].halite_amount > new_max and self.game.game_map[Position(pos.x + x, pos.y + y)].is_occupied == False:
+                    new_max = self.game.game_map[Position(pos.x + x, pos.y + y)].halite_amount
+                    max_pos = Position(pos.x + x, pos.y + y)
+                if self.game.game_map[Position(pos.x - x, pos.y + y)].halite_amount > new_max and self.game.game_map[Position(pos.x - x, pos.y + y)].is_occupied == False:
+                    new_max = self.game.game_map[Position(pos.x - x, pos.y + y)].halite_amount
+                    max_pos = Position(pos.x - x, pos.y + y)
+
+                if self.game.game_map[Position(pos.x + x, pos.y - y)].halite_amount > new_max and self.game.game_map[Position(pos.x + x, pos.y - y)].is_occupied == False:
+                    new_max = self.game.game_map[Position(pos.x + x, pos.y - y)].halite_amount
+                    max_pos = Position(pos.x + x, pos.y - y)
+                if self.game.game_map[Position(pos.x - x, pos.y - y)].halite_amount > new_max and self.game.game_map[Position(pos.x - x, pos.y - y)].is_occupied == False:
+                    new_max = self.game.game_map[Position(pos.x - x, pos.y - y)].halite_amount
+                    max_pos = Position(pos.x - x, pos.y - y)
+                y -= 1
+            x += 1
+
         if new_max > max :
            #file.write("Ship {} has target :{}.\n".format(ship.id, max_pos))
             return (max_pos)
@@ -39,6 +55,15 @@ class Calc :
             return (Calc.detect_closest_worth(self, ship, val + 1, max))
 
 
+#defini la prochaine position que prendre le ship
+    def     get_next_pos(self, ship, objectif) :
+        move = self.game.game_map.get_unsafe_moves(ship.position, objectif)
+        for direction in move :
+            direct = get_correct_dir(ship, direction)
+            if direct not in data.planned_pos and not overall.is_enemy(direct) :
+                return (direct)
+        move = get_best_pos(ship.position, 1, ship, me, game_map)
+        return (move)
 
     # Donne la distance la plus courte etre le ship actuel et le dropoff ou shipyard le plus proche
     def     get_closest_drop_dist(self, ship) :
@@ -57,52 +82,3 @@ class Calc :
                 min = self.game.game_map.calculate_distance(ship.position, dropoff.position)
                 pos = dropoff.position
         return (pos)
-
-
-        '''
-        J'ai reduit un peu cette merde
-        '''
-
-    def    get_best_pos(self, pos, ship) :
-        max = 0
-        direction = pos
-        for posi in pos.get_surrounding_cardinals() :
-            if self.game.game_map[posi].halite_amount >= max \
-            and posi not in self.data.planned_pos \
-            and posi not in self.data.opp_pos:
-                direction = posi
-                max = self.game.game_map[posi].halite_amount
-        return (direction)
-
-
-    '''
-    J'ai essayer de faire une nouvelle fonction pour les mouvements en exploration.
-    Je prend d'abord la liste des get_unsafe_moves (max 2 output, dans la direction)
-    et regarde combien sont encore valide par rapport au zone deja utilise
-    Si il n'y a qu'un choix, je le prend, si il en a deux, je prend le mieux: soit >100 pour miner,
-    soit le minimum pour limiter la consommation
-    Sinon, je regardes autour ou je peux aller (mais j'ai pas encore fait cette partie la, et je suis fatigué)
-    '''
-
-    def next_pos_exploring(self, ship, destination, overall):
-        move = self.game.game_map.get_unsafe_moves(ship.position, destination)
-        for dest in move :
-            if overall.get_correct_dir(ship.position, dest) in self.data.planned_dest \
-            or overall.get_correct_dir(ship.position, dest) in self.data.opp_pos :
-                move.remove(dest)
-        if len(move) == 1 :
-            return (move[0])
-        elif len(move) == 2 :
-            move1 = self.game.game_map[overall.get_correct_dir(ship.position, move[1])].halite_amount
-            move0 = self.game.game_map[overall.get_correct_dir(ship.position, move[0])].halite_amount
-            if move1 > move0 :
-                if move1 >= 100 :
-                    return (move[1])
-                else :
-                    return (move[0])
-            else :
-                if move0 >= 100 :
-                    return (move[0])
-                else :
-                    return (move[1])
-        #else :

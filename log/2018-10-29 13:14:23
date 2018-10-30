@@ -1,0 +1,510 @@
+data.max_turn = 247.50000000000003.
+Successfully created bot! My Player ID is 1.
+==== TURN 0 TIME 0.0% ====
+Je Sapwn!.
+==== TURN 1 TIME 0.2% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 0 halite.
+Ship 0 is exploring, going to Position(34, 24), with 348.
+Je Sapwn!.
+==== TURN 2 TIME 0.4% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 0 halite.
+Ship 0 = Stay, staying at Position(34, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 is in action.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 0 halite.
+Ship 2 = Safety, going to 6 to Position(36, 24).
+Je Sapwn!.
+==== TURN 3 TIME 0.7% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 87 halite.
+Ship 0 = Stay, staying at Position(34, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 0 halite.
+Ship 2 = Stay, staying at Position(36, 24).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 is in action.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 0 halite.
+Ship 4 = Safety, going to 6 to Position(35, 25).
+Je Sapwn!.
+==== TURN 4 TIME 0.9% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 153 halite.
+Ship 0 = Stay, staying at Position(34, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 45 halite.
+Ship 2 = Stay, staying at Position(36, 24).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 0 halite.
+Ship 4 = Stay, staying at Position(35, 25).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 is in action.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 0 halite.
+Ship 6 = Safety, going to 6 to Position(35, 23).
+Je Sapwn!.
+==== TURN 5 TIME 1.1% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 202 halite.
+Ship 0 = Stay, staying at Position(34, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 79 halite.
+Ship 2 = Stay, staying at Position(36, 24).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 34 halite.
+Ship 4 = Stay, staying at Position(35, 25).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 0 halite.
+Ship 6 = Stay, staying at Position(35, 23).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 is in action.
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 0 halite.
+data.max_turn = 247.50000000000003.
+Successfully created bot! My Player ID is 1.
+==== TURN 0 TIME 0.0% ====
+Je Sapwn!.
+==== TURN 1 TIME 0.2% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 0 halite.
+Ship 0 is exploring, going to Position(34, 24), with 348.
+Je Sapwn!.
+==== TURN 2 TIME 0.4% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 0 halite.
+Ship 0 = Stay, staying at Position(34, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 is in action.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 0 halite.
+Ship 2 = Safety, going to 6 to Position(36, 24).
+Je Sapwn!.
+==== TURN 3 TIME 0.7% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 87 halite.
+Ship 0 = Stay, staying at Position(34, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 0 halite.
+Ship 2 = Stay, staying at Position(36, 24).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 is in action.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 0 halite.
+Ship 4 = Safety, going to 6 to Position(35, 25).
+Je Sapwn!.
+==== TURN 4 TIME 0.9% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 153 halite.
+Ship 0 = Stay, staying at Position(34, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 45 halite.
+Ship 2 = Stay, staying at Position(36, 24).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 0 halite.
+Ship 4 = Stay, staying at Position(35, 25).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 is in action.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 0 halite.
+Ship 6 = Safety, going to 6 to Position(35, 23).
+Je Sapwn!.
+==== TURN 5 TIME 1.1% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 202 halite.
+Ship 0 = Stay, staying at Position(34, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 79 halite.
+Ship 2 = Stay, staying at Position(36, 24).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 34 halite.
+Ship 4 = Stay, staying at Position(35, 25).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 0 halite.
+Ship 6 = Stay, staying at Position(35, 23).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 is in action.
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 0 halite.
+data.max_turn = 247.50000000000003.
+Successfully created bot! My Player ID is 1.
+==== TURN 0 TIME 0.0% ====
+Je Sapwn!.
+==== TURN 1 TIME 0.2% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 0 halite.
+Ship 0 is exploring, going to Position(34, 24), with 348.
+Je Sapwn!.
+==== TURN 2 TIME 0.4% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 0 halite.
+Ship 0 = Stay, staying at Position(34, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 is in action.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 0 halite.
+Ship 2 = Safety, going to 6 to Position(36, 24).
+Je Sapwn!.
+==== TURN 3 TIME 0.7% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 87 halite.
+Ship 0 = Stay, staying at Position(34, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 0 halite.
+Ship 2 = Stay, staying at Position(36, 24).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 is in action.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 0 halite.
+Ship 4 = Safety, going to 6 to Position(35, 25).
+Je Sapwn!.
+==== TURN 4 TIME 0.9% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 153 halite.
+Ship 0 = Stay, staying at Position(34, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 45 halite.
+Ship 2 = Stay, staying at Position(36, 24).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 0 halite.
+Ship 4 = Stay, staying at Position(35, 25).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 is in action.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 0 halite.
+Ship 6 = Safety, going to 6 to Position(35, 23).
+Je Sapwn!.
+==== TURN 5 TIME 1.1% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 202 halite.
+Ship 0 = Stay, staying at Position(34, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 79 halite.
+Ship 2 = Stay, staying at Position(36, 24).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 34 halite.
+Ship 4 = Stay, staying at Position(35, 25).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 0 halite.
+Ship 6 = Stay, staying at Position(35, 23).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 is in action.
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 0 halite.
+data.max_turn = 247.50000000000003.
+Successfully created bot! My Player ID is 1.
+==== TURN 0 TIME 0.0% ====
+Je Sapwn!.
+==== TURN 1 TIME 0.2% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 0 halite.
+Ship 0 is exploring, going to Position(34, 24), with 348.
+Je Sapwn!.
+==== TURN 2 TIME 0.4% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 0 halite.
+Ship 0 = Stay, staying at Position(34, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 is in action.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 0 halite.
+Ship 2 = Safety, going to 6 to Position(36, 24).
+Je Sapwn!.
+==== TURN 3 TIME 0.7% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 87 halite.
+Ship 0 = Stay, staying at Position(34, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 0 halite.
+Ship 2 = Stay, staying at Position(36, 24).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 is in action.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 0 halite.
+Ship 4 = Safety, going to 6 to Position(35, 25).
+Je Sapwn!.
+==== TURN 4 TIME 0.9% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 153 halite.
+Ship 0 = Stay, staying at Position(34, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 45 halite.
+Ship 2 = Stay, staying at Position(36, 24).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 0 halite.
+Ship 4 = Stay, staying at Position(35, 25).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 is in action.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 0 halite.
+Ship 6 = Safety, going to 6 to Position(35, 23).
+Je Sapwn!.
+==== TURN 5 TIME 1.1% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 202 halite.
+Ship 0 = Stay, staying at Position(34, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 79 halite.
+Ship 2 = Stay, staying at Position(36, 24).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 34 halite.
+Ship 4 = Stay, staying at Position(35, 25).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 0 halite.
+Ship 6 = Stay, staying at Position(35, 23).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 is in action.
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 0 halite.
+data.max_turn = 247.50000000000003.
+Successfully created bot! My Player ID is 1.
+==== TURN 0 TIME 0.0% ====
+Je Sapwn!.
+==== TURN 1 TIME 0.2% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 0 halite.
+Ship 0 is exploring, going to Position(34, 24), with 348.
+Je Sapwn!.
+==== TURN 2 TIME 0.4% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 0 halite.
+Ship 0 = Stay, staying at Position(34, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 is in action.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 0 halite.
+Ship 2 = Safety, going to 6 to Position(36, 24).
+Je Sapwn!.
+==== TURN 3 TIME 0.7% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 87 halite.
+Ship 0 = Stay, staying at Position(34, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 0 halite.
+Ship 2 = Stay, staying at Position(36, 24).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 is in action.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 0 halite.
+Ship 4 = Safety, going to 6 to Position(35, 25).
+Je Sapwn!.
+==== TURN 4 TIME 0.9% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 153 halite.
+Ship 0 = Stay, staying at Position(34, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 45 halite.
+Ship 2 = Stay, staying at Position(36, 24).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 0 halite.
+Ship 4 = Stay, staying at Position(35, 25).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 is in action.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 0 halite.
+Ship 6 = Safety, going to 6 to Position(35, 23).
+Je Sapwn!.
+==== TURN 5 TIME 1.1% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 202 halite.
+Ship 0 = Stay, staying at Position(34, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 79 halite.
+Ship 2 = Stay, staying at Position(36, 24).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 34 halite.
+Ship 4 = Stay, staying at Position(35, 25).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 0 halite.
+Ship 6 = Stay, staying at Position(35, 23).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 is in action.
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 0 halite.

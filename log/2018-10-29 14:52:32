@@ -1,0 +1,5371 @@
+data.max_turn = 247.50000000000003.
+Successfully created bot! My Player ID is 1.
+==== TURN 0 TIME 0.0% ====
+Je Sapwn!.
+==== TURN 1 TIME 0.2% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 0 halite.
+Ship 0 is exploring, going to Position(36, 24), with 80.
+Je Sapwn!.
+==== TURN 2 TIME 0.4% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 0 halite.
+Ship 0 = Stay, staying at Position(36, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 is in action.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 0 halite.
+Ship 2 is exploring, going to Position(35, 25), with 44.
+Je Sapwn!.
+==== TURN 3 TIME 0.7% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 0 halite.
+Ship 2 = Stay, staying at Position(35, 25).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 0 is in action.
+Ship 4 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 20 halite.
+Ship 0 is exploring, going to Position(37, 24), with 240.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 0 halite.
+Ship 4 is exploring, going to Position(36, 24), with 60.
+Je Sapwn!.
+==== TURN 4 TIME 0.9% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 14 halite.
+Ship 0 = Stay, staying at Position(37, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 0 halite.
+Ship 4 = Stay, staying at Position(36, 24).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 2 is in action.
+Ship 6 is in action.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 11 halite.
+Ship 2 is exploring, going to Position(36, 25), with 60.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 0 halite.
+Ship 6 is exploring, going to Position(35, 25), with 33.
+Je Sapwn!.
+==== TURN 5 TIME 1.1% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 74 halite.
+Ship 0 = Stay, staying at Position(37, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 0 halite.
+Ship 6 = Stay, staying at Position(35, 25).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 8 is in action.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 8 halite.
+Ship 2 is exploring, going to Position(37, 25), with 87.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 15 halite.
+Ship 4 is exploring, going to Position(36, 23), with 62.
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 0 halite.
+Ship 8 is exploring, going to Position(36, 24), with 45.
+==== TURN 6 TIME 1.3% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 119 halite.
+Ship 0 = Stay, staying at Position(37, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 2 halite.
+Ship 2 = Stay, staying at Position(37, 25).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 has action is stay and has 0 halite.
+Ship 8 = Stay, staying at Position(36, 24).
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 11 halite.
+Ship 4 is exploring, going to Position(37, 23), with 44.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 9 halite.
+Ship 6 is exploring, going to Position(36, 25), with 60.
+==== TURN 7 TIME 1.6% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 153 halite.
+Ship 0 = Stay, staying at Position(37, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 8 is in action.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 24 halite.
+Ship 2 is exploring, going to Position(38, 25), with 94.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 5 halite.
+Ship 4 is exploring, going to Position(38, 23), with 19.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 7 halite.
+Ship 6 is exploring, going to Position(37, 25), with 65.
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 12 halite.
+Ship 8 is exploring, going to Position(36, 23), with 62.
+==== TURN 8 TIME 1.8% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 1 halite.
+Ship 4 = Stay, staying at Position(38, 23).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 1 halite.
+Ship 6 = Stay, staying at Position(37, 25).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 8 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 179 halite.
+Ship 0 is exploring, going to Position(38, 24), with 33.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 18 halite.
+Ship 2 is exploring, going to Position(39, 25), with 28.
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 9 halite.
+Ship 8 is exploring, going to Position(37, 23), with 44.
+==== TURN 9 TIME 2.0% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 has action is stay and has 3 halite.
+Ship 8 = Stay, staying at Position(37, 23).
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 172 halite.
+Ship 0 is exploring, going to Position(39, 24), with 6.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 9 halite.
+Ship 2 is exploring, going to Position(40, 25), with 68.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 6 halite.
+Ship 4 is exploring, going to Position(39, 23), with 32.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 18 halite.
+Ship 6 is exploring, going to Position(38, 25), with 94.
+==== TURN 10 TIME 2.2% ====
+data.max_turn = 247.50000000000003.
+Successfully created bot! My Player ID is 0.
+==== TURN 0 TIME 0.0% ====
+Je Sapwn!.
+==== TURN 1 TIME 0.2% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+Ship 1 is in action.
+Ship 1 is in action.
+choice = exploring.
+Ship 1 has action is exploring and has 0 halite.
+Ship 1 is exploring, going to Position(11, 24), with 80.
+Je Sapwn!.
+==== TURN 2 TIME 0.4% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+Ship 1 has action is stay and has 0 halite.
+Ship 1 = Stay, staying at Position(11, 24).
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+Ship 3 is in action.
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 0 halite.
+Ship 3 is exploring, going to Position(12, 23), with 70.
+Je Sapwn!.
+==== TURN 3 TIME 0.7% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+Ship 3 has action is stay and has 0 halite.
+Ship 3 = Stay, staying at Position(12, 23).
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+Ship 1 is in action.
+Ship 5 is in action.
+Ship 1 is in action.
+choice = exploring.
+Ship 1 has action is exploring and has 20 halite.
+Ship 1 is exploring, going to Position(10, 24), with 240.
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 0 halite.
+Ship 5 is exploring, going to Position(11, 24), with 60.
+Je Sapwn!.
+==== TURN 4 TIME 0.9% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+Ship 1 has action is stay and has 14 halite.
+Ship 1 = Stay, staying at Position(10, 24).
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+Ship 5 has action is stay and has 0 halite.
+Ship 5 = Stay, staying at Position(11, 24).
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+Ship 3 is in action.
+Ship 7 is in action.
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 18 halite.
+Ship 3 is exploring, going to Position(11, 23), with 62.
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 0 halite.
+Ship 7 is exploring, going to Position(12, 23), with 52.
+Je Sapwn!.
+==== TURN 5 TIME 1.1% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+Ship 1 has action is stay and has 74 halite.
+Ship 1 = Stay, staying at Position(10, 24).
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+Ship 7 has action is stay and has 0 halite.
+Ship 7 = Stay, staying at Position(12, 23).
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 9 is in action.
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 13 halite.
+Ship 3 is exploring, going to Position(10, 23), with 44.
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 15 halite.
+Ship 5 is exploring, going to Position(11, 23), with 62.
+Ship 9 is in action.
+choice = exploring.
+Ship 9 has action is exploring and has 0 halite.
+Ship 9 is exploring, going to Position(11, 24), with 45.
+==== TURN 6 TIME 1.3% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+Ship 1 has action is stay and has 119 halite.
+Ship 1 = Stay, staying at Position(10, 24).
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 9 has action is stay and has 0 halite.
+Ship 9 = Stay, staying at Position(11, 24).
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 7 halite.
+Ship 3 is exploring, going to Position(9, 23), with 19.
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 11 halite.
+Ship 5 is exploring, going to Position(10, 23), with 44.
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 13 halite.
+Ship 7 is exploring, going to Position(11, 23), with 62.
+==== TURN 7 TIME 1.6% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+Ship 1 has action is stay and has 153 halite.
+Ship 1 = Stay, staying at Position(10, 24).
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 3 halite.
+Ship 3 is exploring, going to Position(8, 23), with 32.
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 5 halite.
+Ship 5 is exploring, going to Position(9, 23), with 19.
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 10 halite.
+Ship 7 is exploring, going to Position(10, 23), with 44.
+Ship 9 is in action.
+choice = exploring.
+Ship 9 has action is exploring and has 12 halite.
+Ship 9 is exploring, going to Position(11, 23), with 62.
+==== TURN 8 TIME 1.8% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+Ship 3 has action is stay and has 2 halite.
+Ship 3 = Stay, staying at Position(8, 23).
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+Ship 5 has action is stay and has 1 halite.
+Ship 5 = Stay, staying at Position(9, 23).
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+Ship 7 has action is stay and has 4 halite.
+Ship 7 = Stay, staying at Position(10, 23).
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 1 is in action.
+Ship 9 is in action.
+Ship 1 is in action.
+choice = exploring.
+Ship 1 has action is exploring and has 179 halite.
+Ship 1 is exploring, going to Position(9, 24), with 33.
+Ship 9 is in action.
+choice = exploring.
+Ship 9 has action is exploring and has 9 halite.
+Ship 9 is exploring, going to Position(11, 22), with 146.
+==== TURN 9 TIME 2.0% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 9 has action is stay and has 3 halite.
+Ship 9 = Stay, staying at Position(11, 22).
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 1 is in action.
+choice = exploring.
+Ship 1 has action is exploring and has 172 halite.
+Ship 1 is exploring, going to Position(8, 24), with 6.
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 10 halite.
+Ship 3 is exploring, going to Position(7, 23), with 12.
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 6 halite.
+Ship 5 is exploring, going to Position(8, 23), with 24.
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 15 halite.
+Ship 7 is exploring, going to Position(9, 23), with 14.
+==== TURN 10 TIME 2.2% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 9 has action is stay and has 40 halite.
+Ship 9 = Stay, staying at Position(11, 22).
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 1 is in action.
+choice = exploring.
+Ship 1 has action is exploring and has 169 halite.
+Ship 1 is exploring, going to Position(7, 24), with 12.
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 8 halite.
+Ship 3 is exploring, going to Position(6, 23), with 61.
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 5 halite.
+Ship 5 is exploring, going to Position(7, 23), with 12.
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 12 halite.
+Ship 7 is exploring, going to Position(8, 23), with 24.
+==== TURN 11 TIME 2.4% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 1 is in action.
+choice = exploring.
+Ship 1 has action is exploring and has 169 halite.
+Ship 1 is exploring, going to Position(6, 24), with 45.
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 7 halite.
+Ship 3 is exploring, going to Position(5, 23), with 70.
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 3 halite.
+Ship 5 is exploring, going to Position(6, 23), with 61.
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 11 halite.
+Ship 7 is exploring, going to Position(7, 23), with 12.
+Ship 9 is in action.
+choice = exploring.
+Ship 9 has action is exploring and has 68 halite.
+Ship 9 is exploring, going to Position(10, 22), with 19.
+==== TURN 12 TIME 2.7% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+Ship 3 has action is stay and has 1 halite.
+Ship 3 = Stay, staying at Position(5, 23).
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+Ship 5 has action is stay and has 2 halite.
+Ship 5 = Stay, staying at Position(6, 23).
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 1 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 1 is in action.
+choice = exploring.
+Ship 1 has action is exploring and has 168 halite.
+Ship 1 is exploring, going to Position(5, 24), with 58.
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 9 halite.
+Ship 7 is exploring, going to Position(7, 24), with 12.
+Ship 9 is in action.
+choice = exploring.
+Ship 9 has action is exploring and has 60 halite.
+Ship 9 is exploring, going to Position(9, 22), with 35.
+==== TURN 13 TIME 2.9% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 1 is in action.
+choice = exploring.
+Ship 1 has action is exploring and has 164 halite.
+Ship 1 is exploring, going to Position(4, 24), with 29.
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 19 halite.
+Ship 3 is exploring, going to Position(4, 23), with 62.
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 18 halite.
+Ship 5 is exploring, going to Position(5, 23), with 52.
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 8 halite.
+Ship 7 is exploring, going to Position(6, 24), with 45.
+Ship 9 is in action.
+choice = exploring.
+Ship 9 has action is exploring and has 59 halite.
+Ship 9 is exploring, going to Position(8, 22), with 9.
+==== TURN 14 TIME 3.1% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 1 is in action.
+choice = exploring.
+Ship 1 has action is exploring and has 159 halite.
+Ship 1 is exploring, going to Position(3, 24), with 86.
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 14 halite.
+Ship 3 is exploring, going to Position(3, 23), with 134.
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 14 halite.
+Ship 5 is exploring, going to Position(4, 23), with 62.
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 7 halite.
+Ship 7 is exploring, going to Position(5, 24), with 58.
+Ship 9 is in action.
+choice = exploring.
+Ship 9 has action is exploring and has 56 halite.
+Ship 9 is exploring, going to Position(7, 22), with 17.
+==== TURN 15 TIME 3.3% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+Ship 3 has action is stay and has 8 halite.
+Ship 3 = Stay, staying at Position(3, 23).
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+Ship 7 has action is stay and has 3 halite.
+Ship 7 = Stay, staying at Position(5, 24).
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 1 is in action.
+Ship 5 is in action.
+Ship 9 is in action.
+Ship 1 is in action.
+choice = exploring.
+Ship 1 has action is exploring and has 157 halite.
+Ship 1 is exploring, going to Position(2, 24), with 241.
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 9 halite.
+Ship 5 is exploring, going to Position(4, 24), with 29.
+Ship 9 is in action.
+choice = exploring.
+Ship 9 has action is exploring and has 56 halite.
+Ship 9 is exploring, going to Position(6, 22), with 15.
+==== TURN 16 TIME 3.6% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+Ship 1 has action is stay and has 149 halite.
+Ship 1 = Stay, staying at Position(2, 24).
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+Ship 3 has action is stay and has 42 halite.
+Ship 3 = Stay, staying at Position(3, 23).
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 3 halite.
+Ship 5 is exploring, going to Position(3, 24), with 86.
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 18 halite.
+Ship 7 is exploring, going to Position(4, 24), with 29.
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 8 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 169 halite.
+Ship 0 is exploring, going to Position(40, 24), with 12.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 7 halite.
+Ship 2 is exploring, going to Position(41, 25), with 29.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 5 halite.
+Ship 4 is exploring, going to Position(40, 23), with 12.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 14 halite.
+Ship 6 is exploring, going to Position(39, 25), with 28.
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 14 halite.
+Ship 8 is exploring, going to Position(38, 23), with 14.
+==== TURN 11 TIME 2.4% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 1 halite.
+Ship 2 = Stay, staying at Position(41, 25).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 0 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 8 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 169 halite.
+Ship 0 is exploring, going to Position(41, 24), with 45.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 2 halite.
+Ship 4 is exploring, going to Position(41, 23), with 61.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 5 halite.
+Ship 6 is exploring, going to Position(40, 25), with 68.
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 11 halite.
+Ship 8 is exploring, going to Position(39, 23), with 32.
+==== TURN 12 TIME 2.7% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 1 halite.
+Ship 4 = Stay, staying at Position(41, 23).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 3 halite.
+Ship 6 = Stay, staying at Position(40, 25).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 8 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 168 halite.
+Ship 0 is exploring, going to Position(42, 24), with 58.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 9 halite.
+Ship 2 is exploring, going to Position(42, 25), with 94.
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 10 halite.
+Ship 8 is exploring, going to Position(40, 23), with 12.
+==== TURN 13 TIME 2.9% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 7 halite.
+Ship 2 = Stay, staying at Position(42, 25).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 0 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 8 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 164 halite.
+Ship 0 is exploring, going to Position(43, 24), with 29.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 17 halite.
+Ship 4 is exploring, going to Position(42, 23), with 70.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 20 halite.
+Ship 6 is exploring, going to Position(41, 25), with 21.
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 7 halite.
+Ship 8 is exploring, going to Position(41, 23), with 45.
+==== TURN 14 TIME 3.1% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 8 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 159 halite.
+Ship 0 is exploring, going to Position(44, 24), with 86.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 31 halite.
+Ship 2 is exploring, going to Position(43, 25), with 52.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 13 halite.
+Ship 4 is exploring, going to Position(43, 23), with 62.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 15 halite.
+Ship 6 is exploring, going to Position(42, 25), with 70.
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 6 halite.
+Ship 8 is exploring, going to Position(42, 23), with 70.
+==== TURN 15 TIME 3.3% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 6 halite.
+Ship 4 = Stay, staying at Position(43, 23).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 has action is stay and has 2 halite.
+Ship 8 = Stay, staying at Position(42, 23).
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 6 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 157 halite.
+Ship 0 is exploring, going to Position(45, 24), with 241.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 24 halite.
+Ship 2 is exploring, going to Position(44, 25), with 167.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 13 halite.
+Ship 6 is exploring, going to Position(43, 25), with 52.
+==== TURN 16 TIME 3.6% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 149 halite.
+Ship 0 = Stay, staying at Position(45, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 19 halite.
+Ship 2 = Stay, staying at Position(44, 25).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 8 is in action.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 22 halite.
+Ship 4 is exploring, going to Position(44, 23), with 134.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 6 halite.
+Ship 6 is exploring, going to Position(43, 26), with 136.
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 20 halite.
+Ship 8 is exploring, going to Position(43, 23), with 46.
+==== TURN 17 TIME 3.8% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 210 halite.
+Ship 0 = Stay, staying at Position(45, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 61 halite.
+Ship 2 = Stay, staying at Position(44, 25).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 18 halite.
+Ship 4 = Stay, staying at Position(44, 23).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 1 halite.
+Ship 6 = Stay, staying at Position(43, 26).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 is in action.
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 15 halite.
+Ship 8 is exploring, going to Position(43, 24), with 29.
+==== TURN 18 TIME 4.0% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 255 halite.
+Ship 0 = Stay, staying at Position(45, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 52 halite.
+Ship 4 = Stay, staying at Position(44, 23).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 35 halite.
+Ship 6 = Stay, staying at Position(43, 26).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 2 is in action.
+Ship 8 is in action.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 93 halite.
+Ship 2 is exploring, going to Position(45, 25), with 203.
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 11 halite.
+Ship 8 is exploring, going to Position(44, 24), with 86.
+==== TURN 19 TIME 4.2% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 289 halite.
+Ship 0 = Stay, staying at Position(45, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 84 halite.
+Ship 2 = Stay, staying at Position(45, 25).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 8 is in action.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 77 halite.
+Ship 4 is exploring, going to Position(45, 23), with 324.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 61 halite.
+Ship 6 is exploring, going to Position(44, 26), with 285.
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 9 halite.
+Ship 8 is exploring, going to Position(44, 25), with 93.
+==== TURN 20 TIME 4.4% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 135 halite.
+Ship 2 = Stay, staying at Position(45, 25).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 70 halite.
+Ship 4 = Stay, staying at Position(45, 23).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 54 halite.
+Ship 6 = Stay, staying at Position(44, 26).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 has action is stay and has 1 halite.
+Ship 8 = Stay, staying at Position(44, 25).
+Ship 0 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 315 halite.
+Ship 0 is exploring, going to Position(46, 24), with 312.
+==== TURN 21 TIME 4.7% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 308 halite.
+Ship 0 = Stay, staying at Position(46, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 173 halite.
+Ship 2 = Stay, staying at Position(45, 25).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 151 halite.
+Ship 4 = Stay, staying at Position(45, 23).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 126 halite.
+Ship 6 = Stay, staying at Position(44, 26).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 is in action.
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 25 halite.
+Ship 8 = Safety, going to 6 to Position(44, 24).
+==== TURN 22 TIME 4.9% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 386 halite.
+Ship 0 = Stay, staying at Position(46, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 212 halite.
+Ship 4 = Stay, staying at Position(45, 23).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 180 halite.
+Ship 6 = Stay, staying at Position(44, 26).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 2 is in action.
+Ship 8 is in action.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 202 halite.
+Ship 2 is exploring, going to Position(46, 25), with 321.
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 19 halite.
+Ship 8 is exploring, going to Position(45, 24), with 75.
+==== TURN 23 TIME 5.1% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 445 halite.
+Ship 0 = Stay, staying at Position(46, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 194 halite.
+Ship 2 = Stay, staying at Position(46, 25).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 258 halite.
+Ship 4 = Stay, staying at Position(45, 23).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 220 halite.
+Ship 6 = Stay, staying at Position(44, 26).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 is in action.
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 11 halite.
+Ship 8 = Safety, going to 6 to Position(44, 24).
+==== TURN 24 TIME 5.3% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 489 halite.
+Ship 0 = Stay, staying at Position(46, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 437 halite.
+Ship 2 = Stay, staying at Position(46, 25).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 292 halite.
+Ship 4 = Stay, staying at Position(45, 23).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 has action is stay and has 4 halite.
+Ship 8 = Stay, staying at Position(44, 24).
+Ship 6 is in action.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 250 halite.
+Ship 6 is exploring, going to Position(45, 26), with 399.
+Ship 9 is in action.
+choice = exploring.
+Ship 9 has action is exploring and has 55 halite.
+Ship 9 is exploring, going to Position(5, 22), with 70.
+==== TURN 17 TIME 3.8% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+Ship 1 has action is stay and has 210 halite.
+Ship 1 = Stay, staying at Position(2, 24).
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+Ship 5 has action is stay and has 1 halite.
+Ship 5 = Stay, staying at Position(3, 24).
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 3 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 67 halite.
+Ship 3 is exploring, going to Position(2, 23), with 324.
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 14 halite.
+Ship 7 is exploring, going to Position(4, 25), with 52.
+Ship 9 is in action.
+choice = exploring.
+Ship 9 has action is exploring and has 54 halite.
+Ship 9 is exploring, going to Position(4, 22), with 38.
+==== TURN 18 TIME 4.0% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+Ship 1 has action is stay and has 255 halite.
+Ship 1 = Stay, staying at Position(2, 24).
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+Ship 3 has action is stay and has 60 halite.
+Ship 3 = Stay, staying at Position(2, 23).
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 23 halite.
+Ship 5 = Safety, going to 6 to Position(3, 25).
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 12 halite.
+Ship 7 is exploring, going to Position(4, 26), with 136.
+Ship 9 is in action.
+choice = exploring.
+Ship 9 has action is exploring and has 47 halite.
+Ship 9 is exploring, going to Position(3, 22), with 204.
+==== TURN 19 TIME 4.2% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+Ship 1 has action is stay and has 289 halite.
+Ship 1 = Stay, staying at Position(2, 24).
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+Ship 3 has action is stay and has 141 halite.
+Ship 3 = Stay, staying at Position(2, 23).
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+Ship 5 has action is stay and has 17 halite.
+Ship 5 = Stay, staying at Position(3, 25).
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+Ship 7 has action is stay and has 7 halite.
+Ship 7 = Stay, staying at Position(4, 26).
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 9 has action is stay and has 44 halite.
+Ship 9 = Stay, staying at Position(3, 22).
+==== TURN 20 TIME 4.4% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+Ship 3 has action is stay and has 202 halite.
+Ship 3 = Stay, staying at Position(2, 23).
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+Ship 5 has action is stay and has 59 halite.
+Ship 5 = Stay, staying at Position(3, 25).
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+Ship 7 has action is stay and has 41 halite.
+Ship 7 = Stay, staying at Position(4, 26).
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 9 has action is stay and has 95 halite.
+Ship 9 = Stay, staying at Position(3, 22).
+Ship 1 is in action.
+Ship 1 is in action.
+choice = exploring.
+Ship 1 has action is exploring and has 315 halite.
+Ship 1 is exploring, going to Position(1, 24), with 312.
+==== TURN 21 TIME 4.7% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+Ship 1 has action is stay and has 308 halite.
+Ship 1 = Stay, staying at Position(1, 24).
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+Ship 3 has action is stay and has 248 halite.
+Ship 3 = Stay, staying at Position(2, 23).
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 9 has action is stay and has 134 halite.
+Ship 9 = Stay, staying at Position(3, 22).
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 91 halite.
+Ship 5 is exploring, going to Position(2, 25), with 203.
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 67 halite.
+Ship 7 is exploring, going to Position(3, 26), with 285.
+==== TURN 22 TIME 4.9% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+Ship 1 has action is stay and has 386 halite.
+Ship 1 = Stay, staying at Position(1, 24).
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+Ship 3 has action is stay and has 282 halite.
+Ship 3 = Stay, staying at Position(2, 23).
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+Ship 5 has action is stay and has 82 halite.
+Ship 5 = Stay, staying at Position(2, 25).
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+Ship 7 has action is stay and has 60 halite.
+Ship 7 = Stay, staying at Position(3, 26).
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 9 is in action.
+Ship 9 is in action.
+choice = exploring.
+Ship 9 has action is exploring and has 163 halite.
+Ship 9 is exploring, going to Position(2, 22), with 375.
+==== TURN 23 TIME 5.1% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+Ship 1 has action is stay and has 445 halite.
+Ship 1 = Stay, staying at Position(1, 24).
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+Ship 5 has action is stay and has 133 halite.
+Ship 5 = Stay, staying at Position(2, 25).
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+Ship 7 has action is stay and has 132 halite.
+Ship 7 = Stay, staying at Position(3, 26).
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 9 has action is stay and has 155 halite.
+Ship 9 = Stay, staying at Position(2, 22).
+Ship 3 is in action.
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 308 halite.
+Ship 3 is exploring, going to Position(1, 23), with 246.
+==== TURN 24 TIME 5.3% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+Ship 1 has action is stay and has 577 halite.
+Ship 1 = Stay, staying at Position(1, 24).
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+Ship 3 has action is stay and has 301 halite.
+Ship 3 = Stay, staying at Position(1, 23).
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+Ship 5 has action is stay and has 171 halite.
+Ship 5 = Stay, staying at Position(2, 25).
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+Ship 7 has action is stay and has 186 halite.
+Ship 7 = Stay, staying at Position(3, 26).
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 9 has action is stay and has 249 halite.
+Ship 9 = Stay, staying at Position(2, 22).
+==== TURN 25 TIME 5.6% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+Ship 3 has action is stay and has 487 halite.
+Ship 3 = Stay, staying at Position(1, 23).
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+Ship 7 has action is stay and has 226 halite.
+Ship 7 = Stay, staying at Position(3, 26).
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 9 has action is stay and has 320 halite.
+Ship 9 = Stay, staying at Position(2, 22).
+Ship 1 is in action.
+Ship 5 is in action.
+Ship 1 is in action.
+choice = exploring.
+Ship 1 has action is exploring and has 676 halite.
+Ship 1 is exploring, going to Position(0, 24), with 730.
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 200 halite.
+Ship 5 is exploring, going to Position(1, 25), with 321.
+==== TURN 26 TIME 5.8% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+Ship 1 has action is stay and has 667 halite.
+Ship 1 = Stay, staying at Position(0, 24).
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+Ship 3 has action is stay and has 625 halite.
+Ship 3 = Stay, staying at Position(1, 23).
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+Ship 5 has action is stay and has 192 halite.
+Ship 5 = Stay, staying at Position(1, 25).
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 9 has action is stay and has 373 halite.
+Ship 9 = Stay, staying at Position(2, 22).
+Ship 7 is in action.
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 256 halite.
+Ship 7 is exploring, going to Position(2, 26), with 399.
+==== TURN 27 TIME 6.0% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+Ship 3 has action is stay and has 730 halite.
+Ship 3 = Stay, staying at Position(1, 23).
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+Ship 5 has action is stay and has 435 halite.
+Ship 5 = Stay, staying at Position(1, 25).
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+Ship 7 has action is stay and has 248 halite.
+Ship 7 = Stay, staying at Position(2, 26).
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 9 has action is stay and has 413 halite.
+Ship 9 = Stay, staying at Position(2, 22).
+Ship 1 is in action.
+Ship 1 is in action.
+choice = returning.
+Ship 1 has action is returning and has 1000 halite.
+Ship 1 is action returning, going to Position(1, 24).
+==== TURN 28 TIME 6.2% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = returning.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+Ship 5 has action is stay and has 615 halite.
+Ship 5 = Stay, staying at Position(1, 25).
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+Ship 7 has action is stay and has 348 halite.
+Ship 7 = Stay, staying at Position(2, 26).
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 9 is in action.
+Ship 1 is in action.
+choice = returning.
+Ship 1 has action is returning and has 946 halite.
+Ship 1 is action returning, going to Position(2, 24).
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 808 halite.
+Ship 3 is exploring, going to Position(0, 23), with 318.
+Ship 9 is in action.
+choice = exploring.
+Ship 9 has action is exploring and has 443 halite.
+Ship 9 is exploring, going to Position(1, 22), with 269.
+==== TURN 29 TIME 6.4% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = returning.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+Ship 3 has action is stay and has 801 halite.
+Ship 3 = Stay, staying at Position(0, 23).
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+Ship 5 has action is stay and has 750 halite.
+Ship 5 = Stay, staying at Position(1, 25).
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+Ship 7 has action is stay and has 423 halite.
+Ship 7 = Stay, staying at Position(2, 26).
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 9 has action is stay and has 435 halite.
+Ship 9 = Stay, staying at Position(1, 22).
+Ship 1 is in action.
+Ship 1 is in action.
+choice = returning.
+Ship 1 has action is returning and has 937 halite.
+Ship 1 is action returning, going to Position(3, 24).
+==== TURN 30 TIME 6.7% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = returning.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+Ship 5 has action is stay and has 852 halite.
+Ship 5 = Stay, staying at Position(1, 25).
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+Ship 7 has action is stay and has 479 halite.
+Ship 7 = Stay, staying at Position(2, 26).
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 9 has action is stay and has 639 halite.
+Ship 9 = Stay, staying at Position(1, 22).
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 1 is in action.
+choice = returning.
+Ship 1 has action is returning and has 930 halite.
+Ship 1 is action returning, going to Position(4, 24).
+Ship 3 is in action.
+choice = returning.
+Ship 3 has action is returning and has 1000 halite.
+Ship 3 is action returning, going to Position(1, 23).
+==== TURN 31 TIME 6.9% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = returning.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = returning.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+Ship 7 has action is stay and has 521 halite.
+Ship 7 = Stay, staying at Position(2, 26).
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 9 has action is stay and has 690 halite.
+Ship 9 = Stay, staying at Position(1, 22).
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 1 is in action.
+choice = returning.
+Ship 1 has action is returning and has 924 halite.
+Ship 1 is action returning, going to Position(5, 24).
+Ship 3 is in action.
+choice = returning.
+Ship 3 has action is returning and has 977 halite.
+Ship 3 is action returning, going to Position(2, 23).
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 930 halite.
+Ship 5 is exploring, going to Position(0, 25), with 621.
+==== TURN 32 TIME 7.1% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = returning.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = returning.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+Ship 5 has action is stay and has 923 halite.
+Ship 5 = Stay, staying at Position(0, 25).
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 9 has action is stay and has 728 halite.
+Ship 9 = Stay, staying at Position(1, 22).
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 7 is in action.
+Ship 1 is in action.
+choice = returning.
+Ship 1 has action is returning and has 922 halite.
+Ship 1 is action returning, going to Position(6, 24).
+Ship 3 is in action.
+choice = returning.
+Ship 3 has action is returning and has 970 halite.
+Ship 3 is action returning, going to Position(3, 23).
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 553 halite.
+==== TURN 25 TIME 5.6% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 617 halite.
+Ship 2 = Stay, staying at Position(46, 25).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 242 halite.
+Ship 6 = Stay, staying at Position(45, 26).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 0 is in action.
+Ship 4 is in action.
+Ship 8 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 588 halite.
+Ship 0 is exploring, going to Position(47, 24), with 730.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 318 halite.
+Ship 4 is exploring, going to Position(46, 23), with 246.
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 26 halite.
+Ship 8 is exploring, going to Position(45, 24), with 75.
+==== TURN 26 TIME 5.8% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 579 halite.
+Ship 0 = Stay, staying at Position(47, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 752 halite.
+Ship 2 = Stay, staying at Position(46, 25).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 311 halite.
+Ship 4 = Stay, staying at Position(46, 23).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 342 halite.
+Ship 6 = Stay, staying at Position(45, 26).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 is in action.
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 20 halite.
+Ship 8 is exploring, going to Position(46, 24), with 98.
+==== TURN 27 TIME 6.0% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 854 halite.
+Ship 2 = Stay, staying at Position(46, 25).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 497 halite.
+Ship 4 = Stay, staying at Position(46, 23).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 417 halite.
+Ship 6 = Stay, staying at Position(45, 26).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 0 is in action.
+Ship 8 is in action.
+Ship 0 is in action.
+choice = returning.
+Ship 0 has action is returning and has 1000 halite.
+Ship 0 is action returning, going to Position(46, 24).
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 13 halite.
+Ship 8 = Safety, going to 6 to Position(45, 24).
+==== TURN 28 TIME 6.2% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = returning.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 635 halite.
+Ship 4 = Stay, staying at Position(46, 23).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 473 halite.
+Ship 6 = Stay, staying at Position(45, 26).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 has action is stay and has 4 halite.
+Ship 8 = Stay, staying at Position(45, 24).
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 0 is in action.
+choice = returning.
+Ship 0 has action is returning and has 946 halite.
+Ship 0 = Safety, going to 6 to Position(47, 24).
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 932 halite.
+Ship 2 is exploring, going to Position(47, 25), with 621.
+==== TURN 29 TIME 6.4% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = returning.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 925 halite.
+Ship 2 = Stay, staying at Position(47, 25).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 740 halite.
+Ship 4 = Stay, staying at Position(46, 23).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 515 halite.
+Ship 6 = Stay, staying at Position(45, 26).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 0 is in action.
+Ship 8 is in action.
+Ship 0 is in action.
+choice = returning.
+Ship 0 has action is returning and has 937 halite.
+Ship 0 is action returning, going to Position(46, 24).
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 23 halite.
+Ship 8 is exploring, going to Position(45, 25), with 85.
+==== TURN 30 TIME 6.7% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = returning.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 8 is in action.
+Ship 0 is in action.
+choice = returning.
+Ship 0 has action is returning and has 883 halite.
+Ship 0 is action returning, going to Position(45, 24).
+Ship 2 is in action.
+choice = returning.
+Ship 2 has action is returning and has 1000 halite.
+Ship 2 is action returning, going to Position(46, 25).
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 818 halite.
+Ship 4 is exploring, going to Position(46, 24), with 98.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 547 halite.
+Ship 6 is exploring, going to Position(46, 26), with 450.
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 18 halite.
+Ship 8 is exploring, going to Position(45, 26), with 94.
+==== TURN 31 TIME 6.9% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = returning.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = returning.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 538 halite.
+Ship 6 = Stay, staying at Position(46, 26).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 8 is in action.
+Ship 0 is in action.
+choice = returning.
+Ship 0 has action is returning and has 874 halite.
+Ship 0 is action returning, going to Position(44, 24).
+Ship 2 is in action.
+choice = returning.
+Ship 2 has action is returning and has 946 halite.
+Ship 2 is action returning, going to Position(45, 25).
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 811 halite.
+Ship 4 is exploring, going to Position(47, 24), with 547.
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 10 halite.
+Ship 8 is exploring, going to Position(45, 27), with 314.
+==== TURN 32 TIME 7.1% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = returning.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = returning.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 802 halite.
+Ship 4 = Stay, staying at Position(47, 24).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 877 halite.
+Ship 6 = Stay, staying at Position(46, 26).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 has action is stay and has 1 halite.
+Ship 8 = Stay, staying at Position(45, 27).
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 0 is in action.
+choice = returning.
+Ship 0 has action is returning and has 869 halite.
+Ship 0 is action returning, going to Position(43, 24).
+Ship 2 is in action.
+choice = returning.
+Ship 2 has action is returning and has 939 halite.
+Ship 2 is action returning, going to Position(44, 25).
+==== TURN 33 TIME 7.3% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = returning.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = returning.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 has action is stay and has 80 halite.
+Ship 8 = Stay, staying at Position(45, 27).
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 0 is in action.
+choice = returning.
+Ship 0 has action is returning and has 863 halite.
+Ship 0 is action returning, going to Position(42, 24).
+Ship 2 is in action.
+choice = returning.
+Ship 2 has action is returning and has 931 halite.
+Ship 2 is action returning, going to Position(43, 25).
+Ship 4 is in action.
+choice = returning.
+Ship 4 has action is returning and has 1000 halite.
+Ship 4 is action returning, going to Position(46, 24).
+Ship 6 is in action.
+choice = returning.
+Ship 6 has action is returning and has 1000 halite.
+Ship 6 is action returning, going to Position(45, 26).
+==== TURN 34 TIME 7.6% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = returning.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = returning.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = returning.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = returning.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 has action is stay and has 139 halite.
+Ship 8 = Stay, staying at Position(45, 27).
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 0 is in action.
+choice = returning.
+Ship 0 has action is returning and has 861 halite.
+Ship 0 is action returning, going to Position(41, 24).
+Ship 2 is in action.
+choice = returning.
+Ship 2 has action is returning and has 925 halite.
+Ship 2 is action returning, going to Position(42, 25).
+Ship 4 is in action.
+choice = returning.
+Ship 4 has action is returning and has 959 halite.
+Ship 4 is action returning, going to Position(45, 24).
+Ship 6 is in action.
+choice = returning.
+Ship 6 has action is returning and has 975 halite.
+Ship 6 is action returning, going to Position(44, 26).
+==== TURN 35 TIME 7.8% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = returning.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = returning.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = returning.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = returning.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 has action is stay and has 183 halite.
+Ship 8 = Stay, staying at Position(45, 27).
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 0 is in action.
+choice = returning.
+Ship 0 has action is returning and has 856 halite.
+Ship 0 is action returning, going to Position(40, 24).
+Ship 2 is in action.
+choice = returning.
+Ship 2 has action is returning and has 920 halite.
+Ship 2 is action returning, going to Position(41, 25).
+Ship 4 is in action.
+choice = returning.
+Ship 4 has action is returning and has 950 halite.
+Ship 4 is action returning, going to Position(44, 24).
+Ship 6 is in action.
+choice = returning.
+Ship 6 has action is returning and has 966 halite.
+Ship 6 is action returning, going to Position(43, 26).
+==== TURN 36 TIME 8.0% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = returning.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = returning.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = returning.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = returning.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 8 is in action.
+Ship 0 is in action.
+choice = returning.
+Ship 0 has action is returning and has 852 halite.
+Ship 0 is action returning, going to Position(39, 24).
+Ship 2 is in action.
+choice = returning.
+Ship 2 has action is returning and has 913 halite.
+Ship 2 is action returning, going to Position(40, 25).
+Ship 4 is in action.
+choice = returning.
+Ship 4 has action is returning and has 945 halite.
+Ship 4 is action returning, going to Position(43, 24).
+Ship 6 is in action.
+choice = returning.
+Ship 6 has action is returning and has 958 halite.
+Ship 6 is action returning, going to Position(42, 26).
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 216 halite.
+Ship 8 is exploring, going to Position(46, 27), with 297.
+==== TURN 37 TIME 8.2% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = returning.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = returning.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = returning.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = returning.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 has action is stay and has 207 halite.
+Ship 8 = Stay, staying at Position(46, 27).
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 0 is in action.
+choice = returning.
+Ship 0 has action is returning and has 851 halite.
+Ship 0 is action returning, going to Position(38, 24).
+Ship 2 is in action.
+choice = returning.
+Ship 2 has action is returning and has 911 halite.
+Ship 2 is action returning, going to Position(39, 25).
+Ship 4 is in action.
+choice = returning.
+Ship 4 has action is returning and has 939 halite.
+Ship 4 is action returning, going to Position(42, 24).
+Ship 6 is in action.
+choice = returning.
+Ship 6 has action is returning and has 951 halite.
+Ship 6 is action returning, going to Position(41, 26).
+==== TURN 38 TIME 8.4% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = returning.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = returning.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = returning.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = returning.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 has action is stay and has 282 halite.
+Ship 8 = Stay, staying at Position(46, 27).
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 0 is in action.
+choice = returning.
+Ship 0 has action is returning and has 851 halite.
+Ship 0 is action returning, going to Position(37, 24).
+Ship 2 is in action.
+choice = returning.
+Ship 2 has action is returning and has 906 halite.
+Ship 2 is action returning, going to Position(38, 25).
+Ship 4 is in action.
+choice = returning.
+Ship 4 has action is returning and has 937 halite.
+Ship 4 is action returning, going to Position(41, 24).
+Ship 6 is in action.
+choice = returning.
+Ship 6 has action is returning and has 941 halite.
+Ship 6 is action returning, going to Position(40, 26).
+==== TURN 39 TIME 8.7% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = returning.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = returning.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = returning.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+Ship 7 is exploring, going to Position(1, 26), with 450.
+==== TURN 33 TIME 7.3% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = returning.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = returning.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+Ship 7 has action is stay and has 544 halite.
+Ship 7 = Stay, staying at Position(1, 26).
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 9 is in action.
+Ship 1 is in action.
+choice = returning.
+Ship 1 has action is returning and has 918 halite.
+Ship 1 is action returning, going to Position(7, 24).
+Ship 3 is in action.
+choice = returning.
+Ship 3 has action is returning and has 963 halite.
+Ship 3 is action returning, going to Position(4, 23).
+Ship 5 is in action.
+choice = returning.
+Ship 5 has action is returning and has 1000 halite.
+Ship 5 is action returning, going to Position(1, 25).
+Ship 9 is in action.
+choice = exploring.
+Ship 9 has action is exploring and has 756 halite.
+Ship 9 is exploring, going to Position(0, 22), with 226.
+==== TURN 34 TIME 7.6% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = returning.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = returning.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = returning.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+Ship 7 has action is stay and has 883 halite.
+Ship 7 = Stay, staying at Position(1, 26).
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 9 has action is stay and has 748 halite.
+Ship 9 = Stay, staying at Position(0, 22).
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 1 is in action.
+choice = returning.
+Ship 1 has action is returning and has 914 halite.
+Ship 1 is action returning, going to Position(8, 24).
+Ship 3 is in action.
+choice = returning.
+Ship 3 has action is returning and has 956 halite.
+Ship 3 is action returning, going to Position(5, 23).
+Ship 5 is in action.
+choice = returning.
+Ship 5 has action is returning and has 946 halite.
+Ship 5 is action returning, going to Position(2, 25).
+==== TURN 35 TIME 7.8% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = returning.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = returning.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = returning.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 9 has action is stay and has 805 halite.
+Ship 9 = Stay, staying at Position(0, 22).
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 1 is in action.
+choice = returning.
+Ship 1 has action is returning and has 913 halite.
+Ship 1 is action returning, going to Position(9, 24).
+Ship 3 is in action.
+choice = returning.
+Ship 3 has action is returning and has 950 halite.
+Ship 3 is action returning, going to Position(6, 23).
+Ship 5 is in action.
+choice = returning.
+Ship 5 has action is returning and has 939 halite.
+Ship 5 is action returning, going to Position(3, 25).
+Ship 7 is in action.
+choice = returning.
+Ship 7 has action is returning and has 968 halite.
+Ship 7 is action returning, going to Position(2, 26).
+==== TURN 36 TIME 8.0% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = returning.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = returning.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = returning.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = returning.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 9 has action is stay and has 848 halite.
+Ship 9 = Stay, staying at Position(0, 22).
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 1 is in action.
+choice = returning.
+Ship 1 has action is returning and has 913 halite.
+Ship 1 is action returning, going to Position(10, 24).
+Ship 3 is in action.
+choice = returning.
+Ship 3 has action is returning and has 945 halite.
+Ship 3 is action returning, going to Position(7, 23).
+Ship 5 is in action.
+choice = returning.
+Ship 5 has action is returning and has 931 halite.
+Ship 5 is action returning, going to Position(4, 25).
+Ship 7 is in action.
+choice = returning.
+Ship 7 has action is returning and has 943 halite.
+Ship 7 is action returning, going to Position(3, 26).
+==== TURN 37 TIME 8.2% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = returning.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = returning.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = returning.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = returning.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 1 is in action.
+choice = returning.
+Ship 1 has action is returning and has 910 halite.
+Ship 1 is action returning, going to Position(11, 24).
+Ship 3 is in action.
+choice = returning.
+Ship 3 has action is returning and has 941 halite.
+Ship 3 is action returning, going to Position(8, 23).
+Ship 5 is in action.
+choice = returning.
+Ship 5 has action is returning and has 922 halite.
+Ship 5 is action returning, going to Position(5, 25).
+Ship 7 is in action.
+choice = returning.
+Ship 7 has action is returning and has 934 halite.
+Ship 7 is action returning, going to Position(4, 26).
+Ship 9 is in action.
+choice = exploring.
+Ship 9 has action is exploring and has 880 halite.
+Ship 9 is exploring, going to Position(0, 23), with 238.
+==== TURN 38 TIME 8.4% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = returning.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = returning.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = returning.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = returning.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 9 has action is stay and has 871 halite.
+Ship 9 = Stay, staying at Position(0, 23).
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 1 is in action.
+choice = returning.
+Ship 1 has action is returning and has 903 halite.
+Ship 1 is action returning, going to Position(12, 24).
+Ship 3 is in action.
+choice = returning.
+Ship 3 has action is returning and has 940 halite.
+Ship 3 is action returning, going to Position(9, 23).
+Ship 5 is in action.
+choice = returning.
+Ship 5 has action is returning and has 917 halite.
+Ship 5 is action returning, going to Position(6, 25).
+Ship 7 is in action.
+choice = returning.
+Ship 7 has action is returning and has 926 halite.
+Ship 7 is action returning, going to Position(5, 26).
+==== TURN 39 TIME 8.7% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = returning.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = returning.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = returning.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = returning.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 9 has action is stay and has 931 halite.
+Ship 9 = Stay, staying at Position(0, 23).
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 1 is in action.
+choice = exploring.
+Ship 1 has action is exploring and has 0 halite.
+Ship 1 is exploring, going to Position(11, 24), with 33.
+Ship 3 is in action.
+choice = returning.
+Ship 3 has action is returning and has 938 halite.
+Ship 3 is action returning, going to Position(10, 23).
+Ship 5 is in action.
+data.turtle_list.STATUS = returning.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 has action is stay and has 338 halite.
+Ship 8 = Stay, staying at Position(46, 27).
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 0 is in action.
+choice = returning.
+Ship 0 has action is returning and has 848 halite.
+Ship 0 is action returning, going to Position(36, 24).
+Ship 2 is in action.
+choice = returning.
+Ship 2 has action is returning and has 904 halite.
+Ship 2 is action returning, going to Position(37, 25).
+Ship 4 is in action.
+choice = returning.
+Ship 4 has action is returning and has 932 halite.
+Ship 4 is action returning, going to Position(40, 24).
+Ship 6 is in action.
+choice = returning.
+Ship 6 has action is returning and has 936 halite.
+Ship 6 is action returning, going to Position(39, 26).
+==== TURN 40 TIME 8.9% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = returning.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = returning.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = returning.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = returning.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 has action is stay and has 380 halite.
+Ship 8 = Stay, staying at Position(46, 27).
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 0 is in action.
+choice = returning.
+Ship 0 has action is returning and has 841 halite.
+Ship 0 is action returning, going to Position(35, 24).
+Ship 2 is in action.
+choice = returning.
+Ship 2 has action is returning and has 895 halite.
+Ship 2 is action returning, going to Position(36, 25).
+Ship 4 is in action.
+choice = returning.
+Ship 4 has action is returning and has 928 halite.
+Ship 4 is action returning, going to Position(39, 24).
+Ship 6 is in action.
+choice = returning.
+Ship 6 has action is returning and has 933 halite.
+Ship 6 is action returning, going to Position(38, 26).
+==== TURN 41 TIME 9.1% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = returning.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = returning.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = returning.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = returning.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 8 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 0 halite.
+Ship 0 is exploring, going to Position(36, 24), with 33.
+Ship 2 is in action.
+choice = returning.
+Ship 2 has action is returning and has 891 halite.
+Ship 2 is action returning, going to Position(35, 25).
+Ship 4 is in action.
+choice = returning.
+Ship 4 has action is returning and has 927 halite.
+Ship 4 is action returning, going to Position(38, 24).
+Ship 6 is in action.
+choice = returning.
+Ship 6 has action is returning and has 933 halite.
+Ship 6 is action returning, going to Position(37, 26).
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 411 halite.
+Ship 8 is exploring, going to Position(47, 27), with 416.
+==== TURN 42 TIME 9.3% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 0 halite.
+Ship 0 = Stay, staying at Position(36, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = returning.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = returning.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = returning.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 has action is stay and has 402 halite.
+Ship 8 = Stay, staying at Position(47, 27).
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 2 is in action.
+choice = returning.
+Ship 2 has action is returning and has 885 halite.
+Ship 2 is action returning, going to Position(35, 24).
+Ship 4 is in action.
+choice = returning.
+Ship 4 has action is returning and has 927 halite.
+Ship 4 is action returning, going to Position(37, 24).
+Ship 6 is in action.
+choice = returning.
+Ship 6 has action is returning and has 926 halite.
+Ship 6 is action returning, going to Position(36, 26).
+==== TURN 43 TIME 9.6% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = returning.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = returning.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = returning.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 has action is stay and has 506 halite.
+Ship 8 = Stay, staying at Position(47, 27).
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 9 halite.
+Ship 0 is exploring, going to Position(37, 24), with 75.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 0 halite.
+Ship 2 is exploring, going to Position(36, 24), with 24.
+Ship 4 is in action.
+choice = returning.
+Ship 4 has action is returning and has 924 halite.
+Ship 4 = Safety, going to 6 to Position(37, 25).
+Ship 6 is in action.
+choice = returning.
+Ship 6 has action is returning and has 915 halite.
+Ship 6 is action returning, going to Position(35, 26).
+Je Sapwn!.
+==== TURN 44 TIME 9.8% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 7 halite.
+Ship 0 = Stay, staying at Position(37, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 0 halite.
+Ship 2 = Stay, staying at Position(36, 24).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = returning.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = returning.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 has action is stay and has 584 halite.
+Ship 8 = Stay, staying at Position(47, 27).
+data.turtle_list.ID = 10.
+data.turtle_list.STATUS = exploring.
+Ship 10 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 10 is in action.
+Ship 4 is in action.
+choice = returning.
+Ship 4 has action is returning and has 917 halite.
+Ship 4 is action returning, going to Position(36, 25).
+Ship 6 is in action.
+choice = returning.
+Ship 6 has action is returning and has 910 halite.
+Ship 6 is action returning, going to Position(35, 25).
+Ship 10 is in action.
+choice = exploring.
+Ship 10 has action is exploring and has 0 halite.
+Ship 10 = Safety, going to 6 to Position(34, 24).
+==== TURN 45 TIME 10.0% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = returning.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = returning.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 has action is stay and has 643 halite.
+Ship 8 = Stay, staying at Position(47, 27).
+data.turtle_list.ID = 10.
+data.turtle_list.STATUS = exploring.
+Ship 10 is in action.
+Ship 10 has action is stay and has 0 halite.
+Ship 10 = Stay, staying at Position(34, 24).
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 26 halite.
+Ship 0 is exploring, going to Position(38, 24), with 33.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 6 halite.
+Ship 2 is exploring, going to Position(37, 24), with 56.
+Ship 4 is in action.
+choice = returning.
+Ship 4 has action is returning and has 913 halite.
+choice = returning.
+Ship 5 has action is returning and has 908 halite.
+Ship 5 is action returning, going to Position(7, 25).
+Ship 7 is in action.
+choice = returning.
+Ship 7 has action is returning and has 919 halite.
+Ship 7 is action returning, going to Position(6, 26).
+==== TURN 40 TIME 8.9% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+Ship 1 has action is stay and has 0 halite.
+Ship 1 = Stay, staying at Position(11, 24).
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = returning.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = returning.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = returning.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 3 is in action.
+choice = returning.
+Ship 3 has action is returning and has 937 halite.
+Ship 3 is action returning, going to Position(11, 23).
+Ship 5 is in action.
+choice = returning.
+Ship 5 has action is returning and has 906 halite.
+Ship 5 is action returning, going to Position(8, 25).
+Ship 7 is in action.
+choice = returning.
+Ship 7 has action is returning and has 909 halite.
+Ship 7 is action returning, going to Position(7, 26).
+Ship 9 is in action.
+choice = returning.
+Ship 9 has action is returning and has 976 halite.
+Ship 9 is action returning, going to Position(1, 23).
+==== TURN 41 TIME 9.1% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = returning.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = returning.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = returning.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = returning.
+Ship 9 is in action.
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 1 is in action.
+choice = exploring.
+Ship 1 has action is exploring and has 9 halite.
+Ship 1 is exploring, going to Position(10, 24), with 75.
+Ship 3 is in action.
+choice = returning.
+Ship 3 has action is returning and has 934 halite.
+Ship 3 is action returning, going to Position(12, 23).
+Ship 5 is in action.
+choice = returning.
+Ship 5 has action is returning and has 900 halite.
+Ship 5 is action returning, going to Position(9, 25).
+Ship 7 is in action.
+choice = returning.
+Ship 7 has action is returning and has 904 halite.
+Ship 7 is action returning, going to Position(8, 26).
+Ship 9 is in action.
+choice = returning.
+Ship 9 has action is returning and has 963 halite.
+Ship 9 is action returning, going to Position(2, 23).
+==== TURN 42 TIME 9.3% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+Ship 1 has action is stay and has 7 halite.
+Ship 1 = Stay, staying at Position(10, 24).
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = returning.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = returning.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = returning.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = returning.
+Ship 9 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 3 is in action.
+choice = returning.
+Ship 3 has action is returning and has 928 halite.
+Ship 3 is action returning, going to Position(12, 24).
+Ship 5 is in action.
+choice = returning.
+Ship 5 has action is returning and has 898 halite.
+Ship 5 is action returning, going to Position(10, 25).
+Ship 7 is in action.
+choice = returning.
+Ship 7 has action is returning and has 901 halite.
+Ship 7 is action returning, going to Position(9, 26).
+Ship 9 is in action.
+choice = returning.
+Ship 9 has action is returning and has 956 halite.
+Ship 9 is action returning, going to Position(3, 23).
+==== TURN 43 TIME 9.6% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = returning.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = returning.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = returning.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = returning.
+Ship 9 is in action.
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 1 is in action.
+choice = exploring.
+Ship 1 has action is exploring and has 26 halite.
+Ship 1 is exploring, going to Position(9, 24), with 33.
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 0 halite.
+Ship 3 is exploring, going to Position(11, 24), with 24.
+Ship 5 is in action.
+choice = returning.
+Ship 5 has action is returning and has 889 halite.
+Ship 5 is action returning, going to Position(11, 25).
+Ship 7 is in action.
+choice = returning.
+Ship 7 has action is returning and has 901 halite.
+Ship 7 is action returning, going to Position(10, 26).
+Ship 9 is in action.
+choice = returning.
+Ship 9 has action is returning and has 949 halite.
+Ship 9 is action returning, going to Position(4, 23).
+Je Sapwn!.
+==== TURN 44 TIME 9.8% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+Ship 3 has action is stay and has 0 halite.
+Ship 3 = Stay, staying at Position(11, 24).
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = returning.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = returning.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = returning.
+Ship 9 is in action.
+data.turtle_list.ID = 11.
+data.turtle_list.STATUS = exploring.
+Ship 11 is in action.
+Ship 1 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 11 is in action.
+Ship 1 is in action.
+choice = exploring.
+Ship 1 has action is exploring and has 21 halite.
+Ship 1 is exploring, going to Position(8, 24), with 6.
+Ship 5 is in action.
+choice = returning.
+Ship 5 has action is returning and has 881 halite.
+Ship 5 is action returning, going to Position(12, 25).
+Ship 7 is in action.
+choice = returning.
+Ship 7 has action is returning and has 894 halite.
+Ship 7 is action returning, going to Position(11, 26).
+Ship 9 is in action.
+choice = returning.
+Ship 9 has action is returning and has 942 halite.
+Ship 9 is action returning, going to Position(5, 23).
+Ship 11 is in action.
+choice = exploring.
+Ship 11 has action is exploring and has 0 halite.
+Ship 11 is exploring, going to Position(12, 23), with 39.
+==== TURN 45 TIME 10.0% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = returning.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = returning.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = returning.
+Ship 9 is in action.
+data.turtle_list.ID = 11.
+data.turtle_list.STATUS = exploring.
+Ship 11 is in action.
+Ship 11 has action is stay and has 0 halite.
+Ship 11 = Stay, staying at Position(12, 23).
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 1 is in action.
+choice = exploring.
+Ship 1 has action is exploring and has 18 halite.
+Ship 1 is exploring, going to Position(7, 24), with 12.
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 6 halite.
+Ship 3 is exploring, going to Position(10, 24), with 56.
+Ship 5 is in action.
+choice = returning.
+Ship 5 has action is returning and has 875 halite.
+Ship 5 is action returning, going to Position(12, 24).
+Ship 7 is in action.
+choice = returning.
+Ship 7 has action is returning and has 883 halite.
+Ship 7 is action returning, going to Position(12, 26).
+Ship 9 is in action.
+choice = returning.
+Ship 9 has action is returning and has 936 halite.
+Ship 9 is action returning, going to Position(6, 23).
+==== TURN 46 TIME 10.2% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+Ship 3 has action is stay and has 5 halite.
+Ship 3 = Stay, staying at Position(10, 24).
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = returning.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = returning.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = returning.
+Ship 9 is in action.
+data.turtle_list.ID = 11.
+data.turtle_list.STATUS = exploring.
+Ship 11 is in action.
+Ship 1 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 11 is in action.
+Ship 1 is in action.
+choice = exploring.
+Ship 1 has action is exploring and has 18 halite.
+Ship 1 is exploring, going to Position(6, 24), with 45.
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 0 halite.
+Ship 5 is exploring, going to Position(11, 24), with 18.
+Ship 7 is in action.
+choice = returning.
+Ship 7 has action is returning and has 878 halite.
+Ship 7 is action returning, going to Position(12, 25).
+Ship 9 is in action.
+choice = returning.
+Ship 9 has action is returning and has 931 halite.
+Ship 9 is action returning, going to Position(7, 23).
+Ship 11 is in action.
+choice = exploring.
+Ship 11 has action is exploring and has 10 halite.
+Ship 11 is exploring, going to Position(11, 23), with 62.
+Je Sapwn!.
+==== TURN 47 TIME 10.4% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+Ship 5 has action is stay and has 0 halite.
+Ship 5 = Stay, staying at Position(11, 24).
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = returning.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = returning.
+Ship 9 is in action.
+data.turtle_list.ID = 11.
+data.turtle_list.STATUS = exploring.
+Ship 11 is in action.
+data.turtle_list.ID = 12.
+data.turtle_list.STATUS = exploring.
+Ship 12 is in action.
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 11 is in action.
+Ship 12 is in action.
+Ship 1 is in action.
+choice = exploring.
+Ship 1 has action is exploring and has 17 halite.
+Ship 1 is exploring, going to Position(5, 24), with 43.
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 19 halite.
+Ship 3 is exploring, going to Position(9, 24), with 33.
+Ship 7 is in action.
+choice = returning.
+Ship 7 has action is returning and has 876 halite.
+Ship 7 is action returning, going to Position(12, 24).
+Ship 9 is in action.
+choice = returning.
+Ship 9 has action is returning and has 927 halite.
+Ship 9 is action returning, going to Position(8, 23).
+Ship 11 is in action.
+choice = exploring.
+Ship 11 has action is exploring and has 8 halite.
+Ship 11 is exploring, going to Position(10, 23), with 33.
+Ship 12 is in action.
+choice = exploring.
+Ship 12 has action is exploring and has 0 halite.
+Ship 12 is exploring, going to Position(12, 23), with 29.
+==== TURN 48 TIME 10.7% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = returning.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = returning.
+Ship 9 is in action.
+data.turtle_list.ID = 11.
+data.turtle_list.STATUS = exploring.
+Ship 11 is in action.
+Ship 11 has action is stay and has 2 halite.
+Ship 11 = Stay, staying at Position(10, 23).
+data.turtle_list.ID = 12.
+data.turtle_list.STATUS = exploring.
+Ship 12 is in action.
+Ship 12 has action is stay and has 0 halite.
+Ship 12 = Stay, staying at Position(12, 23).
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 1 is in action.
+choice = exploring.
+Ship 1 has action is exploring and has 13 halite.
+Ship 1 is exploring, going to Position(4, 24), with 29.
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 15 halite.
+Ship 3 is exploring, going to Position(8, 24), with 6.
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 5 halite.
+Ship 5 is exploring, going to Position(10, 24), with 42.
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 0 halite.
+Ship 7 is exploring, going to Position(11, 24), with 13.
+Ship 9 is in action.
+choice = returning.
+Ship 9 has action is returning and has 926 halite.
+Ship 9 is action returning, going to Position(9, 23).
+Je Sapwn!.
+==== TURN 49 TIME 10.9% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+Ship 5 has action is stay and has 4 halite.
+Ship 5 = Stay, staying at Position(10, 24).
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+Ship 7 has action is stay and has 0 halite.
+Ship 7 = Stay, staying at Position(11, 24).
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = returning.
+Ship 9 is in action.
+data.turtle_list.ID = 11.
+data.turtle_list.STATUS = exploring.
+Ship 11 is in action.
+data.turtle_list.ID = 12.
+data.turtle_list.STATUS = exploring.
+Ship 12 is in action.
+data.turtle_list.ID = 15.
+data.turtle_list.STATUS = exploring.
+Ship 15 is in action.
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 9 is in action.
+Ship 11 is in action.
+Ship 12 is in action.
+Ship 15 is in action.
+Ship 1 is in action.
+choice = exploring.
+Ship 1 has action is exploring and has 9 halite.
+Ship 1 is exploring, going to Position(3, 24), with 64.
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 12 halite.
+Ship 3 is exploring, going to Position(7, 24), with 12.
+Ship 9 is in action.
+choice = returning.
+Ship 9 has action is returning and has 924 halite.
+Ship 9 is action returning, going to Position(10, 23).
+Ship 11 is in action.
+choice = exploring.
+Ship 11 has action is exploring and has 11 halite.
+Ship 11 is exploring, going to Position(9, 23), with 14.
+Ship 12 is in action.
+choice = exploring.
+Ship 12 has action is exploring and has 8 halite.
+Ship 12 is exploring, going to Position(11, 23), with 62.
+Ship 15 is in action.
+choice = exploring.
+Ship 15 has action is exploring and has 0 halite.
+Ship 15 is exploring, going to Position(12, 23), with 21.
+==== TURN 50 TIME 11.1% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = returning.
+Ship 9 is in action.
+data.turtle_list.ID = 11.
+data.turtle_list.STATUS = exploring.
+Ship 11 is in action.
+data.turtle_list.ID = 12.
+data.turtle_list.STATUS = exploring.
+Ship 12 is in action.
+Ship 12 has action is stay and has 6 halite.
+Ship 12 = Stay, staying at Position(11, 23).
+data.turtle_list.ID = 15.
+data.turtle_list.STATUS = exploring.
+Ship 15 is in action.
+Ship 15 has action is stay and has 0 halite.
+Ship 15 = Stay, staying at Position(12, 23).
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 11 is in action.
+Ship 1 is in action.
+choice = exploring.
+Ship 1 has action is exploring and has 7 halite.
+Ship 1 is exploring, going to Position(2, 24), with 75.
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 12 halite.
+Ship 3 is exploring, going to Position(6, 24), with 45.
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 15 halite.
+Ship 5 is exploring, going to Position(9, 24), with 33.
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 4 halite.
+Ship 4 is action returning, going to Position(35, 25).
+Ship 6 is in action.
+choice = returning.
+Ship 6 has action is returning and has 908 halite.
+Ship 6 is action returning, going to Position(35, 24).
+==== TURN 46 TIME 10.2% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 5 halite.
+Ship 2 = Stay, staying at Position(37, 24).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = returning.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = returning.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 has action is stay and has 687 halite.
+Ship 8 = Stay, staying at Position(47, 27).
+data.turtle_list.ID = 10.
+data.turtle_list.STATUS = exploring.
+Ship 10 is in action.
+Ship 10 has action is stay and has 52 halite.
+Ship 10 = Stay, staying at Position(34, 24).
+Ship 0 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 21 halite.
+Ship 0 is exploring, going to Position(39, 24), with 6.
+Ship 4 is in action.
+choice = returning.
+Ship 4 has action is returning and has 907 halite.
+Ship 4 is action returning, going to Position(35, 24).
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 0 halite.
+Ship 6 is exploring, going to Position(36, 24), with 18.
+==== TURN 47 TIME 10.4% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = returning.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 0 halite.
+Ship 6 = Stay, staying at Position(36, 24).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+data.turtle_list.ID = 10.
+data.turtle_list.STATUS = exploring.
+Ship 10 is in action.
+Ship 10 has action is stay and has 91 halite.
+Ship 10 = Stay, staying at Position(34, 24).
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 8 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 18 halite.
+Ship 0 is exploring, going to Position(40, 24), with 12.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 19 halite.
+Ship 2 is exploring, going to Position(38, 24), with 33.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 0 halite.
+Ship 4 is exploring, going to Position(35, 25), with 24.
+Ship 8 is in action.
+choice = exploring.
+Ship 8 has action is exploring and has 720 halite.
+Ship 8 is exploring, going to Position(47, 26), with 406.
+Je Sapwn!.
+==== TURN 48 TIME 10.7% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 0 halite.
+Ship 4 = Stay, staying at Position(35, 25).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 has action is stay and has 711 halite.
+Ship 8 = Stay, staying at Position(47, 26).
+data.turtle_list.ID = 10.
+data.turtle_list.STATUS = exploring.
+Ship 10 is in action.
+data.turtle_list.ID = 13.
+data.turtle_list.STATUS = exploring.
+Ship 13 is in action.
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 6 is in action.
+Ship 10 is in action.
+Ship 13 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 18 halite.
+Ship 0 is exploring, going to Position(41, 24), with 45.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 15 halite.
+Ship 2 is exploring, going to Position(39, 24), with 6.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 5 halite.
+Ship 6 is exploring, going to Position(37, 24), with 42.
+Ship 10 is in action.
+choice = exploring.
+Ship 10 has action is exploring and has 121 halite.
+Ship 10 is exploring, going to Position(33, 24), with 132.
+Ship 13 is in action.
+choice = exploring.
+Ship 13 has action is exploring and has 0 halite.
+Ship 13 is exploring, going to Position(36, 24), with 13.
+Je Sapwn!.
+==== TURN 49 TIME 10.9% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 4 halite.
+Ship 6 = Stay, staying at Position(37, 24).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 has action is stay and has 813 halite.
+Ship 8 = Stay, staying at Position(47, 26).
+data.turtle_list.ID = 10.
+data.turtle_list.STATUS = exploring.
+Ship 10 is in action.
+Ship 10 has action is stay and has 113 halite.
+Ship 10 = Stay, staying at Position(33, 24).
+data.turtle_list.ID = 13.
+data.turtle_list.STATUS = exploring.
+Ship 13 is in action.
+Ship 13 has action is stay and has 0 halite.
+Ship 13 = Stay, staying at Position(36, 24).
+data.turtle_list.ID = 14.
+data.turtle_list.STATUS = exploring.
+Ship 14 is in action.
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 14 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 17 halite.
+Ship 0 is exploring, going to Position(42, 24), with 58.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 12 halite.
+Ship 2 is exploring, going to Position(40, 24), with 12.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 6 halite.
+Ship 4 is exploring, going to Position(36, 25), with 60.
+Ship 14 is in action.
+choice = exploring.
+Ship 14 has action is exploring and has 0 halite.
+Ship 14 is exploring, going to Position(35, 25), with 18.
+==== TURN 50 TIME 11.1% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 5 halite.
+Ship 4 = Stay, staying at Position(36, 25).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 has action is stay and has 889 halite.
+Ship 8 = Stay, staying at Position(47, 26).
+data.turtle_list.ID = 10.
+data.turtle_list.STATUS = exploring.
+Ship 10 is in action.
+data.turtle_list.ID = 13.
+data.turtle_list.STATUS = exploring.
+Ship 13 is in action.
+data.turtle_list.ID = 14.
+data.turtle_list.STATUS = exploring.
+Ship 14 is in action.
+Ship 14 has action is stay and has 0 halite.
+Ship 14 = Stay, staying at Position(35, 25).
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 6 is in action.
+Ship 10 is in action.
+Ship 13 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 13 halite.
+Ship 0 is exploring, going to Position(43, 24), with 29.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 12 halite.
+Ship 2 is exploring, going to Position(41, 24), with 45.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 15 halite.
+Ship 6 is exploring, going to Position(38, 24), with 33.
+Ship 10 is in action.
+choice = exploring.
+Ship 10 has action is exploring and has 146 halite.
+Ship 10 is exploring, going to Position(32, 24), with 193.
+Ship 13 is in action.
+choice = exploring.
+Ship 13 has action is exploring and has 4 halite.
+Ship 13 is exploring, going to Position(37, 24), with 31.
+==== TURN 51 TIME 11.3% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 7 is exploring, going to Position(10, 24), with 31.
+Ship 9 is in action.
+choice = returning.
+Ship 9 has action is returning and has 923 halite.
+Ship 9 = Safety, going to 6 to Position(10, 22).
+Ship 11 is in action.
+choice = exploring.
+Ship 11 has action is exploring and has 9 halite.
+Ship 11 is exploring, going to Position(8, 23), with 24.
+==== TURN 51 TIME 11.3% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+Ship 1 has action is stay and has 1 halite.
+Ship 1 = Stay, staying at Position(2, 24).
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = returning.
+Ship 9 is in action.
+data.turtle_list.ID = 11.
+data.turtle_list.STATUS = exploring.
+Ship 11 is in action.
+data.turtle_list.ID = 12.
+data.turtle_list.STATUS = exploring.
+Ship 12 is in action.
+data.turtle_list.ID = 15.
+data.turtle_list.STATUS = exploring.
+Ship 15 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 11 is in action.
+Ship 12 is in action.
+Ship 15 is in action.
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 11 halite.
+Ship 3 is exploring, going to Position(5, 24), with 43.
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 12 halite.
+Ship 5 is exploring, going to Position(8, 24), with 6.
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 4 halite.
+Ship 7 is exploring, going to Position(9, 24), with 33.
+Ship 9 is in action.
+choice = returning.
+Ship 9 has action is returning and has 921 halite.
+Ship 9 is action returning, going to Position(11, 22).
+Ship 11 is in action.
+choice = exploring.
+Ship 11 has action is exploring and has 8 halite.
+Ship 11 is exploring, going to Position(7, 23), with 12.
+Ship 12 is in action.
+choice = exploring.
+Ship 12 has action is exploring and has 22 halite.
+Ship 12 is exploring, going to Position(10, 23), with 24.
+Ship 15 is in action.
+choice = exploring.
+Ship 15 has action is exploring and has 6 halite.
+Ship 15 is exploring, going to Position(11, 23), with 46.
+==== TURN 52 TIME 11.6% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+Ship 7 has action is stay and has 1 halite.
+Ship 7 = Stay, staying at Position(9, 24).
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = returning.
+Ship 9 is in action.
+data.turtle_list.ID = 11.
+data.turtle_list.STATUS = exploring.
+Ship 11 is in action.
+data.turtle_list.ID = 12.
+data.turtle_list.STATUS = exploring.
+Ship 12 is in action.
+data.turtle_list.ID = 15.
+data.turtle_list.STATUS = exploring.
+Ship 15 is in action.
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 9 is in action.
+Ship 11 is in action.
+Ship 12 is in action.
+Ship 15 is in action.
+Ship 1 is in action.
+choice = exploring.
+Ship 1 has action is exploring and has 20 halite.
+Ship 1 is exploring, going to Position(1, 24), with 98.
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 7 halite.
+Ship 3 is exploring, going to Position(4, 24), with 29.
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 9 halite.
+Ship 5 is exploring, going to Position(7, 24), with 12.
+Ship 9 is in action.
+choice = returning.
+Ship 9 has action is returning and has 920 halite.
+Ship 9 is action returning, going to Position(12, 22).
+Ship 11 is in action.
+choice = exploring.
+Ship 11 has action is exploring and has 6 halite.
+Ship 11 is exploring, going to Position(6, 23), with 45.
+Ship 12 is in action.
+choice = exploring.
+Ship 12 has action is exploring and has 18 halite.
+Ship 12 is exploring, going to Position(9, 23), with 14.
+Ship 15 is in action.
+choice = exploring.
+Ship 15 has action is exploring and has 5 halite.
+Ship 15 is exploring, going to Position(10, 23), with 24.
+==== TURN 53 TIME 11.8% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = returning.
+Ship 9 is in action.
+data.turtle_list.ID = 11.
+data.turtle_list.STATUS = exploring.
+Ship 11 is in action.
+data.turtle_list.ID = 12.
+data.turtle_list.STATUS = exploring.
+Ship 12 is in action.
+data.turtle_list.ID = 15.
+data.turtle_list.STATUS = exploring.
+Ship 15 is in action.
+Ship 15 has action is stay and has 1 halite.
+Ship 15 = Stay, staying at Position(10, 23).
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 11 is in action.
+Ship 12 is in action.
+Ship 1 is in action.
+choice = exploring.
+Ship 1 has action is exploring and has 15 halite.
+Ship 1 is exploring, going to Position(0, 24), with 547.
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 3 halite.
+Ship 3 is exploring, going to Position(3, 24), with 64.
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 9 halite.
+Ship 5 is exploring, going to Position(6, 24), with 45.
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 10 halite.
+Ship 7 is exploring, going to Position(8, 24), with 6.
+Ship 9 is in action.
+choice = returning.
+Ship 9 has action is returning and has 912 halite.
+Ship 9 is action returning, going to Position(12, 23).
+Ship 11 is in action.
+choice = exploring.
+Ship 11 has action is exploring and has 5 halite.
+Ship 11 is exploring, going to Position(5, 23), with 52.
+Ship 12 is in action.
+choice = exploring.
+Ship 12 has action is exploring and has 16 halite.
+Ship 12 is exploring, going to Position(8, 23), with 24.
+==== TURN 54 TIME 12.0% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+Ship 1 has action is stay and has 6 halite.
+Ship 1 = Stay, staying at Position(0, 24).
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+Ship 3 has action is stay and has 1 halite.
+Ship 3 = Stay, staying at Position(3, 24).
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = returning.
+Ship 9 is in action.
+data.turtle_list.ID = 11.
+data.turtle_list.STATUS = exploring.
+Ship 11 is in action.
+Ship 11 has action is stay and has 1 halite.
+Ship 11 = Stay, staying at Position(5, 23).
+data.turtle_list.ID = 12.
+data.turtle_list.STATUS = exploring.
+Ship 12 is in action.
+data.turtle_list.ID = 15.
+data.turtle_list.STATUS = exploring.
+Ship 15 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 12 is in action.
+Ship 15 is in action.
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 8 halite.
+Ship 5 is exploring, going to Position(5, 24), with 43.
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 8 halite.
+Ship 7 is exploring, going to Position(7, 24), with 12.
+Ship 9 is in action.
+choice = returning.
+Ship 9 has action is returning and has 901 halite.
+Ship 9 is action returning, going to Position(12, 24).
+Ship 12 is in action.
+choice = exploring.
+Ship 12 has action is exploring and has 15 halite.
+Ship 12 is exploring, going to Position(7, 23), with 12.
+Ship 15 is in action.
+choice = exploring.
+Ship 15 has action is exploring and has 7 halite.
+Ship 15 is exploring, going to Position(9, 23), with 14.
+==== TURN 55 TIME 12.2% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+Ship 1 has action is stay and has 143 halite.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+Ship 8 has action is stay and has 946 halite.
+Ship 8 = Stay, staying at Position(47, 26).
+data.turtle_list.ID = 10.
+data.turtle_list.STATUS = exploring.
+Ship 10 is in action.
+Ship 10 has action is stay and has 137 halite.
+Ship 10 = Stay, staying at Position(32, 24).
+data.turtle_list.ID = 13.
+data.turtle_list.STATUS = exploring.
+Ship 13 is in action.
+data.turtle_list.ID = 14.
+data.turtle_list.STATUS = exploring.
+Ship 14 is in action.
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 13 is in action.
+Ship 14 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 8 halite.
+Ship 0 is exploring, going to Position(44, 24), with 64.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 11 halite.
+Ship 2 is exploring, going to Position(42, 24), with 58.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 20 halite.
+Ship 4 is exploring, going to Position(37, 25), with 48.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 12 halite.
+Ship 6 is exploring, going to Position(39, 24), with 6.
+Ship 13 is in action.
+choice = exploring.
+Ship 13 has action is exploring and has 4 halite.
+Ship 13 is exploring, going to Position(38, 24), with 33.
+Ship 14 is in action.
+choice = exploring.
+Ship 14 has action is exploring and has 5 halite.
+Ship 14 is exploring, going to Position(36, 25), with 45.
+==== TURN 52 TIME 11.6% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 6 halite.
+Ship 0 = Stay, staying at Position(44, 24).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = exploring.
+Ship 8 is in action.
+data.turtle_list.ID = 10.
+data.turtle_list.STATUS = exploring.
+Ship 10 is in action.
+Ship 10 has action is stay and has 186 halite.
+Ship 10 = Stay, staying at Position(32, 24).
+data.turtle_list.ID = 13.
+data.turtle_list.STATUS = exploring.
+Ship 13 is in action.
+Ship 13 has action is stay and has 1 halite.
+Ship 13 = Stay, staying at Position(38, 24).
+data.turtle_list.ID = 14.
+data.turtle_list.STATUS = exploring.
+Ship 14 is in action.
+Ship 14 has action is stay and has 4 halite.
+Ship 14 = Stay, staying at Position(36, 25).
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 8 is in action.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 7 halite.
+Ship 2 is exploring, going to Position(43, 24), with 29.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 16 halite.
+Ship 4 is exploring, going to Position(38, 25), with 94.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 9 halite.
+Ship 6 is exploring, going to Position(40, 24), with 12.
+Ship 8 is in action.
+choice = returning.
+Ship 8 has action is returning and has 989 halite.
+Ship 8 is action returning, going to Position(46, 26).
+==== TURN 53 TIME 11.8% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 2 halite.
+Ship 2 = Stay, staying at Position(43, 24).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = returning.
+Ship 8 is in action.
+data.turtle_list.ID = 10.
+data.turtle_list.STATUS = exploring.
+Ship 10 is in action.
+Ship 10 has action is stay and has 222 halite.
+Ship 10 = Stay, staying at Position(32, 24).
+data.turtle_list.ID = 13.
+data.turtle_list.STATUS = exploring.
+Ship 13 is in action.
+data.turtle_list.ID = 14.
+data.turtle_list.STATUS = exploring.
+Ship 14 is in action.
+Ship 0 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 8 is in action.
+Ship 13 is in action.
+Ship 14 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 22 halite.
+Ship 0 is exploring, going to Position(45, 24), with 56.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 12 halite.
+Ship 4 is exploring, going to Position(39, 25), with 28.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 9 halite.
+Ship 6 is exploring, going to Position(41, 24), with 45.
+Ship 8 is in action.
+choice = returning.
+Ship 8 has action is returning and has 977 halite.
+Ship 8 is action returning, going to Position(45, 26).
+Ship 13 is in action.
+choice = exploring.
+Ship 13 has action is exploring and has 10 halite.
+Ship 13 is exploring, going to Position(39, 24), with 6.
+Ship 14 is in action.
+choice = exploring.
+Ship 14 has action is exploring and has 16 halite.
+Ship 14 is exploring, going to Position(37, 25), with 48.
+==== TURN 54 TIME 12.0% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = returning.
+Ship 8 is in action.
+data.turtle_list.ID = 10.
+data.turtle_list.STATUS = exploring.
+Ship 10 is in action.
+data.turtle_list.ID = 13.
+data.turtle_list.STATUS = exploring.
+Ship 13 is in action.
+data.turtle_list.ID = 14.
+data.turtle_list.STATUS = exploring.
+Ship 14 is in action.
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 8 is in action.
+Ship 10 is in action.
+Ship 13 is in action.
+Ship 14 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 18 halite.
+Ship 0 is exploring, going to Position(46, 24), with 98.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 10 halite.
+Ship 2 is exploring, going to Position(44, 24), with 48.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 3 halite.
+Ship 4 is exploring, going to Position(40, 25), with 51.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 8 halite.
+Ship 6 is exploring, going to Position(42, 24), with 58.
+Ship 8 is in action.
+choice = returning.
+Ship 8 has action is returning and has 952 halite.
+Ship 8 is action returning, going to Position(44, 26).
+Ship 10 is in action.
+choice = exploring.
+Ship 10 has action is exploring and has 249 halite.
+Ship 10 is exploring, going to Position(31, 24), with 203.
+Ship 13 is in action.
+choice = exploring.
+Ship 13 has action is exploring and has 8 halite.
+Ship 13 is exploring, going to Position(40, 24), with 12.
+Ship 14 is in action.
+choice = exploring.
+Ship 14 has action is exploring and has 13 halite.
+Ship 14 is exploring, going to Position(38, 25), with 94.
+==== TURN 55 TIME 12.2% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 1 halite.
+Ship 4 = Stay, staying at Position(40, 25).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 4 halite.
+Ship 6 = Stay, staying at Position(42, 24).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = returning.
+Ship 8 is in action.
+data.turtle_list.ID = 10.
+data.turtle_list.STATUS = exploring.
+Ship 10 is in action.
+Ship 1 = Stay, staying at Position(0, 24).
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+Ship 5 has action is stay and has 4 halite.
+Ship 5 = Stay, staying at Position(5, 24).
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = returning.
+Ship 9 is in action.
+data.turtle_list.ID = 11.
+data.turtle_list.STATUS = exploring.
+Ship 11 is in action.
+data.turtle_list.ID = 12.
+data.turtle_list.STATUS = exploring.
+Ship 12 is in action.
+data.turtle_list.ID = 15.
+data.turtle_list.STATUS = exploring.
+Ship 15 is in action.
+Ship 3 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 11 is in action.
+Ship 12 is in action.
+Ship 15 is in action.
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 17 halite.
+Ship 3 is exploring, going to Position(2, 24), with 56.
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 8 halite.
+Ship 7 is exploring, going to Position(6, 24), with 45.
+Ship 9 is in action.
+choice = exploring.
+Ship 9 has action is exploring and has 0 halite.
+Ship 9 is exploring, going to Position(11, 24), with 9.
+Ship 11 is in action.
+choice = exploring.
+Ship 11 has action is exploring and has 14 halite.
+Ship 11 is exploring, going to Position(4, 23), with 62.
+Ship 12 is in action.
+choice = exploring.
+Ship 12 has action is exploring and has 13 halite.
+Ship 12 is exploring, going to Position(6, 23), with 45.
+Ship 15 is in action.
+choice = exploring.
+Ship 15 has action is exploring and has 6 halite.
+Ship 15 is exploring, going to Position(8, 23), with 24.
+Je Sapwn!.
+==== TURN 56 TIME 12.4% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+Ship 1 has action is stay and has 452 halite.
+Ship 1 = Stay, staying at Position(0, 24).
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 9 has action is stay and has 0 halite.
+Ship 9 = Stay, staying at Position(11, 24).
+data.turtle_list.ID = 11.
+data.turtle_list.STATUS = exploring.
+Ship 11 is in action.
+data.turtle_list.ID = 12.
+data.turtle_list.STATUS = exploring.
+Ship 12 is in action.
+data.turtle_list.ID = 15.
+data.turtle_list.STATUS = exploring.
+Ship 15 is in action.
+data.turtle_list.ID = 16.
+data.turtle_list.STATUS = exploring.
+Ship 16 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 11 is in action.
+Ship 12 is in action.
+Ship 15 is in action.
+Ship 16 is in action.
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 13 halite.
+Ship 3 is exploring, going to Position(1, 24), with 98.
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 15 halite.
+Ship 5 is exploring, going to Position(4, 24), with 29.
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 7 halite.
+Ship 7 is exploring, going to Position(5, 24), with 32.
+Ship 11 is in action.
+choice = exploring.
+Ship 11 has action is exploring and has 11 halite.
+Ship 11 is exploring, going to Position(3, 23), with 75.
+Ship 12 is in action.
+choice = exploring.
+Ship 12 has action is exploring and has 12 halite.
+Ship 12 is exploring, going to Position(5, 23), with 39.
+Ship 15 is in action.
+choice = exploring.
+Ship 15 has action is exploring and has 5 halite.
+Ship 15 is exploring, going to Position(7, 23), with 12.
+Ship 16 is in action.
+choice = exploring.
+Ship 16 has action is exploring and has 0 halite.
+Ship 16 is exploring, going to Position(12, 23), with 15.
+==== TURN 57 TIME 12.7% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+Ship 1 has action is stay and has 683 halite.
+Ship 1 = Stay, staying at Position(0, 24).
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+Ship 3 has action is stay and has 8 halite.
+Ship 3 = Stay, staying at Position(1, 24).
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+Ship 7 has action is stay and has 3 halite.
+Ship 7 = Stay, staying at Position(5, 24).
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+data.turtle_list.ID = 11.
+data.turtle_list.STATUS = exploring.
+Ship 11 is in action.
+Ship 11 has action is stay and has 5 halite.
+Ship 11 = Stay, staying at Position(3, 23).
+data.turtle_list.ID = 12.
+data.turtle_list.STATUS = exploring.
+Ship 12 is in action.
+data.turtle_list.ID = 15.
+data.turtle_list.STATUS = exploring.
+Ship 15 is in action.
+data.turtle_list.ID = 16.
+data.turtle_list.STATUS = exploring.
+Ship 16 is in action.
+Ship 16 has action is stay and has 0 halite.
+Ship 16 = Stay, staying at Position(12, 23).
+Ship 5 is in action.
+Ship 9 is in action.
+Ship 12 is in action.
+Ship 15 is in action.
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 12 halite.
+Ship 5 is exploring, going to Position(3, 24), with 48.
+Ship 9 is in action.
+choice = exploring.
+Ship 9 has action is exploring and has 3 halite.
+Ship 9 is exploring, going to Position(10, 24), with 31.
+Ship 12 is in action.
+choice = exploring.
+Ship 12 has action is exploring and has 8 halite.
+Ship 12 is exploring, going to Position(4, 23), with 62.
+Ship 15 is in action.
+choice = exploring.
+Ship 15 has action is exploring and has 3 halite.
+Ship 15 is exploring, going to Position(6, 23), with 45.
+==== TURN 58 TIME 12.9% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+Ship 1 has action is stay and has 857 halite.
+Ship 1 = Stay, staying at Position(0, 24).
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 9 has action is stay and has 3 halite.
+Ship 9 = Stay, staying at Position(10, 24).
+data.turtle_list.ID = 11.
+data.turtle_list.STATUS = exploring.
+Ship 11 is in action.
+data.turtle_list.ID = 12.
+data.turtle_list.STATUS = exploring.
+Ship 12 is in action.
+Ship 12 has action is stay and has 5 halite.
+Ship 12 = Stay, staying at Position(4, 23).
+data.turtle_list.ID = 15.
+data.turtle_list.STATUS = exploring.
+Ship 15 is in action.
+Ship 15 has action is stay and has 2 halite.
+Ship 15 = Stay, staying at Position(6, 23).
+data.turtle_list.ID = 16.
+data.turtle_list.STATUS = exploring.
+Ship 16 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 11 is in action.
+Ship 16 is in action.
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 83 halite.
+Ship 3 is exploring, going to Position(1, 25), with 75.
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 10 halite.
+Ship 5 is exploring, going to Position(2, 24), with 56.
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 11 halite.
+Ship 7 is exploring, going to Position(4, 24), with 29.
+Ship 11 is in action.
+choice = exploring.
+Ship 11 has action is exploring and has 24 halite.
+Ship 11 is exploring, going to Position(2, 23), with 76.
+Ship 16 is in action.
+choice = exploring.
+Ship 16 has action is exploring and has 4 halite.
+Ship 16 is exploring, going to Position(11, 23), with 46.
+==== TURN 59 TIME 13.1% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = exploring.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 10 has action is stay and has 241 halite.
+Ship 10 = Stay, staying at Position(31, 24).
+data.turtle_list.ID = 13.
+data.turtle_list.STATUS = exploring.
+Ship 13 is in action.
+data.turtle_list.ID = 14.
+data.turtle_list.STATUS = exploring.
+Ship 14 is in action.
+Ship 14 has action is stay and has 9 halite.
+Ship 14 = Stay, staying at Position(38, 25).
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 8 is in action.
+Ship 13 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 13 halite.
+Ship 0 is exploring, going to Position(46, 25), with 75.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 8 halite.
+Ship 2 is exploring, going to Position(45, 24), with 56.
+Ship 8 is in action.
+choice = returning.
+Ship 8 has action is returning and has 943 halite.
+Ship 8 is action returning, going to Position(43, 26).
+Ship 13 is in action.
+choice = exploring.
+Ship 13 has action is exploring and has 8 halite.
+Ship 13 is exploring, going to Position(41, 24), with 45.
+==== TURN 56 TIME 12.4% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 4 halite.
+Ship 0 = Stay, staying at Position(46, 25).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 4 halite.
+Ship 2 = Stay, staying at Position(45, 24).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = returning.
+Ship 8 is in action.
+data.turtle_list.ID = 10.
+data.turtle_list.STATUS = exploring.
+Ship 10 is in action.
+Ship 10 has action is stay and has 292 halite.
+Ship 10 = Stay, staying at Position(31, 24).
+data.turtle_list.ID = 13.
+data.turtle_list.STATUS = exploring.
+Ship 13 is in action.
+data.turtle_list.ID = 14.
+data.turtle_list.STATUS = exploring.
+Ship 14 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 8 is in action.
+Ship 13 is in action.
+Ship 14 is in action.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 14 halite.
+Ship 4 is exploring, going to Position(41, 25), with 21.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 19 halite.
+Ship 6 is exploring, going to Position(43, 24), with 21.
+Ship 8 is in action.
+choice = returning.
+Ship 8 has action is returning and has 935 halite.
+Ship 8 is action returning, going to Position(42, 26).
+Ship 13 is in action.
+choice = exploring.
+Ship 13 has action is exploring and has 7 halite.
+Ship 13 is exploring, going to Position(42, 24), with 43.
+Ship 14 is in action.
+choice = exploring.
+Ship 14 has action is exploring and has 33 halite.
+Ship 14 is exploring, going to Position(39, 25), with 28.
+==== TURN 57 TIME 12.7% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = returning.
+Ship 8 is in action.
+data.turtle_list.ID = 10.
+data.turtle_list.STATUS = exploring.
+Ship 10 is in action.
+Ship 10 has action is stay and has 330 halite.
+Ship 10 = Stay, staying at Position(31, 24).
+data.turtle_list.ID = 13.
+data.turtle_list.STATUS = exploring.
+Ship 13 is in action.
+Ship 13 has action is stay and has 3 halite.
+Ship 13 = Stay, staying at Position(42, 24).
+data.turtle_list.ID = 14.
+data.turtle_list.STATUS = exploring.
+Ship 14 is in action.
+Ship 0 is in action.
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 8 is in action.
+Ship 14 is in action.
+Ship 0 is in action.
+choice = exploring.
+Ship 0 has action is exploring and has 23 halite.
+Ship 0 is exploring, going to Position(47, 25), with 546.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 18 halite.
+Ship 2 is exploring, going to Position(45, 23), with 76.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 11 halite.
+Ship 4 is exploring, going to Position(42, 25), with 70.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 15 halite.
+Ship 6 is exploring, going to Position(44, 24), with 48.
+Ship 8 is in action.
+choice = returning.
+Ship 8 has action is returning and has 928 halite.
+Ship 8 is action returning, going to Position(41, 26).
+Ship 14 is in action.
+choice = exploring.
+Ship 14 has action is exploring and has 26 halite.
+Ship 14 is exploring, going to Position(40, 25), with 38.
+==== TURN 58 TIME 12.9% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 18 halite.
+Ship 0 = Stay, staying at Position(47, 25).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = returning.
+Ship 8 is in action.
+data.turtle_list.ID = 10.
+data.turtle_list.STATUS = exploring.
+Ship 10 is in action.
+data.turtle_list.ID = 13.
+data.turtle_list.STATUS = exploring.
+Ship 13 is in action.
+data.turtle_list.ID = 14.
+data.turtle_list.STATUS = exploring.
+Ship 14 is in action.
+Ship 2 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 8 is in action.
+Ship 10 is in action.
+Ship 13 is in action.
+Ship 14 is in action.
+Ship 2 is in action.
+choice = exploring.
+Ship 2 has action is exploring and has 14 halite.
+Ship 2 is exploring, going to Position(45, 22), with 375.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 9 halite.
+Ship 4 is exploring, going to Position(43, 25), with 52.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 13 halite.
+Ship 6 is exploring, going to Position(45, 24), with 42.
+Ship 8 is in action.
+choice = returning.
+Ship 8 has action is returning and has 918 halite.
+Ship 8 is action returning, going to Position(40, 26).
+Ship 10 is in action.
+choice = exploring.
+Ship 10 has action is exploring and has 359 halite.
+Ship 10 is exploring, going to Position(30, 24), with 236.
+Ship 13 is in action.
+choice = exploring.
+Ship 13 has action is exploring and has 14 halite.
+Ship 13 is exploring, going to Position(43, 24), with 21.
+Ship 14 is in action.
+choice = exploring.
+Ship 14 has action is exploring and has 24 halite.
+Ship 14 is exploring, going to Position(41, 25), with 21.
+==== TURN 59 TIME 13.1% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 429 halite.
+Ship 0 = Stay, staying at Position(47, 25).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 7 halite.
+Ship 2 = Stay, staying at Position(45, 22).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 2 halite.
+Ship 4 = Stay, staying at Position(43, 25).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = returning.
+Ship 8 is in action.
+data.turtle_list.ID = 10.
+data.turtle_list.STATUS = exploring.
+Ship 10 is in action.
+Ship 10 has action is stay and has 351 halite.
+Ship 10 = Stay, staying at Position(30, 24).
+data.turtle_list.ID = 13.
+data.turtle_list.STATUS = exploring.
+Ship 13 is in action.
+data.turtle_list.ID = 14.
+data.turtle_list.STATUS = exploring.
+Ship 14 is in action.
+Ship 6 is in action.
+Ship 8 is in action.
+Ship 13 is in action.
+Ship 14 is in action.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 9 halite.
+Ship 6 is exploring, going to Position(46, 24), with 98.
+Ship 8 is in action.
+choice = returning.
+Ship 8 has action is returning and has 913 halite.
+Ship 8 is action returning, going to Position(39, 26).
+Ship 13 is in action.
+choice = exploring.
+Ship 9 is in action.
+data.turtle_list.ID = 11.
+data.turtle_list.STATUS = exploring.
+Ship 11 is in action.
+data.turtle_list.ID = 12.
+data.turtle_list.STATUS = exploring.
+Ship 12 is in action.
+data.turtle_list.ID = 15.
+data.turtle_list.STATUS = exploring.
+Ship 15 is in action.
+data.turtle_list.ID = 16.
+data.turtle_list.STATUS = exploring.
+Ship 16 is in action.
+Ship 16 has action is stay and has 3 halite.
+Ship 16 = Stay, staying at Position(11, 23).
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 11 is in action.
+Ship 12 is in action.
+Ship 15 is in action.
+Ship 1 is in action.
+choice = returning.
+Ship 1 has action is returning and has 986 halite.
+Ship 1 is action returning, going to Position(1, 24).
+Ship 3 is in action.
+choice = exploring.
+Ship 3 has action is exploring and has 76 halite.
+Ship 3 is exploring, going to Position(0, 25), with 544.
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 6 halite.
+Ship 5 is exploring, going to Position(2, 25), with 85.
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 9 halite.
+Ship 7 is exploring, going to Position(3, 24), with 48.
+Ship 9 is in action.
+choice = exploring.
+Ship 9 has action is exploring and has 11 halite.
+Ship 9 is exploring, going to Position(9, 24), with 24.
+Ship 11 is in action.
+choice = exploring.
+Ship 11 has action is exploring and has 19 halite.
+Ship 11 is exploring, going to Position(1, 23), with 77.
+Ship 12 is in action.
+choice = exploring.
+Ship 12 has action is exploring and has 21 halite.
+Ship 12 is exploring, going to Position(3, 23), with 56.
+Ship 15 is in action.
+choice = exploring.
+Ship 15 has action is exploring and has 14 halite.
+Ship 15 is exploring, going to Position(5, 23), with 39.
+==== TURN 60 TIME 13.3% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = returning.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+Ship 3 has action is stay and has 69 halite.
+Ship 3 = Stay, staying at Position(0, 25).
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+Ship 5 has action is stay and has 1 halite.
+Ship 5 = Stay, staying at Position(2, 25).
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+data.turtle_list.ID = 11.
+data.turtle_list.STATUS = exploring.
+Ship 11 is in action.
+data.turtle_list.ID = 12.
+data.turtle_list.STATUS = exploring.
+Ship 12 is in action.
+data.turtle_list.ID = 15.
+data.turtle_list.STATUS = exploring.
+Ship 15 is in action.
+data.turtle_list.ID = 16.
+data.turtle_list.STATUS = exploring.
+Ship 16 is in action.
+Ship 1 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 11 is in action.
+Ship 12 is in action.
+Ship 15 is in action.
+Ship 16 is in action.
+Ship 1 is in action.
+choice = returning.
+Ship 1 has action is returning and has 974 halite.
+Ship 1 is action returning, going to Position(2, 24).
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 7 halite.
+Ship 7 is exploring, going to Position(3, 25), with 93.
+Ship 9 is in action.
+choice = exploring.
+Ship 9 has action is exploring and has 9 halite.
+Ship 9 is exploring, going to Position(8, 24), with 6.
+Ship 11 is in action.
+choice = exploring.
+Ship 11 has action is exploring and has 12 halite.
+Ship 11 is exploring, going to Position(0, 23), with 133.
+Ship 12 is in action.
+choice = exploring.
+Ship 12 has action is exploring and has 17 halite.
+Ship 12 is exploring, going to Position(2, 23), with 76.
+Ship 15 is in action.
+choice = exploring.
+Ship 15 has action is exploring and has 11 halite.
+Ship 15 is exploring, going to Position(4, 23), with 46.
+Ship 16 is in action.
+choice = exploring.
+Ship 16 has action is exploring and has 15 halite.
+Ship 16 is exploring, going to Position(10, 23), with 18.
+==== TURN 61 TIME 13.6% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = returning.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+Ship 3 has action is stay and has 477 halite.
+Ship 3 = Stay, staying at Position(0, 25).
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+Ship 7 has action is stay and has 3 halite.
+Ship 7 = Stay, staying at Position(3, 25).
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+data.turtle_list.ID = 11.
+data.turtle_list.STATUS = exploring.
+Ship 11 is in action.
+Ship 11 has action is stay and has 5 halite.
+Ship 11 = Stay, staying at Position(0, 23).
+data.turtle_list.ID = 12.
+data.turtle_list.STATUS = exploring.
+Ship 12 is in action.
+data.turtle_list.ID = 15.
+data.turtle_list.STATUS = exploring.
+Ship 15 is in action.
+data.turtle_list.ID = 16.
+data.turtle_list.STATUS = exploring.
+Ship 16 is in action.
+Ship 1 is in action.
+Ship 5 is in action.
+Ship 9 is in action.
+Ship 12 is in action.
+Ship 15 is in action.
+Ship 16 is in action.
+Ship 1 is in action.
+choice = returning.
+Ship 1 has action is returning and has 967 halite.
+Ship 1 is action returning, going to Position(3, 24).
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 23 halite.
+Ship 5 is exploring, going to Position(1, 25), with 75.
+Ship 9 is in action.
+choice = exploring.
+Ship 9 has action is exploring and has 7 halite.
+Ship 9 is exploring, going to Position(7, 24), with 12.
+Ship 12 is in action.
+choice = exploring.
+Ship 12 has action is exploring and has 12 halite.
+Ship 12 is exploring, going to Position(1, 23), with 77.
+Ship 15 is in action.
+choice = exploring.
+Ship 15 has action is exploring and has 8 halite.
+Ship 15 is exploring, going to Position(3, 23), with 56.
+Ship 16 is in action.
+choice = exploring.
+Ship 16 has action is exploring and has 12 halite.
+Ship 16 is exploring, going to Position(9, 23), with 14.
+==== TURN 62 TIME 13.8% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = returning.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+Ship 3 has action is stay and has 783 halite.
+Ship 3 = Stay, staying at Position(0, 25).
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+data.turtle_list.ID = 11.
+data.turtle_list.STATUS = exploring.
+Ship 11 is in action.
+data.turtle_list.ID = 12.
+data.turtle_list.STATUS = exploring.
+Ship 12 is in action.
+Ship 12 has action is stay and has 5 halite.
+Ship 12 = Stay, staying at Position(1, 23).
+data.turtle_list.ID = 15.
+data.turtle_list.STATUS = exploring.
+Ship 15 is in action.
+Ship 15 has action is stay and has 4 halite.
+Ship 15 = Stay, staying at Position(3, 23).
+data.turtle_list.ID = 16.
+data.turtle_list.STATUS = exploring.
+Ship 16 is in action.
+Ship 1 is in action.
+Ship 5 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 11 is in action.
+Ship 16 is in action.
+Ship 1 is in action.
+choice = returning.
+Ship 1 has action is returning and has 962 halite.
+Ship 1 is action returning, going to Position(4, 24).
+Ship 5 is in action.
+choice = exploring.
+Ship 5 has action is exploring and has 17 halite.
+Ship 5 is exploring, going to Position(1, 26), with 252.
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 27 halite.
+Ship 7 is exploring, going to Position(2, 25), with 63.
+Ship 9 is in action.
+choice = exploring.
+Ship 9 has action is exploring and has 7 halite.
+Ship 9 is exploring, going to Position(6, 24), with 45.
+Ship 11 is in action.
+choice = exploring.
+Ship 11 has action is exploring and has 107 halite.
+Ship 11 is exploring, going to Position(0, 24), with 129.
+Ship 16 is in action.
+choice = exploring.
+Ship 16 has action is exploring and has 11 halite.
+Ship 16 is exploring, going to Position(8, 23), with 24.
+==== TURN 63 TIME 14.0% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = returning.
+Ship 1 is in action.
+Ship 13 has action is exploring and has 11 halite.
+Ship 13 is exploring, going to Position(44, 24), with 48.
+Ship 14 is in action.
+choice = exploring.
+Ship 14 has action is exploring and has 21 halite.
+Ship 14 is exploring, going to Position(42, 25), with 70.
+==== TURN 60 TIME 13.3% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+Ship 0 has action is stay and has 738 halite.
+Ship 0 = Stay, staying at Position(47, 25).
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 101 halite.
+Ship 2 = Stay, staying at Position(45, 22).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 5 halite.
+Ship 6 = Stay, staying at Position(46, 24).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = returning.
+Ship 8 is in action.
+data.turtle_list.ID = 10.
+data.turtle_list.STATUS = exploring.
+Ship 10 is in action.
+Ship 10 has action is stay and has 410 halite.
+Ship 10 = Stay, staying at Position(30, 24).
+data.turtle_list.ID = 13.
+data.turtle_list.STATUS = exploring.
+Ship 13 is in action.
+data.turtle_list.ID = 14.
+data.turtle_list.STATUS = exploring.
+Ship 14 is in action.
+Ship 4 is in action.
+Ship 8 is in action.
+Ship 13 is in action.
+Ship 14 is in action.
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 15 halite.
+Ship 4 is exploring, going to Position(44, 25), with 69.
+Ship 8 is in action.
+choice = returning.
+Ship 8 has action is returning and has 910 halite.
+Ship 8 is action returning, going to Position(38, 26).
+Ship 13 is in action.
+choice = exploring.
+Ship 13 has action is exploring and has 9 halite.
+Ship 13 is exploring, going to Position(45, 24), with 42.
+Ship 14 is in action.
+choice = exploring.
+Ship 14 has action is exploring and has 19 halite.
+Ship 14 is exploring, going to Position(43, 25), with 39.
+==== TURN 61 TIME 13.6% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = exploring.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 172 halite.
+Ship 2 = Stay, staying at Position(45, 22).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = returning.
+Ship 8 is in action.
+data.turtle_list.ID = 10.
+data.turtle_list.STATUS = exploring.
+Ship 10 is in action.
+Ship 10 has action is stay and has 455 halite.
+Ship 10 = Stay, staying at Position(30, 24).
+data.turtle_list.ID = 13.
+data.turtle_list.STATUS = exploring.
+Ship 13 is in action.
+data.turtle_list.ID = 14.
+data.turtle_list.STATUS = exploring.
+Ship 14 is in action.
+Ship 0 is in action.
+Ship 4 is in action.
+Ship 6 is in action.
+Ship 8 is in action.
+Ship 13 is in action.
+Ship 14 is in action.
+Ship 0 is in action.
+choice = returning.
+Ship 0 has action is returning and has 969 halite.
+Ship 0 is action returning, going to Position(46, 25).
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 12 halite.
+Ship 4 is exploring, going to Position(45, 25), with 85.
+Ship 6 is in action.
+choice = exploring.
+Ship 6 has action is exploring and has 80 halite.
+Ship 6 is exploring, going to Position(47, 24), with 410.
+Ship 8 is in action.
+choice = returning.
+Ship 8 has action is returning and has 910 halite.
+Ship 8 is action returning, going to Position(37, 26).
+Ship 13 is in action.
+choice = exploring.
+Ship 13 has action is exploring and has 5 halite.
+Ship 13 is exploring, going to Position(46, 24), with 73.
+Ship 14 is in action.
+choice = exploring.
+Ship 14 has action is exploring and has 12 halite.
+Ship 14 is exploring, going to Position(44, 25), with 69.
+==== TURN 62 TIME 13.8% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = returning.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 225 halite.
+Ship 2 = Stay, staying at Position(45, 22).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+Ship 4 has action is stay and has 6 halite.
+Ship 4 = Stay, staying at Position(45, 25).
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 73 halite.
+Ship 6 = Stay, staying at Position(47, 24).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = returning.
+Ship 8 is in action.
+data.turtle_list.ID = 10.
+data.turtle_list.STATUS = exploring.
+Ship 10 is in action.
+data.turtle_list.ID = 13.
+data.turtle_list.STATUS = exploring.
+Ship 13 is in action.
+Ship 13 has action is stay and has 1 halite.
+Ship 13 = Stay, staying at Position(46, 24).
+data.turtle_list.ID = 14.
+data.turtle_list.STATUS = exploring.
+Ship 14 is in action.
+Ship 0 is in action.
+Ship 8 is in action.
+Ship 10 is in action.
+Ship 14 is in action.
+Ship 0 is in action.
+choice = returning.
+Ship 0 has action is returning and has 947 halite.
+Ship 0 = Safety, going to 6 to Position(46, 26).
+Ship 8 is in action.
+choice = returning.
+Ship 8 has action is returning and has 903 halite.
+Ship 8 is action returning, going to Position(36, 26).
+Ship 10 is in action.
+choice = exploring.
+Ship 10 has action is exploring and has 488 halite.
+Ship 10 is exploring, going to Position(29, 24), with 83.
+Ship 14 is in action.
+choice = exploring.
+Ship 14 has action is exploring and has 9 halite.
+Ship 14 is exploring, going to Position(44, 26), with 89.
+==== TURN 63 TIME 14.0% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = returning.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+Ship 2 has action is stay and has 265 halite.
+Ship 2 = Stay, staying at Position(45, 22).
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 382 halite.
+Ship 6 = Stay, staying at Position(47, 24).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = returning.
+Ship 8 is in action.
+data.turtle_list.ID = 10.
+data.turtle_list.STATUS = exploring.
+Ship 10 is in action.
+data.turtle_list.ID = 13.
+data.turtle_list.STATUS = exploring.
+Ship 13 is in action.
+data.turtle_list.ID = 14.
+data.turtle_list.STATUS = exploring.
+Ship 14 is in action.
+Ship 14 has action is stay and has 3 halite.
+Ship 14 = Stay, staying at Position(44, 26).
+Ship 0 is in action.
+Ship 4 is in action.
+Ship 8 is in action.
+Ship 10 is in action.
+Ship 13 is in action.
+Ship 0 is in action.
+choice = returning.
+Ship 0 has action is returning and has 942 halite.
+Ship 0 is action returning, going to Position(45, 26).
+Ship 4 is in action.
+choice = exploring.
+Ship 4 has action is exploring and has 72 halite.
+Ship 4 is exploring, going to Position(46, 25), with 56.
+Ship 8 is in action.
+choice = returning.
+Ship 8 has action is returning and has 892 halite.
+Ship 8 is action returning, going to Position(35, 26).
+Ship 10 is in action.
+choice = exploring.
+Ship 10 has action is exploring and has 479 halite.
+Ship 10 is exploring, going to Position(28, 24), with 156.
+Ship 13 is in action.
+choice = exploring.
+Ship 13 has action is exploring and has 58 halite.
+Ship 13 = Safety, going to 6 to Position(46, 23).
+==== TURN 64 TIME 14.2% ====
+data.turtle_list.ID = 0.
+data.turtle_list.STATUS = returning.
+Ship 0 is in action.
+data.turtle_list.ID = 2.
+data.turtle_list.STATUS = exploring.
+Ship 2 is in action.
+data.turtle_list.ID = 4.
+data.turtle_list.STATUS = exploring.
+Ship 4 is in action.
+data.turtle_list.ID = 6.
+data.turtle_list.STATUS = exploring.
+Ship 6 is in action.
+Ship 6 has action is stay and has 613 halite.
+Ship 6 = Stay, staying at Position(47, 24).
+data.turtle_list.ID = 8.
+data.turtle_list.STATUS = returning.
+Ship 8 is in action.
+data.turtle_list.ID = 10.
+data.turtle_list.STATUS = exploring.
+Ship 10 is in action.
+Ship 10 has action is stay and has 471 halite.
+Ship 10 = Stay, staying at Position(28, 24).
+data.turtle_list.ID = 13.
+data.turtle_list.STATUS = exploring.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = exploring.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+Ship 5 has action is stay and has 10 halite.
+Ship 5 = Stay, staying at Position(1, 26).
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+data.turtle_list.ID = 11.
+data.turtle_list.STATUS = exploring.
+Ship 11 is in action.
+Ship 11 has action is stay and has 98 halite.
+Ship 11 = Stay, staying at Position(0, 24).
+data.turtle_list.ID = 12.
+data.turtle_list.STATUS = exploring.
+Ship 12 is in action.
+data.turtle_list.ID = 15.
+data.turtle_list.STATUS = exploring.
+Ship 15 is in action.
+data.turtle_list.ID = 16.
+data.turtle_list.STATUS = exploring.
+Ship 16 is in action.
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 7 is in action.
+Ship 9 is in action.
+Ship 12 is in action.
+Ship 15 is in action.
+Ship 16 is in action.
+Ship 1 is in action.
+choice = returning.
+Ship 1 has action is returning and has 958 halite.
+Ship 1 is action returning, going to Position(5, 24).
+Ship 3 is in action.
+choice = returning.
+Ship 3 has action is returning and has 1000 halite.
+Ship 3 is action returning, going to Position(1, 25).
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 21 halite.
+Ship 7 is exploring, going to Position(2, 26), with 94.
+Ship 9 is in action.
+choice = exploring.
+Ship 9 has action is exploring and has 6 halite.
+Ship 9 is exploring, going to Position(6, 25), with 29.
+Ship 12 is in action.
+choice = exploring.
+Ship 12 has action is exploring and has 65 halite.
+Ship 12 is exploring, going to Position(0, 23), with 99.
+Ship 15 is in action.
+choice = exploring.
+Ship 15 has action is exploring and has 18 halite.
+Ship 15 is exploring, going to Position(2, 23), with 76.
+Ship 16 is in action.
+choice = exploring.
+Ship 16 has action is exploring and has 10 halite.
+Ship 16 is exploring, going to Position(7, 23), with 12.
+==== TURN 64 TIME 14.2% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = returning.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = returning.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+Ship 5 has action is stay and has 199 halite.
+Ship 5 = Stay, staying at Position(1, 26).
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 9 has action is stay and has 2 halite.
+Ship 9 = Stay, staying at Position(6, 25).
+data.turtle_list.ID = 11.
+data.turtle_list.STATUS = exploring.
+Ship 11 is in action.
+data.turtle_list.ID = 12.
+data.turtle_list.STATUS = exploring.
+Ship 12 is in action.
+data.turtle_list.ID = 15.
+data.turtle_list.STATUS = exploring.
+Ship 15 is in action.
+data.turtle_list.ID = 16.
+data.turtle_list.STATUS = exploring.
+Ship 16 is in action.
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 7 is in action.
+Ship 11 is in action.
+Ship 12 is in action.
+Ship 15 is in action.
+Ship 16 is in action.
+Ship 1 is in action.
+choice = returning.
+Ship 1 has action is returning and has 956 halite.
+Ship 1 is action returning, going to Position(6, 24).
+Ship 3 is in action.
+choice = returning.
+Ship 3 has action is returning and has 978 halite.
+Ship 3 is action returning, going to Position(2, 25).
+Ship 7 is in action.
+choice = exploring.
+Ship 7 has action is exploring and has 15 halite.
+Ship 7 is exploring, going to Position(2, 27), with 314.
+Ship 11 is in action.
+choice = exploring.
+Ship 11 has action is exploring and has 197 halite.
+Ship 11 is exploring, going to Position(0, 25), with 229.
+Ship 12 is in action.
+choice = exploring.
+Ship 12 has action is exploring and has 60 halite.
+Ship 12 is exploring, going to Position(0, 24), with 96.
+Ship 15 is in action.
+choice = exploring.
+Ship 15 has action is exploring and has 14 halite.
+Ship 15 is exploring, going to Position(1, 23), with 57.
+Ship 16 is in action.
+choice = exploring.
+Ship 16 has action is exploring and has 8 halite.
+Ship 16 is exploring, going to Position(6, 23), with 33.
+==== TURN 65 TIME 14.4% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = returning.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = returning.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+Ship 5 has action is stay and has 343 halite.
+Ship 5 = Stay, staying at Position(1, 26).
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+Ship 7 has action is stay and has 6 halite.
+Ship 7 = Stay, staying at Position(2, 27).
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+data.turtle_list.ID = 11.
+data.turtle_list.STATUS = exploring.
+Ship 11 is in action.
+Ship 11 has action is stay and has 188 halite.
+Ship 11 = Stay, staying at Position(0, 25).
+data.turtle_list.ID = 12.
+data.turtle_list.STATUS = exploring.
+Ship 12 is in action.
+data.turtle_list.ID = 15.
+data.turtle_list.STATUS = exploring.
+Ship 15 is in action.
+data.turtle_list.ID = 16.
+data.turtle_list.STATUS = exploring.
+Ship 16 is in action.
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 9 is in action.
+Ship 12 is in action.
+Ship 15 is in action.
+Ship 16 is in action.
+Ship 1 is in action.
+choice = returning.
+Ship 1 has action is returning and has 954 halite.
+Ship 1 is action returning, going to Position(7, 24).
+Ship 3 is in action.
+choice = returning.
+Ship 3 has action is returning and has 971 halite.
+Ship 3 is action returning, going to Position(3, 25).
+Ship 9 is in action.
+choice = exploring.
+Ship 9 has action is exploring and has 10 halite.
+Ship 9 is exploring, going to Position(5, 25), with 94.
+Ship 12 is in action.
+choice = exploring.
+Ship 12 has action is exploring and has 51 halite.
+Ship 12 = voulait rien faire, donc stay
+Ship 12 = Stay, staying at Position(0, 24).
+Ship 15 is in action.
+choice = exploring.
+Ship 15 has action is exploring and has 7 halite.
+Ship 15 is exploring, going to Position(0, 23), with 99.
+Ship 16 is in action.
+choice = exploring.
+Ship 16 has action is exploring and has 7 halite.
+Ship 16 is exploring, going to Position(5, 23), with 39.
+==== TURN 66 TIME 14.7% ====
+data.turtle_list.ID = 1.
+data.turtle_list.STATUS = returning.
+Ship 1 is in action.
+data.turtle_list.ID = 3.
+data.turtle_list.STATUS = returning.
+Ship 3 is in action.
+data.turtle_list.ID = 5.
+data.turtle_list.STATUS = exploring.
+Ship 5 is in action.
+Ship 5 has action is stay and has 451 halite.
+Ship 5 = Stay, staying at Position(1, 26).
+data.turtle_list.ID = 7.
+data.turtle_list.STATUS = exploring.
+Ship 7 is in action.
+Ship 7 has action is stay and has 85 halite.
+Ship 7 = Stay, staying at Position(2, 27).
+data.turtle_list.ID = 9.
+data.turtle_list.STATUS = exploring.
+Ship 9 is in action.
+Ship 9 has action is stay and has 8 halite.
+Ship 9 = Stay, staying at Position(5, 25).
+data.turtle_list.ID = 11.
+data.turtle_list.STATUS = exploring.
+Ship 11 is in action.
+Ship 11 has action is stay and has 362 halite.
+Ship 11 = Stay, staying at Position(0, 25).
+data.turtle_list.ID = 12.
+data.turtle_list.STATUS = exploring.
+Ship 12 is in action.
+data.turtle_list.ID = 15.
+data.turtle_list.STATUS = exploring.
+Ship 15 is in action.
+Ship 15 has action is stay and has 2 halite.
+Ship 15 = Stay, staying at Position(0, 23).
+data.turtle_list.ID = 16.
+data.turtle_list.STATUS = exploring.
+Ship 16 is in action.
+Ship 1 is in action.
+Ship 3 is in action.
+Ship 12 is in action.
+Ship 16 is in action.
+Ship 1 is in action.
+choice = returning.
+Ship 1 has action is returning and has 950 halite.
+Ship 1 is action returning, going to Position(8, 24).
+Ship 3 is in action.
+choice = returning.
+Ship 3 has action is returning and has 965 halite.
+Ship 3 is action returning, going to Position(4, 25).
+Ship 12 is in action.
+choice = exploring.
+Ship 12 has action is exploring and has 123 halite.
+Ship 12 = Safety, going to 6 to Position(47, 24).
+Ship 16 is in action.
+choice = exploring.
+Ship 16 has action is exploring and has 4 halite.
+Ship 16 is exploring, going to Position(4, 23), with 46.
+==== TURN 67 TIME 14.9% ====
