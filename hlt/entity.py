@@ -50,7 +50,7 @@ class Data_game() :
         self.planned_dest = []
         self.opp_pos = []
         self.drop_duty = {}
-
+        self.total_halite = 0
 
 
 class Shipyard(Entity):
@@ -69,6 +69,7 @@ class Ship(Entity):
     def __init__(self, owner, id, position, halite_amount):
         super().__init__(owner, id, position)
         self.halite_amount = halite_amount
+        self.status = None
 
     @property
     def is_full(self):

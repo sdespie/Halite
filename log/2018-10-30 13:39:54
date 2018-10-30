@@ -1,0 +1,94 @@
+Successfully created bot! My Player ID is 0.
+==== TURN 0 TIME 0.0% ====
+
+Total halite avant = 0
+Total halite apres = 378460
+Je Sapwn!.
+==== TURN 1 TIME 0.2% ====
+
+Total halite avant = 0
+Total halite apres = 378460
+Min MINE = 50, data.total_halite = 378460, game_map.height = 48
+Min MINE = 50, data.total_halite = 378460, game_map.height = 48
+Min MINE = 50, data.total_halite = 378460, game_map.height = 48
+Ship 1 has action is exploring.
+Ship 1 has action is exploring and has 0 Halite.
+Ship 1 is action exploring, going to Position(11, 24), with 250.
+
+Je Sapwn!.
+==== TURN 2 TIME 0.4% ====
+
+Total halite avant = 0
+Total halite apres = 378460
+Min MINE = 50, data.total_halite = 378460, game_map.height = 48
+Min MINE = 50, data.total_halite = 378460, game_map.height = 48
+Ship 1 has action is stay and has 0 Halite.
+Ship 1 is action stay, staying at Position(11, 24).
+Min MINE = 50, data.total_halite = 378460, game_map.height = 48
+Min MINE = 50, data.total_halite = 378460, game_map.height = 48
+Ship 1 has action is exploring.
+Ship 2 has action is exploring and has 0 Halite.
+Ship 2 is action exploring, going to Position(13, 24), with 231.
+
+Je Sapwn!.
+==== TURN 3 TIME 0.7% ====
+
+Total halite avant = 0
+Total halite apres = 378334
+Min MINE = 50, data.total_halite = 378334, game_map.height = 48
+Min MINE = 50, data.total_halite = 378334, game_map.height = 48
+Ship 2 has action is stay and has 0 Halite.
+Ship 2 is action stay, staying at Position(13, 24).
+Min MINE = 50, data.total_halite = 378334, game_map.height = 48
+Ship 1 has action is stay and has 63 Halite.
+Ship 1 is action stay, staying at Position(11, 24).
+Min MINE = 50, data.total_halite = 378334, game_map.height = 48
+Min MINE = 50, data.total_halite = 378334, game_map.height = 48
+Ship 1 has action is exploring.
+Ship 4 has action is exploring and has 0 Halite.
+Ship 4 is action exploring, going to Position(12, 25), with 156.
+
+Je Sapwn!.
+==== TURN 4 TIME 0.9% ====
+
+Total halite avant = 0
+Total halite apres = 378182
+Min MINE = 50, data.total_halite = 378182, game_map.height = 48
+Min MINE = 50, data.total_halite = 378182, game_map.height = 48
+Ship 4 has action is stay and has 0 Halite.
+Ship 4 is action stay, staying at Position(12, 25).
+Min MINE = 50, data.total_halite = 378182, game_map.height = 48
+Ship 2 has action is stay and has 58 Halite.
+Ship 2 is action stay, staying at Position(13, 24).
+Min MINE = 50, data.total_halite = 378182, game_map.height = 48
+Ship 1 has action is stay and has 110 Halite.
+Ship 1 is action stay, staying at Position(11, 24).
+Min MINE = 50, data.total_halite = 378182, game_map.height = 48
+Min MINE = 50, data.total_halite = 378182, game_map.height = 48
+Ship 1 has action is exploring.
+Ship 5 has action is exploring and has 0 Halite.
+Ship 5 is action exploring, going to Position(12, 23), with 150.
+
+Je Sapwn!.
+==== TURN 5 TIME 1.1% ====
+
+Total halite avant = 0
+Total halite apres = 377971
+Min MINE = 50, data.total_halite = 377971, game_map.height = 48
+Ship 5 has action is stay and has 0 Halite.
+Ship 5 is action stay, staying at Position(12, 23).
+Min MINE = 50, data.total_halite = 377971, game_map.height = 48
+Ship 4 has action is stay and has 39 Halite.
+Ship 4 is action stay, staying at Position(12, 25).
+Min MINE = 50, data.total_halite = 377971, game_map.height = 48
+Min MINE = 50, data.total_halite = 377971, game_map.height = 48
+Ship 2 has action is stay and has 102 Halite.
+Ship 2 is action stay, staying at Position(13, 24).
+Min MINE = 50, data.total_halite = 377971, game_map.height = 48
+Ship 1 has action is stay and has 145 Halite.
+Ship 1 is action stay, staying at Position(11, 24).
+Min MINE = 50, data.total_halite = 377971, game_map.height = 48
+Min MINE = 50, data.total_halite = 377971, game_map.height = 48
+Ship 1 has action is exploring.
+Ship 7 has action is exploring and has 0 Halite.
+Ship 7 has action is security and has 0 Halite.

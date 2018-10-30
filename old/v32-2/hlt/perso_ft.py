@@ -9,6 +9,7 @@ from .entity import Entity, Shipyard, Ship, Dropoff
 from .positionals import *
 from .networking import *
 from .perso_ft import *
+from .perso_utils import *
 from .entity import *
 from .constants import *
 from .game_map import *
@@ -30,6 +31,7 @@ class Overall:
                     self.data.opp_pos.append(self.get_correct_dir(Position(i, j), (1, 0)))
                     self.data.opp_pos.append(self.get_correct_dir(Position(i, j), (0, -1)))
                     self.data.opp_pos.append(self.get_correct_dir(Position(i, j), (0, 1)))
+                #self.data.total_halite += self.game.game_map[Position(i, j)].halite_amount
 
         self.data.max_radar = (-100 * self.game.turn_number / constants.MAX_TURNS + 300) / self.data.nbr_player
         self.data.max_turn_to_base = 0;
