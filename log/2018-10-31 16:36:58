@@ -1,0 +1,1515 @@
+Successfully created bot! My Player ID is 0.
+
+==== TURN 0 TIME 0.0% ====
+
+Min_mine = 50
+Je Sapwn!.
+
+==== TURN 1 TIME 0.2% ====
+
+Min_mine = 50
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is exploring and has 0 Halite.
+Ship 1 is action exploring, going to Position(12, 23), with 405.
+ len 1 = 1
+ len 2 = 0
+Je Sapwn!.
+
+==== TURN 2 TIME 0.4% ====
+
+Min_mine = 50
+ship id in list = 2
+Ship 2 is in DO_ACTION has action is exploring and has 0 Halite.
+Ship 2 is action exploring, going to Position(13, 24), with 395.
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 0 Halite.
+Ship 1 is action stay, staying at Position(12, 23).
+ len 1 = 1
+ len 2 = 0
+Je Sapwn!.
+
+==== TURN 3 TIME 0.7% ====
+
+Min_mine = 50
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is exploring and has 0 Halite.
+Ship 4 is action exploring, going to Position(12, 25), with 199.
+ len 1 = 3
+ len 2 = 2
+ship id in list = 2
+Ship 2 is in DO_ACTION has action is stay and has 0 Halite.
+Ship 2 is action stay, staying at Position(13, 24).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 102 Halite.
+Ship 1 is action stay, staying at Position(12, 23).
+ len 1 = 1
+ len 2 = 0
+Je Sapwn!.
+
+==== TURN 4 TIME 0.9% ====
+
+Min_mine = 50
+ship id in list = 5
+Ship 5 is in DO_ACTION has action is exploring and has 0 Halite.
+Ship 5 is action exploring, going to Position(13, 24), with 296.
+ len 1 = 4
+ len 2 = 3
+ship id in list = 4
+ship id in list = 2
+Ship 2 is in DO_ACTION has action is stay and has 99 Halite.
+Ship 2 is action stay, staying at Position(13, 24).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is stay and has 0 Halite.
+Ship 4 is action stay, staying at Position(12, 25).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 178 Halite.
+Ship 1 is action stay, staying at Position(12, 23).
+ len 1 = 1
+ len 2 = 0
+Je Sapwn!.
+
+==== TURN 5 TIME 1.1% ====
+
+Min_mine = 50
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is exploring and has 0 Halite.
+Ship 7 is action exploring, going to Position(13, 24), with 395.
+ len 1 = 3
+ len 2 = 2
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is stay and has 50 Halite.
+Ship 4 is action stay, staying at Position(12, 25).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 235 Halite.
+Ship 1 is action stay, staying at Position(12, 23).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 6 TIME 1.3% ====
+
+Min_mine = 50
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is stay and has 0 Halite.
+Ship 7 is action stay, staying at Position(13, 24).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is stay and has 88 Halite.
+Ship 4 is action stay, staying at Position(12, 25).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 278 Halite.
+Ship 1 is action stay, staying at Position(12, 23).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 7 TIME 1.6% ====
+
+Min_mine = 50
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is stay and has 99 Halite.
+Ship 7 is action stay, staying at Position(13, 24).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is stay and has 116 Halite.
+Ship 4 is action stay, staying at Position(12, 25).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 310 Halite.
+Ship 1 is action stay, staying at Position(12, 23).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 8 TIME 1.8% ====
+
+Min_mine = 50
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is stay and has 173 Halite.
+Ship 7 is action stay, staying at Position(13, 24).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is stay and has 137 Halite.
+Ship 4 is action stay, staying at Position(12, 25).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 334 Halite.
+Ship 1 is action stay, staying at Position(12, 23).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 9 TIME 2.0% ====
+
+Min_mine = 50
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is stay and has 229 Halite.
+Ship 7 is action stay, staying at Position(13, 24).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is exploring and has 153 Halite.
+Ship 4 is action exploring, going to Position(11, 25), with 321.
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 352 Halite.
+Ship 1 is action stay, staying at Position(12, 23).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 10 TIME 2.2% ====
+
+Min_mine = 50
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is stay and has 149 Halite.
+Ship 4 is action stay, staying at Position(11, 25).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is stay and has 271 Halite.
+Ship 7 is action stay, staying at Position(13, 24).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is exploring and has 366 Halite.
+Ship 1 is action exploring, going to Position(13, 23), with 219.
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 11 TIME 2.4% ====
+
+Min_mine = 50
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 363 Halite.
+Ship 1 is action stay, staying at Position(13, 23).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 4
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is stay and has 302 Halite.
+Ship 7 is action stay, staying at Position(13, 24).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is stay and has 230 Halite.
+Ship 4 is action stay, staying at Position(11, 25).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 12 TIME 2.7% ====
+
+Min_mine = 50
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 418 Halite.
+Ship 1 is action stay, staying at Position(13, 23).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 4
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is stay and has 326 Halite.
+Ship 7 is action stay, staying at Position(13, 24).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is stay and has 290 Halite.
+Ship 4 is action stay, staying at Position(11, 25).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 13 TIME 2.9% ====
+
+Min_mine = 50
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 459 Halite.
+Ship 1 is action stay, staying at Position(13, 23).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 4
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is stay and has 344 Halite.
+Ship 7 is action stay, staying at Position(13, 24).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is stay and has 335 Halite.
+Ship 4 is action stay, staying at Position(11, 25).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 14 TIME 3.1% ====
+
+Min_mine = 50
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 490 Halite.
+Ship 1 is action stay, staying at Position(13, 23).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 4
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is exploring and has 357 Halite.
+Ship 7 is action exploring, going to Position(14, 24), with 330.
+ len 1 = 2
+ len 2 = 1
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is stay and has 369 Halite.
+Ship 4 is action stay, staying at Position(11, 25).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 15 TIME 3.3% ====
+
+Min_mine = 50
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is stay and has 354 Halite.
+Ship 7 is action stay, staying at Position(14, 24).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 513 Halite.
+Ship 1 is action stay, staying at Position(13, 23).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is stay and has 395 Halite.
+Ship 4 is action stay, staying at Position(11, 25).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 16 TIME 3.6% ====
+
+Min_mine = 50
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is stay and has 437 Halite.
+Ship 7 is action stay, staying at Position(14, 24).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 531 Halite.
+Ship 1 is action stay, staying at Position(13, 23).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is stay and has 414 Halite.
+Ship 4 is action stay, staying at Position(11, 25).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 17 TIME 3.8% ====
+
+Min_mine = 50
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is stay and has 499 Halite.
+Ship 7 is action stay, staying at Position(14, 24).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is exploring and has 544 Halite.
+Ship 1 is action exploring, going to Position(13, 22), with 293.
+ len 1 = 2
+ len 2 = 1
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is exploring and has 428 Halite.
+Ship 4 is action exploring, going to Position(10, 25), with 105.
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 18 TIME 4.0% ====
+
+Min_mine = 50
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 541 Halite.
+Ship 1 is action stay, staying at Position(13, 22).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is stay and has 424 Halite.
+Ship 4 is action stay, staying at Position(10, 25).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is stay and has 546 Halite.
+Ship 7 is action stay, staying at Position(14, 24).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 19 TIME 4.2% ====
+
+Min_mine = 50
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 615 Halite.
+Ship 1 is action stay, staying at Position(13, 22).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is stay and has 451 Halite.
+Ship 4 is action stay, staying at Position(10, 25).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is stay and has 581 Halite.
+Ship 7 is action stay, staying at Position(14, 24).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 20 TIME 4.4% ====
+
+Min_mine = 50
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 670 Halite.
+Ship 1 is action stay, staying at Position(13, 22).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is stay and has 471 Halite.
+Ship 4 is action stay, staying at Position(10, 25).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is stay and has 607 Halite.
+Ship 7 is action stay, staying at Position(14, 24).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 21 TIME 4.7% ====
+
+Min_mine = 50
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 711 Halite.
+Ship 1 is action stay, staying at Position(13, 22).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is exploring and has 486 Halite.
+Ship 4 is action exploring, going to Position(10, 26), with 289.
+ len 1 = 2
+ len 2 = 1
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is stay and has 627 Halite.
+Ship 7 is action stay, staying at Position(14, 24).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 22 TIME 4.9% ====
+
+Min_mine = 50
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is stay and has 482 Halite.
+Ship 4 is action stay, staying at Position(10, 26).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 742 Halite.
+Ship 1 is action stay, staying at Position(13, 22).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is exploring and has 642 Halite.
+Ship 7 is action exploring, going to Position(14, 25), with 245.
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 23 TIME 5.1% ====
+
+Min_mine = 50
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is stay and has 638 Halite.
+Ship 7 is action stay, staying at Position(14, 25).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is stay and has 555 Halite.
+Ship 4 is action stay, staying at Position(10, 26).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 765 Halite.
+Ship 1 is action stay, staying at Position(13, 22).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 24 TIME 5.3% ====
+
+Min_mine = 50
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is stay and has 700 Halite.
+Ship 7 is action stay, staying at Position(14, 25).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is stay and has 609 Halite.
+Ship 4 is action stay, staying at Position(10, 26).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 783 Halite.
+Ship 1 is action stay, staying at Position(13, 22).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 25 TIME 5.6% ====
+
+Min_mine = 50
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is stay and has 746 Halite.
+Ship 7 is action stay, staying at Position(14, 25).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is stay and has 650 Halite.
+Ship 4 is action stay, staying at Position(10, 26).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is returning and has 796 Halite.
+Ship 1 is action returning, going to Position(12, 22).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 26 TIME 5.8% ====
+
+Min_mine = 50
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is returning and has 793 Halite.
+Ship 1 is action returning, going to Position(12, 23).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is stay and has 781 Halite.
+Ship 7 is action stay, staying at Position(14, 25).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is stay and has 681 Halite.
+Ship 4 is action stay, staying at Position(10, 26).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 27 TIME 6.0% ====
+
+Min_mine = 50
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is returning and has 777 Halite.
+Ship 1 is action returning, going to Position(12, 24).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is stay and has 807 Halite.
+Ship 7 is action stay, staying at Position(14, 25).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is stay and has 704 Halite.
+Ship 4 is action stay, staying at Position(10, 26).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 28 TIME 6.2% ====
+
+Min_mine = 50
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is exploring and has 0 Halite.
+Ship 1 is action exploring, going to Position(13, 24), with 38.
+ len 1 = 3
+ len 2 = 2
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is stay and has 826 Halite.
+Ship 7 is action stay, staying at Position(14, 25).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is stay and has 721 Halite.
+Ship 4 is action stay, staying at Position(10, 26).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 29 TIME 6.4% ====
+
+Min_mine = 50
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 0 Halite.
+Ship 1 is action stay, staying at Position(13, 24).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is returning and has 841 Halite.
+Ship 7 is action returning, going to Position(13, 25).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is returning and has 734 Halite.
+Ship 4 is action returning, going to Position(11, 26).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 30 TIME 6.7% ====
+
+Min_mine = 50
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is returning and has 837 Halite.
+Ship 7 is action returning, going to Position(12, 25).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is returning and has 731 Halite.
+Ship 4 is action returning, going to Position(12, 26).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is exploring and has 10 Halite.
+Ship 1 is action exploring, going to Position(14, 24), with 42.
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 31 TIME 6.9% ====
+
+Min_mine = 50
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is returning and has 718 Halite.
+Ship 4 is action returning, going to Position(12, 25).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 1
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is returning and has 810 Halite.
+Ship 7 is action returning, going to Position(12, 24).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is exploring and has 8 Halite.
+Ship 1 is action exploring, going to Position(14, 23), with 223.
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 32 TIME 7.1% ====
+
+Min_mine = 50
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is returning and has 701 Halite.
+Ship 4 is action returning, going to Position(12, 24).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is exploring and has 0 Halite.
+Ship 7 is action exploring, going to Position(13, 24), with 28.
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 4 Halite.
+Ship 1 is action stay, staying at Position(14, 23).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 33 TIME 7.3% ====
+
+Min_mine = 50
+ship id in list = 4
+Ship 4 is in DO_ACTION has action is exploring and has 0 Halite.
+Ship 4 is action exploring, going to Position(13, 24), with 28.
+ len 1 = 3
+ len 2 = 2
+ship id in list = 7
+Ship 7 is in DO_ACTION has action is stay and has 0 Halite.
+Ship 7 is action stay, staying at Position(13, 24).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 60 Halite.
+Ship 1 is action stay, staying at Position(14, 23).
+ len 1 = 1
+ len 2 = 0
+Je Sapwn!.
+
+==== TURN 34 TIME 7.6% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is exploring and has 0 Halite.
+Ship 10 is action exploring, going to Position(13, 24), with 28.
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 102 Halite.
+Ship 1 is action stay, staying at Position(14, 23).
+ len 1 = 1
+ len 2 = 0
+Je Sapwn!.
+
+==== TURN 35 TIME 7.8% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 0 Halite.
+Ship 10 is action stay, staying at Position(13, 24).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is exploring and has 0 Halite.
+Ship 11 is action exploring, going to Position(12, 25), with 46.
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 134 Halite.
+Ship 1 is action stay, staying at Position(14, 23).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 36 TIME 8.0% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is exploring and has 7 Halite.
+Ship 10 is action exploring, going to Position(13, 25), with 274.
+ len 1 = 3
+ len 2 = 2
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 0 Halite.
+Ship 11 is action stay, staying at Position(12, 25).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 158 Halite.
+Ship 1 is action stay, staying at Position(14, 23).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 37 TIME 8.2% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 5 Halite.
+Ship 10 is action stay, staying at Position(13, 25).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is exploring and has 12 Halite.
+Ship 11 is action exploring, going to Position(12, 26), with 178.
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 176 Halite.
+Ship 1 is action stay, staying at Position(14, 23).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 38 TIME 8.4% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 74 Halite.
+Ship 10 is action stay, staying at Position(13, 25).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 9 Halite.
+Ship 11 is action stay, staying at Position(12, 26).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is exploring and has 189 Halite.
+Ship 1 is action exploring, going to Position(14, 22), with 396.
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 39 TIME 8.7% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 126 Halite.
+Ship 10 is action stay, staying at Position(13, 25).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 186 Halite.
+Ship 1 is action stay, staying at Position(14, 22).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 54 Halite.
+Ship 11 is action stay, staying at Position(12, 26).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 40 TIME 8.9% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 165 Halite.
+Ship 10 is action stay, staying at Position(13, 25).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 285 Halite.
+Ship 1 is action stay, staying at Position(14, 22).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 88 Halite.
+Ship 11 is action stay, staying at Position(12, 26).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 41 TIME 9.1% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 194 Halite.
+Ship 10 is action stay, staying at Position(13, 25).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 360 Halite.
+Ship 1 is action stay, staying at Position(14, 22).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 113 Halite.
+Ship 11 is action stay, staying at Position(12, 26).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 42 TIME 9.3% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 216 Halite.
+Ship 10 is action stay, staying at Position(13, 25).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 416 Halite.
+Ship 1 is action stay, staying at Position(14, 22).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 132 Halite.
+Ship 11 is action stay, staying at Position(12, 26).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 43 TIME 9.6% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is exploring and has 232 Halite.
+Ship 10 is action exploring, going to Position(13, 26), with 106.
+ len 1 = 3
+ len 2 = 2
+ship id in list = 1
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is exploring and has 146 Halite.
+Ship 11 is action exploring, going to Position(12, 27), with 209.
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 458 Halite.
+Ship 1 is action stay, staying at Position(14, 22).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 44 TIME 9.8% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 228 Halite.
+Ship 10 is action stay, staying at Position(13, 26).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 142 Halite.
+Ship 11 is action stay, staying at Position(12, 27).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 489 Halite.
+Ship 1 is action stay, staying at Position(14, 22).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 45 TIME 10.0% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 255 Halite.
+Ship 10 is action stay, staying at Position(13, 26).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 195 Halite.
+Ship 11 is action stay, staying at Position(12, 27).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 513 Halite.
+Ship 1 is action stay, staying at Position(14, 22).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 46 TIME 10.2% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 275 Halite.
+Ship 10 is action stay, staying at Position(13, 26).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 234 Halite.
+Ship 11 is action stay, staying at Position(12, 27).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 531 Halite.
+Ship 1 is action stay, staying at Position(14, 22).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 47 TIME 10.4% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is exploring and has 290 Halite.
+Ship 10 is action exploring, going to Position(13, 27), with 271.
+ len 1 = 3
+ len 2 = 2
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 264 Halite.
+Ship 11 is action stay, staying at Position(12, 27).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is exploring and has 544 Halite.
+Ship 1 is action exploring, going to Position(15, 22), with 358.
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 48 TIME 10.7% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 286 Halite.
+Ship 10 is action stay, staying at Position(13, 27).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 1
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 286 Halite.
+Ship 11 is action stay, staying at Position(12, 27).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 541 Halite.
+Ship 1 is action stay, staying at Position(15, 22).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 49 TIME 10.9% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 354 Halite.
+Ship 10 is action stay, staying at Position(13, 27).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 1
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is exploring and has 303 Halite.
+Ship 11 is action exploring, going to Position(12, 28), with 276.
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 631 Halite.
+Ship 1 is action stay, staying at Position(15, 22).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 50 TIME 11.1% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 405 Halite.
+Ship 10 is action stay, staying at Position(13, 27).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 299 Halite.
+Ship 11 is action stay, staying at Position(12, 28).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 698 Halite.
+Ship 1 is action stay, staying at Position(15, 22).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 51 TIME 11.3% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 443 Halite.
+Ship 10 is action stay, staying at Position(13, 27).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 368 Halite.
+Ship 11 is action stay, staying at Position(12, 28).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 749 Halite.
+Ship 1 is action stay, staying at Position(15, 22).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 52 TIME 11.6% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 472 Halite.
+Ship 10 is action stay, staying at Position(13, 27).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 420 Halite.
+Ship 11 is action stay, staying at Position(12, 28).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 787 Halite.
+Ship 1 is action stay, staying at Position(15, 22).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 53 TIME 11.8% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 494 Halite.
+Ship 10 is action stay, staying at Position(13, 27).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 459 Halite.
+Ship 11 is action stay, staying at Position(12, 28).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 815 Halite.
+Ship 1 is action stay, staying at Position(15, 22).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 54 TIME 12.0% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is exploring and has 510 Halite.
+Ship 10 is action exploring, going to Position(12, 27), with 48.
+ len 1 = 3
+ len 2 = 2
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 488 Halite.
+Ship 11 is action stay, staying at Position(12, 28).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 836 Halite.
+Ship 1 is action stay, staying at Position(15, 22).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 55 TIME 12.2% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is exploring and has 506 Halite.
+Ship 10 is action exploring, going to Position(11, 27), with 259.
+ len 1 = 3
+ len 2 = 2
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 510 Halite.
+Ship 11 is action stay, staying at Position(12, 28).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is returning and has 852 Halite.
+Ship 1 is action returning, going to Position(14, 22).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 56 TIME 12.4% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 502 Halite.
+Ship 10 is action stay, staying at Position(11, 27).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is returning and has 848 Halite.
+Ship 1 is action returning, going to Position(13, 22).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is exploring and has 527 Halite.
+Ship 11 is action exploring, going to Position(11, 28), with 167.
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 57 TIME 12.7% ====
+
+Min_mine = 50
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 523 Halite.
+Ship 11 is action stay, staying at Position(11, 28).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 1
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 567 Halite.
+Ship 10 is action stay, staying at Position(11, 27).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is returning and has 845 Halite.
+Ship 1 is action returning, going to Position(12, 22).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 58 TIME 12.9% ====
+
+Min_mine = 50
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is returning and has 842 Halite.
+Ship 1 is action returning, going to Position(12, 23).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 565 Halite.
+Ship 11 is action stay, staying at Position(11, 28).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 616 Halite.
+Ship 10 is action stay, staying at Position(11, 27).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 59 TIME 13.1% ====
+
+Min_mine = 50
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is returning and has 826 Halite.
+Ship 1 is action returning, going to Position(12, 24).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 597 Halite.
+Ship 11 is action stay, staying at Position(11, 28).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 653 Halite.
+Ship 10 is action stay, staying at Position(11, 27).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 60 TIME 13.3% ====
+
+Min_mine = 50
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is exploring and has 0 Halite.
+Ship 1 is action exploring, going to Position(11, 24), with 137.
+ len 1 = 3
+ len 2 = 2
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 621 Halite.
+Ship 11 is action stay, staying at Position(11, 28).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 680 Halite.
+Ship 10 is action stay, staying at Position(11, 27).
+ len 1 = 1
+ len 2 = 0
+Je Sapwn!.
+
+==== TURN 61 TIME 13.6% ====
+
+Min_mine = 50
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 0 Halite.
+Ship 1 is action stay, staying at Position(11, 24).
+ len 1 = 4
+ len 2 = 3
+ship id in list = 11
+ship id in list = 15
+Ship 15 is in DO_ACTION has action is exploring and has 0 Halite.
+Ship 15 is action exploring, going to Position(12, 23), with 39.
+ len 1 = 3
+ len 2 = 2
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 639 Halite.
+Ship 11 is action stay, staying at Position(11, 28).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 701 Halite.
+Ship 10 is action stay, staying at Position(11, 27).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 62 TIME 13.8% ====
+
+Min_mine = 50
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 35 Halite.
+Ship 1 is action stay, staying at Position(11, 24).
+ len 1 = 4
+ len 2 = 3
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is exploring and has 652 Halite.
+Ship 11 is action exploring, going to Position(11, 29), with 211.
+ len 1 = 3
+ len 2 = 2
+ship id in list = 15
+Ship 15 is in DO_ACTION has action is stay and has 0 Halite.
+Ship 15 is action stay, staying at Position(12, 23).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is returning and has 716 Halite.
+Ship 10 is action returning, going to Position(12, 27).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 63 TIME 14.0% ====
+
+Min_mine = 50
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 649 Halite.
+Ship 11 is action stay, staying at Position(11, 29).
+ len 1 = 4
+ len 2 = 3
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 61 Halite.
+Ship 1 is action stay, staying at Position(11, 24).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is returning and has 712 Halite.
+Ship 10 is action returning, going to Position(12, 26).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 15
+Ship 15 is in DO_ACTION has action is exploring and has 10 Halite.
+Ship 15 is action exploring, going to Position(11, 23), with 189.
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 64 TIME 14.2% ====
+
+Min_mine = 50
+ship id in list = 15
+Ship 15 is in DO_ACTION has action is stay and has 8 Halite.
+Ship 15 is action stay, staying at Position(11, 23).
+ len 1 = 4
+ len 2 = 3
+ship id in list = 10
+ship id in list = 11
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 80 Halite.
+Ship 1 is action stay, staying at Position(11, 24).
+ len 1 = 3
+ len 2 = 2
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is returning and has 708 Halite.
+Ship 10 is action returning, going to Position(12, 25).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 702 Halite.
+Ship 11 is action stay, staying at Position(11, 29).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 65 TIME 14.4% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is returning and has 704 Halite.
+Ship 10 is action returning, going to Position(12, 24).
+ len 1 = 4
+ len 2 = 3
+ship id in list = 15
+ship id in list = 11
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is exploring and has 95 Halite.
+Ship 1 is action exploring, going to Position(11, 23), with 141.
+ len 1 = 3
+ len 2 = 2
+ship id in list = 15
+Ship 15 is in DO_ACTION has action is stay and has 56 Halite.
+Ship 15 is action stay, staying at Position(11, 23).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 742 Halite.
+Ship 11 is action stay, staying at Position(11, 29).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 66 TIME 14.7% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is exploring and has 0 Halite.
+Ship 10 is action exploring, going to Position(11, 24), with 42.
+ len 1 = 2
+ len 2 = 1
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 772 Halite.
+Ship 11 is action stay, staying at Position(11, 29).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 67 TIME 14.9% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 0 Halite.
+Ship 10 is action stay, staying at Position(11, 24).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 794 Halite.
+Ship 11 is action stay, staying at Position(11, 29).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 68 TIME 15.1% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is exploring and has 11 Halite.
+Ship 10 is action exploring, going to Position(11, 23), with 288.
+ len 1 = 2
+ len 2 = 1
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is returning and has 811 Halite.
+Ship 11 is action returning, going to Position(12, 29).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 69 TIME 15.3% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 8 Halite.
+Ship 10 is action stay, staying at Position(11, 23).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is returning and has 807 Halite.
+Ship 11 is action returning, going to Position(12, 28).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 70 TIME 15.6% ====
+
+Min_mine = 50
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is returning and has 794 Halite.
+Ship 11 is action returning, going to Position(12, 27).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 80 Halite.
+Ship 10 is action stay, staying at Position(11, 23).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 71 TIME 15.8% ====
+
+Min_mine = 50
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is returning and has 790 Halite.
+Ship 11 is action returning, going to Position(12, 26).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 134 Halite.
+Ship 10 is action stay, staying at Position(11, 23).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 72 TIME 16.0% ====
+
+Min_mine = 50
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is returning and has 786 Halite.
+Ship 11 is action returning, going to Position(12, 25).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 175 Halite.
+Ship 10 is action stay, staying at Position(11, 23).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 73 TIME 16.2% ====
+
+Min_mine = 50
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is returning and has 782 Halite.
+Ship 11 is action returning, going to Position(12, 24).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 206 Halite.
+Ship 10 is action stay, staying at Position(11, 23).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 74 TIME 16.4% ====
+
+Min_mine = 50
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is exploring and has 0 Halite.
+Ship 11 is action exploring, going to Position(12, 23), with 29.
+ len 1 = 2
+ len 2 = 1
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 229 Halite.
+Ship 10 is action stay, staying at Position(11, 23).
+ len 1 = 1
+ len 2 = 0
+Je Sapwn!.
+
+==== TURN 75 TIME 16.7% ====
+
+Min_mine = 50
+ship id in list = 17
+Ship 17 is in DO_ACTION has action is exploring and has 0 Halite.
+Ship 17 is action exploring, going to Position(12, 23), with 29.
+ len 1 = 3
+ len 2 = 2
+ship id in list = 11
+Ship 11 is in DO_ACTION has action is stay and has 0 Halite.
+Ship 11 is action stay, staying at Position(12, 23).
+ len 1 = 2
+ len 2 = 1
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 246 Halite.
+Ship 10 is action stay, staying at Position(11, 23).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 76 TIME 16.9% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is exploring and has 259 Halite.
+Ship 10 is action exploring, going to Position(11, 22), with 124.
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 77 TIME 17.1% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 256 Halite.
+Ship 10 is action stay, staying at Position(11, 22).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 78 TIME 17.3% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 287 Halite.
+Ship 10 is action stay, staying at Position(11, 22).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 79 TIME 17.6% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 311 Halite.
+Ship 10 is action stay, staying at Position(11, 22).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 80 TIME 17.8% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 329 Halite.
+Ship 10 is action stay, staying at Position(11, 22).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 81 TIME 18.0% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is exploring and has 342 Halite.
+Ship 10 is action exploring, going to Position(11, 21), with 205.
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 82 TIME 18.2% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 339 Halite.
+Ship 10 is action stay, staying at Position(11, 21).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 83 TIME 18.4% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 391 Halite.
+Ship 10 is action stay, staying at Position(11, 21).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 84 TIME 18.7% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 430 Halite.
+Ship 10 is action stay, staying at Position(11, 21).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 85 TIME 18.9% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 459 Halite.
+Ship 10 is action stay, staying at Position(11, 21).
+ len 1 = 1
+ len 2 = 0
+
+==== TURN 86 TIME 19.1% ====
+
+Min_mine = 50
+ship id in list = 10
+Ship 10 is in DO_ACTION has action is stay and has 481 Halite.

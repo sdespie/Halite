@@ -41,7 +41,9 @@ class Data_game() :
     def __init__(self) :
         self.nbr_ships = None
         self.nbr_drop = None
+        self.temp_nbr_drop = None
         self.construction = None
+        self.temp_construction = None
         self.nbr_player = None
         self.nbr_opp_ships = None
         self.max_radar = None
@@ -53,10 +55,6 @@ class Data_game() :
         self.total_halite = 0
         self.average_halite = 0
         self.min_mine = 0
-        self.temp_planned_pos = []
-        self.temp_planned_dest = []
-        self.turtle_order_stay = []
-        self.turtle_order_other = []
 
 
 class Shipyard(Entity):
@@ -101,6 +99,12 @@ class Ship(Entity):
         Don't move this ship.
         """
         return "{} {} {}".format(commands.MOVE, self.id, commands.STAY_STILL)
+
+    def __eq__(self, other):
+        if self.id == other.id :
+            return True
+        else :
+            return False
 
     @staticmethod
     def _generate(player_id):

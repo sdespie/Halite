@@ -1,0 +1,30 @@
+Successfully created bot! My Player ID is 0.
+
+==== TURN 0 TIME 0.0% ====
+
+Min_mine = 50
+Je Sapwn!.
+
+==== TURN 1 TIME 0.2% ====
+
+Min_mine = 50
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is exploring and has 0 Halite.
+Ship 1 is action exploring, going to Position(13, 24), with 174.
+ len 1 = 1
+ len 2 = 0
+Je Sapwn!.
+
+==== TURN 2 TIME 0.4% ====
+
+Min_mine = 50
+ship id in list = 2
+Ship 2 is in DO_ACTION has action is exploring and has 0 Halite.
+Ship 2 is action exploring, going to Position(11, 24), with 153.
+ len 1 = 2
+ len 2 = 1
+ship id in list = 1
+Ship 1 is in DO_ACTION has action is stay and has 0 Halite.
+Ship 1 is action stay, staying at Position(13, 24).
+ len 1 = 1
+ len 2 = 0
