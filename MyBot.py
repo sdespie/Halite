@@ -83,9 +83,51 @@ def    get_best_pos(pos, mode, ship, me, game_map) :
     return (direction)
 
 
+"""
+--------------------------------------------------------TEMP ACTION
+"""
+"""
+-----------------------------------------DEFINE_ACTIONS
+"""
+
+def temp_define_action (action, game_map, turtle, me, game, data, calc):
+    for turtle in turtle_list:
+        if turtle.busy == 0:
+            action = temp_choose_action(turtle, game_map, me, data.nbr_drop)
+            if action == "stay" :
+                temp_do_action(action, game_map, turtle, me, game, data, calc)
+
+
+    for turtle in turtle_list:
+        if turtle.busy == 0 :
+            action = temp_choose_action(turtle, game_map, me, data.nbr_drop)
+            if action == "dropoff" :
+                data.construction += 1
+            if action == "dropoff" and data.construction > 1 :
+                data.nbr_drop += 1
+                action = "exploring"
+            if action == "security" or action == "dropoff" :
+                temp_do_action(action, game_map, turtle, me, game, data, calc)
+
+
+    for turtle in turtle_list:
+        if turtle.busy == 0:
+            action = temp_choose_action(turtle, game_map, me, data.nbr_drop)
+            utils.print_log("Ship {} has action {}.".format(ship.id, action), file)
+            if action != "dropoff" and action != "stay" and action != "security" or (action == "dropoff" and data.construction > 1) :
+                if action == "dropoff" :
+                    temp_do_action("exploring", game_map, turtle, me, game, data, calc)
+                else :
+                    temp_do_action(action, game_map, turtle, me, game, data, calc)
+
+
+
+"""
+-----------------------------------------CHOOSE_ACTIONS
+"""
 
 # Fonction to determine what to do depending on the situation
-def     choose_action(ship, game_map, me, nbr_drop) :
+def     temp_choose_action(ship, game_map, me, nbr_drop) :
 
     min_mine = min(50, 0.6 * data.total_halite / (game_map.height * game_map.height))
 
@@ -98,7 +140,12 @@ def     choose_action(ship, game_map, me, nbr_drop) :
         else :
             return ("suicide")
 
-    elif game_map[ship.position].halite_amount > ship.halite_amount * 10:
+    elif game_map[ship.position].halite_amount > ship.halite_amount * 10 :
+        return ("stay")
+
+    elif game_map[ship.position].halite_amount * 0.25 + ship.halite_amount >= min(950, 10 * data.average_halite) \
+        and ship.halite_amount < min(950, 10 * data.average_halite) \
+        and ship_status[ship.id] != "returning" :
         return ("stay")
 
     elif ship_status[ship.id] == "returning" :
@@ -123,9 +170,9 @@ def     choose_action(ship, game_map, me, nbr_drop) :
                 utils.print_log("-------Ship {} staying for dropoff.\n".format(ship.id), file)
                 return ("stay")
 
-        elif ship.halite_amount >= 950 :
+        elif ship.halite_amount >= min(950, 10 * data.average_halite) :
             return ("returning")
-        elif game_map[ship.position].halite_amount >= min_mine :
+        elif game_map[ship.position].halite_amount >= data.min_mine :
             return ("stay")
         elif ship.halite_amount > 700 and calc.get_closest_drop_dist(ship) <= 7 :
             return ("returning")
@@ -135,75 +182,327 @@ def     choose_action(ship, game_map, me, nbr_drop) :
         return ("stay")
 
 
+"""
+-------------------------------------------- ACTIONS
+"""
 
-# fait ce qui a ete deterniné dans la fonction choose_action
-def     do_action(nbr, game_map, ship, me, game, data) :
-    utils.print_log("Ship {} has action is {} and has {} Halite.".format(ship.id, nbr, ship.halite_amount), file)
+'''
+#RETURNING
+'''
 
-    turtle.busy = 1
+def temp_returning(game_map, ship, me, game, data, calc):
+    ship_status[ship.id] = "returning"
+    move = game_map.get_unsafe_moves(ship.position, calc.get_closest_drop_pos(ship))
+    for direction in move :
+        direct = overall.get_correct_dir(ship.position, direction)
+        if direct not in data.temp_planned_pos and direct not in data.temp_planned_dest and direct not in data.opp_pos:
+            file.write("Ship {} is action returning, going to {}.\n".format(ship.id, direct))
+            data.temp_planned_dest.append(direct)
+            data.temp_planned_pos.append(direct)
+            ship.action = "returning"
+            return
+    temp_do_action("security", game_map, ship, me, game, data, calc)
 
-    if nbr == "returning" :
-        ship_status[ship.id] = "returning"
-        move = game_map.get_unsafe_moves(ship.position, calc.get_closest_drop_pos(ship))
-        for direction in move :
-            direct = overall.get_correct_dir(ship.position, direction)
-            if direct not in data.planned_pos and direct not in data.planned_dest and direct not in data.opp_pos:
-                file.write("Ship {} is action {}, going to {}.\n".format(ship.id, nbr, direct))
-                data.planned_dest.append(direct)
-                data.planned_pos.append(direct)
-                command_queue.append(ship.move(direction))
-                return
-        do_action("security", game_map, ship, me, game, data)
-        return
+'''
+#DROPOFF
+'''
 
-    elif nbr == "dropoff" :
-        utils.print_log("---------Ship {} is action {}, doing a dropoff at {}.".format(ship.id, action, ship.position), file)
-        command_queue.append(ship.make_dropoff())
-        return
+def temp_dropoff(game_map, ship, me, game, data, calc):
+    utils.print_log("---------Ship {} is action dropoff, doing a dropoff at {}.".format(ship.id, ship.position), file)
+    ship.action = "dropoff"
 
-    elif nbr == "exploring" :
-        ship_status[ship.id] = "exploring"
-        move = game_map.get_unsafe_moves(ship.position, calc.detect_closest_worth(ship, 1, data.max_radar))
-        for direction in move :
-            direct = overall.get_correct_dir(ship.position, direction)
-            if direct not in data.planned_pos and direct not in data.planned_dest and direct not in data.opp_pos:
-                utils.print_log("Ship {} is action {}, going to {}, with {}.".format(ship.id, action, direct, game_map[direct].halite_amount), file)
-                data.planned_dest.append(direct)
-                data.planned_pos.append(direct)
-                command_queue.append(ship.move(direction))
-                return
-        do_action("security", game_map, ship, me, game, data)
-        return
+'''
+#EXPLORING
+'''
 
-    elif nbr == "stay" :
+def temp_exploring(game_map, ship, me, game, data, calc):
+    ship_status[ship.id] = "exploring"
+    move = game_map.get_unsafe_moves(ship.position, calc.detect_closest_worth(ship, 1, data.max_radar))
+    for direction in move :
+        direct = overall.get_correct_dir(ship.position, direction)
+        if direct not in data.temp_planned_pos and direct not in data.temp_planned_dest and direct not in data.opp_pos:
+            utils.print_log("Ship {} is action exploring, going to {}, with {}.".format(ship.id, direct, game_map[direct].halite_amount), file)
+            data.temp_planned_dest.append(direct)
+            data.temp_planned_pos.append(direct)
+            ship.action = "exploring"
+            return
+    temp_do_action("security", game_map, ship, me, game, data, calc)
+
+'''
+#STAY
+'''
+
+def temp_stay(game_map, ship, me, game, data, calc):
         data.planned_dest.append(ship.position)
         data.planned_pos.append(ship.position)
-        utils.print_log("Ship {} is action {}, staying at {}.".format(ship.id, action, ship.position), file)
-        command_queue.append(ship.stay_still())
-        return
+        utils.print_log("Ship {} is action stay, staying at {}.".format(ship.id, ship.position), file)
+        ship.action = "stay"
+
+'''
+#SUICIDE
+'''
+
+def temp_suicide(game_map, ship, me, game, data, calc):
+        move = game_map.get_unsafe_moves(ship.position, calc.get_closest_drop_pos(ship))
+        utils.print_log("Ship {} is action suicide.".format(ship.id), file)
+        ship.action = "suicide"
+
+'''
+#SECURITY
+'''
+
+def temp_security(game_map, ship, me, game, data, calc):
+        if ship_status[ship.id] == "returning":
+            temp_do_action("stay", game_map, ship, me, game, data, calc)
+
+        else :
+            move = game_map.get_unsafe_moves(ship.position, get_best_pos(ship.position, 1, ship, me, game_map))
+            for direction in move :
+                direct = overall.get_correct_dir(ship.position, direction)
+                if direct not in data.planned_pos and direct not in data.planned_dest and direct not in data.opp_pos:
+                    utils.print_log("Ship {} is action security, going to security to {}.".format(ship.id, direct), file)
+                    data.temp_planned_pos.append(direct)
+                    ship.action = "security"
+                    return
+        temp_do_action("stay", game_map, ship, me, game, data, calc)
+
+
+"""
+----------------------------------------- DO_ACTIONS
+"""
+# fait ce qui a ete deterniné dans la fonction choose_action
+def     temp_do_action(nbr, game_map, ship, me, game, data, calc) :
+    utils.print_log("Ship {} has action is {} and has {} Halite.".format(ship.id, nbr, ship.halite_amount), file)
+
+    ship.busy = 1
+
+    if nbr == "returning" :
+        temp_returning(game_map, ship, me, game, data, calc)
+
+    elif nbr == "dropoff" :
+        temp_dropoff(game_map, ship, me, game, data, calc)
+
+    elif nbr == "exploring" :
+        temp_exploring(game_map, ship, me, game, data, calc)
+
+    elif nbr == "stay" :
+        temp_stay(game_map, ship, me, game, data, calc)
 
     elif nbr == "suicide" :
-        move = game_map.get_unsafe_moves(ship.position, calc.get_closest_drop_pos(ship))
-        utils.print_log("Ship {} is action {}, suicidee.".format(ship.id, action), file)
-        command_queue.append(ship.move(move[random.randint(0, len(move) - 1)]))
-        return
+        temp_suicide(game_map, ship, me, game, data, calc)
 
     elif nbr == "security" :
-        if ship_status[ship.id] == "returning":
-            do_action("stay", game_map, ship, me, game, data)
-            return
-        move = game_map.get_unsafe_moves(ship.position, get_best_pos(ship.position, 1, ship, me, game_map))
-        for direction in move :
-            direct = overall.get_correct_dir(ship.position, direction)
-            if direct not in data.planned_pos and direct not in data.planned_dest and direct not in data.opp_pos:
-                utils.print_log("Ship {} is action {}, going to 6 to {}.".format(ship.id, action, direct), file)
-                data.planned_pos.append(direct)
-                data.planned_dest.append(direct)
-                command_queue.append(ship.move(direction))
-                return
-        #do_action(4, game_map, ship, me, game)
+        temp_security(game_map, ship, me, game, data, calc)
 
-    utils.print_log("Je fais rien en fait, wtf", file)
+    else:
+        utils.print_log("Je fais rien en fait, wtf", file)
+
+
+"""
+--------------------------------------------------------DEFINITIVE ACTION
+"""
+
+
+"""
+-----------------------------------------DEFINE_ACTIONS
+"""
+
+def define_action (game_map, me, game, data, calc):
+    for turtle in turtle_list:
+        if turtle.busy == 0:
+            action = choose_action(turtle, game_map, me, data.nbr_drop)
+            utils.print_log("Ship {} in DEFINE ACTION IF 1, has action {}.".format(turtle.id, action), file)
+            if action == "stay" :
+                do_action(action, game_map, turtle, me, game, data, calc)
+
+    for turtle in turtle_list:
+        if turtle.busy == 0 :
+            action = choose_action(turtle, game_map, me, data.nbr_drop)
+            if action == "dropoff" :
+                data.construction += 1
+            if action == "dropoff" and data.construction > 1 :
+                data.nbr_drop += 1
+                action = "exploring"
+            utils.print_log("Ship {} in DEFINE ACTION IF 2, has action {}.".format(turtle.id, action), file)
+            if action == "security" or action == "dropoff" :
+                do_action(action, game_map, turtle, me, game, data, calc)
+
+    for turtle in turtle_list:
+        if turtle.busy == 0:
+            action = choose_action(turtle, game_map, me, data.nbr_drop)
+            utils.print_log("Ship {} in DEFINE ACTION IF 3, has action {}.".format(turtle.id, action), file)
+            if action != "dropoff" and action != "stay" and action != "security" or (action == "dropoff" and data.construction > 1) :
+                if action == "dropoff" :
+                    do_action("exploring", game_map, turtle, me, game, data, calc)
+                else :
+                    do_action(action, game_map, turtle, me, game, data, calc)
+
+
+
+"""
+-----------------------------------------CHOOSE_ACTIONS
+"""
+
+# Fonction to determine what to do depending on the situation
+def     choose_action(ship, game_map, me, nbr_drop) :
+
+    min_mine = min(50, 0.6 * data.total_halite / (game_map.height * game_map.height))
+
+    #utils.print_log("Min MINE = {}".format(min_mine), file)
+    #utils.print_log("Ship ID = {}, Closest drop dist = {}, Other side = {}".format(ship.id, calc.get_closest_drop_dist(ship), (MAX_T - game.turn_number) * 1.1 + data.nbr_ships), file)
+
+    if calc.get_closest_drop_dist(ship) * 1.35 > (MAX_T - game.turn_number) :
+        if calc.get_closest_drop_dist(ship) != 1 :
+            return ("returning")
+        else :
+            return ("suicide")
+
+    elif game_map[ship.position].halite_amount > ship.halite_amount * 10 :
+        return ("stay")
+
+    elif game_map[ship.position].halite_amount * 0.25 + ship.halite_amount >= min(950, 10 * data.average_halite) \
+        and ship.halite_amount < min(950, 10 * data.average_halite) \
+        and ship_status[ship.id] != "returning" :
+        return ("stay")
+
+    elif ship_status[ship.id] == "returning" :
+        if calc.get_closest_drop_dist(ship) == 0 :
+            return ("exploring")
+        else :
+            return ("returning")
+
+    elif ship_status[ship.id] == "exploring" :
+        if data.nbr_drop < MAX_DROP and ship.halite_amount >= 800 \
+            and calc.get_closest_drop_dist(ship) >= MAX_T / 13 / data.nbr_player \
+            and game.turn_number < 0.75 * MAX_T and overall.check_halite_around(ship) > 12000 \
+            and data.nbr_ships >= 20 and (data.on_hold == 0 or ship.id in data.drop_duty):
+            if me.halite_amount + ship.halite_amount + game_map[ship.position].halite_amount >= 4000 :
+                data.on_hold = 0
+                data.drop_duty = []
+                utils.print_log("------Ship {} created dropoff.\n".format(ship.id), file)
+                return ("dropoff")
+            else :
+                data.drop_duty.append(ship.id)
+                data.on_hold = 1
+                utils.print_log("-------Ship {} staying for dropoff.\n".format(ship.id), file)
+                return ("stay")
+
+        elif ship.halite_amount >= min(950, 10 * data.average_halite) :
+            return ("returning")
+        elif game_map[ship.position].halite_amount >= data.min_mine :
+            return ("stay")
+        elif ship.halite_amount > 700 and calc.get_closest_drop_dist(ship) <= 7 :
+            return ("returning")
+        else :
+            return ("exploring")
+    else :
+        return ("stay")
+
+
+"""
+-------------------------------------------- ACTIONS
+"""
+
+'''RETURNING'''
+
+def returning(game_map, ship, me, game, data, calc):
+    ship_status[ship.id] = "returning"
+    move = game_map.get_unsafe_moves(ship.position, calc.get_closest_drop_pos(ship))
+    for direction in move :
+        direct = overall.get_correct_dir(ship.position, direction)
+        if direct not in data.planned_pos and direct not in data.planned_dest and direct not in data.opp_pos:
+            file.write("Ship {} is action returning, going to {}.\n".format(ship.id, direct))
+            data.planned_dest.append(direct)
+            data.planned_pos.append(direct)
+            command_queue.append(ship.move(direction))
+            return
+    do_action("security", game_map, ship, me, game, data, calc)
+
+'''DROPOFF'''
+
+def dropoff(game_map, ship, me, game, data, calc):
+    utils.print_log("---------Ship {} is action dropoff, doing a dropoff at {}.".format(ship.id, ship.position), file)
+    command_queue.append(ship.make_dropoff())
+
+'''EXPLORING'''
+
+def exploring(game_map, ship, me, game, data, calc):
+    ship_status[ship.id] = "exploring"
+    move = game_map.get_unsafe_moves(ship.position, calc.detect_closest_worth(ship, 1, data.max_radar))
+    for direction in move :
+        direct = overall.get_correct_dir(ship.position, direction)
+        if direct not in data.planned_pos and direct not in data.planned_dest and direct not in data.opp_pos:
+            utils.print_log("Ship {} is action exploring, going to {}, with {}.".format(ship.id, direct, game_map[direct].halite_amount), file)
+            data.planned_dest.append(direct)
+            data.planned_pos.append(direct)
+            command_queue.append(ship.move(direction))
+            return
+    do_action("security", game_map, ship, me, game, data, calc)
+
+'''STAY'''
+
+def stay(game_map, ship, me, game, data, calc):
+        data.planned_dest.append(ship.position)
+        data.planned_pos.append(ship.position)
+        utils.print_log("Ship {} is action stay, staying at {}.".format(ship.id, ship.position), file)
+        command_queue.append(ship.stay_still())
+
+'''SUICIDE'''
+
+def suicide(game_map, ship, me, game, data, calc):
+        move = game_map.get_unsafe_moves(ship.position, calc.get_closest_drop_pos(ship))
+        utils.print_log("Ship {} is action suicide.".format(ship.id), file)
+        command_queue.append(ship.move(move[random.randint(0, len(move) - 1)]))
+
+'''SECURITY'''
+
+def security(game_map, ship, me, game, data, calc) :
+        if ship_status[ship.id] == "returning" :
+            do_action("stay", game_map, ship, me, game, data, calc)
+            return
+        else :
+            move = game_map.get_unsafe_moves(ship.position, get_best_pos(ship.position, 1, ship, me, game_map))
+            for direction in move :
+                direct = overall.get_correct_dir(ship.position, direction)
+                if direct not in data.planned_pos and direct not in data.planned_dest and direct not in data.opp_pos:
+                    utils.print_log("Ship {} is action security, going to security to {}.".format(ship.id, direct), file)
+                    data.planned_pos.append(direct)
+                    data.planned_dest.append(direct)
+                    command_queue.append(ship.move(direction))
+                    return
+        do_action("stay", game_map, ship, me, game, data, calc)
+
+
+"""
+----------------------------------------- DO_ACTIONS
+"""
+# fait ce qui a ete deterniné dans la fonction choose_action
+def     do_action(nbr, game_map, ship, me, game, data, calc) :
+    utils.print_log("Ship {} is in DO_ACTION has action is {} and has {} Halite.".format(ship.id, nbr, ship.halite_amount), file)
+
+    ship.busy = 1
+
+    if nbr == "returning" :
+        returning(game_map, ship, me, game, data, calc)
+
+    elif nbr == "dropoff" :
+        dropoff(game_map, ship, me, game, data, calc)
+
+    elif nbr == "exploring" :
+        exploring(game_map, ship, me, game, data, calc)
+
+    elif nbr == "stay" :
+        stay(game_map, ship, me, game, data, calc)
+
+    elif nbr == "suicide" :
+        suicide(game_map, ship, me, game, data, calc)
+
+
+    elif nbr == "security" :
+        security(game_map, ship, me, game, data, calc)
+
+    else:
+        utils.print_log("Je fais rien en fait, wtf", file)
 
 
 """
@@ -215,6 +514,7 @@ game = hlt.Game()
 ship_status = {}
 utils = Utils()
 file = open("log/" + strftime("%Y-%m-%d %H:%M:%S", gmtime()), "a")
+me = game.me
 
 
 game.ready("AsgardBot")
@@ -260,53 +560,36 @@ while True:
     data.total_halite = 0
 
     """
-    -------------- Calc
+    -------------- STARTING CALC
     """
-
-    #utils.print_log("Total halite avant = {}".format(data.total_halite), file)
 
     overall.analyse_map()
     for i in range(0, game_map.height - 1) :
         for j in range (0, game_map.height - 1) :
             data.total_halite += game.game_map[Position(i, j)].halite_amount
 
-    min_mine = min(50, 0.6 * data.total_halite / (game_map.height * game_map.height))
-    utils.print_log("Min_mine = {}".format(min_mine), file)
+    data.average_halite = data.total_halite / (game_map.height * game_map.height)
+    data.min_mine = min(50, 0.6 * data.average_halite)
+    utils.print_log("Min_mine = {}".format(data.min_mine), file)
 
     for ship in me.get_ships():
         ship = Turtle(ship)
         turtle_list.append(ship)
 
-
     for turtle in turtle_list:
         if turtle.id not in ship_status:
             ship_status[turtle.id] = "exploring"
-        if turtle.busy == 0:
-            action = choose_action(turtle, game_map, me, data.nbr_drop)
-            if action == "stay" :
-                do_action(action, game_map, turtle, me, game, data)
+
+    """
+    -------------- CALC
+    """
+
+    define_action(game_map, me, game, data, calc)
 
 
-    for turtle in turtle_list:
-        if turtle.busy == 0 :
-            action = choose_action(turtle, game_map, me, data.nbr_drop)
-            if action == "dropoff" :
-                data.construction += 1
-            if action == "dropoff" and data.construction > 1 :
-                data.nbr_drop += 1
-                action = "exploring"
-            if action == "security" or action == "dropoff" :
-                do_action(action, game_map, turtle, me, game, data)
-
-    for turtle in turtle_list:
-        if turtle.busy == 0:
-            action = choose_action(turtle, game_map, me, data.nbr_drop)
-            utils.print_log("Ship {} has action is {}.".format(ship.id, action), file)
-            if action != "dropoff" and action != "stay" and action != "security" or (action == "dropoff" and data.construction > 1) :
-                if action == "dropoff" :
-                    do_action("exploring", game_map, turtle, me, game, data)
-                else :
-                    do_action(action, game_map, turtle, me, game, data)
+    """
+    -------------- SPAWN?
+    """
 
     ratio = ((game_map.height - 32) / 16 * 0.05)
     max_turn = MAX_T * (0.5 - (data.nbr_player - 2) * 0.05 + ratio)
@@ -317,8 +600,15 @@ while True:
 
                 utils.print_log("Je Sapwn!.".format(), file)
 
-
+    """
+    -------------- SEND COMMAND
+    """
     game.end_turn(command_queue)
+
+
+"""
+-------------- CLOSE FILES
+"""
 
 file.close()
 

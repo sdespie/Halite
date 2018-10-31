@@ -1,0 +1,47 @@
+Successfully created bot! My Player ID is 0.
+
+==== TURN 0 TIME 0.0% ====
+
+Min_mine = 50
+Je Sapwn!.
+
+==== TURN 1 TIME 0.2% ====
+
+Min_mine = 50
+Ship 1 in DEFINE ACTION IF 1, has action exploring.
+Ship 1 in DEFINE ACTION IF 2, has action exploring.
+Ship 1 in DEFINE ACTION IF 3, has action exploring.
+Ship 1 is in DO_ACTION has action is exploring and has 0 Halite.
+Ship 1 is action exploring, going to Position(11, 24), with 40.
+Je Sapwn!.
+
+==== TURN 2 TIME 0.4% ====
+
+Min_mine = 50
+Ship 2 in DEFINE ACTION IF 1, has action exploring.
+Ship 1 in DEFINE ACTION IF 1, has action stay.
+Ship 1 is in DO_ACTION has action is stay and has 0 Halite.
+Ship 1 is action stay, staying at Position(11, 24).
+Ship 2 in DEFINE ACTION IF 2, has action exploring.
+Ship 2 in DEFINE ACTION IF 3, has action exploring.
+Ship 2 is in DO_ACTION has action is exploring and has 0 Halite.
+Ship 2 is in DO_ACTION has action is security and has 0 Halite.
+Ship 2 is action security, going to security to Position(13, 24).
+Je Sapwn!.
+
+==== TURN 3 TIME 0.7% ====
+
+Min_mine = 50
+Ship 3 in DEFINE ACTION IF 1, has action exploring.
+Ship 2 in DEFINE ACTION IF 1, has action stay.
+Ship 2 is in DO_ACTION has action is stay and has 0 Halite.
+Ship 2 is action stay, staying at Position(13, 24).
+Ship 1 in DEFINE ACTION IF 1, has action exploring.
+Ship 3 in DEFINE ACTION IF 2, has action exploring.
+Ship 1 in DEFINE ACTION IF 2, has action exploring.
+Ship 3 in DEFINE ACTION IF 3, has action exploring.
+Ship 3 is in DO_ACTION has action is exploring and has 0 Halite.
+Ship 3 is action exploring, going to Position(11, 24), with 30.
+Ship 1 in DEFINE ACTION IF 3, has action exploring.
+Ship 1 is in DO_ACTION has action is exploring and has 10 Halite.
+Ship 1 is action exploring, going to Position(10, 24), with 186.
