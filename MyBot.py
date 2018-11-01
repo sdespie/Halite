@@ -221,10 +221,10 @@ def security(game_map, ship, me, game, data, calc) :
             for direction in move :
                 direct = overall.get_correct_dir(ship.position, direction)
                 if direct not in data.planned_pos and direct not in data.planned_dest and direct not in data.opp_pos:
-                utils.print_log("Ship {} is action security, going to security to {}.".format(ship.id, direct), file)
-                data.planned_pos.append(direct)
-                data.planned_dest.append(direct)
-                command_queue.append(ship.move(direction))
+                    utils.print_log("Ship {} is action security, going to security to {}.".format(ship.id, direct), file)
+                    data.planned_pos.append(direct)
+                    data.planned_dest.append(direct)
+                    command_queue.append(ship.move(direction))
                 return
         do_action("stay", game_map, ship, me, game, data, calc)
 
