@@ -265,7 +265,7 @@ def     do_action(nbr, game_map, ship, me, game, data, calc) :
 def check_nbr_pos (turtle):
     i = 0
 
-    if game.game_map[turtle.position].halite_amount * 0.1 > turtle.halite_amount :
+    if game.game_map[turtle.position].halite_amount * 0.1 >= turtle.halite_amount :
         turtle.nbr_choice = 0
         return
     if game.game_map[turtle.position].halite_amount >= data.min_mine :
@@ -382,6 +382,7 @@ while True:
                 min_pos = turtle.nbr_choice
         for turtle in turtle_list :
             if turtle.nbr_choice <= min_pos :
+                utils.print_log("J'ai {} choix".format(turtle.nbr_choice), file)
                 action = choose_action (turtle, game.game_map, me, data.nbr_drop)
                 do_action(action, game.game_map, turtle, me, game, data, calc)
                 turtle_list.remove(turtle)
