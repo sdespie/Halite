@@ -213,20 +213,20 @@ def suicide(game_map, ship, me, game, data, calc):
 '''SECURITY'''
 
 def security(game_map, ship, me, game, data, calc) :
-        if ship_status[ship.id] == "returning" :
+    '''    if ship_status[ship.id] == "returning" :
             do_action("stay", game_map, ship, me, game, data, calc)
             return
-        else :
-            move = game_map.get_unsafe_moves(ship.position, get_best_pos(ship.position, 1, ship, me, game_map))
-            for direction in move :
-                direct = overall.get_correct_dir(ship.position, direction)
-                if direct not in data.planned_pos and direct not in data.planned_dest and direct not in data.opp_pos:
-                    utils.print_log("Ship {} is action security, going to security to {}.".format(ship.id, direct), file)
-                    data.planned_pos.append(direct)
-                    data.planned_dest.append(direct)
-                    command_queue.append(ship.move(direction))
-                return
-        do_action("stay", game_map, ship, me, game, data, calc)
+        else :'''
+    move = game_map.get_unsafe_moves(ship.position, get_best_pos(ship.position, 1, ship, me, game_map))
+    for direction in move :
+        direct = overall.get_correct_dir(ship.position, direction)
+        if direct not in data.planned_pos and direct not in data.planned_dest and direct not in data.opp_pos:
+            utils.print_log("Ship {} is action security, going to security to {}.".format(ship.id, direct), file)
+            data.planned_pos.append(direct)
+            data.planned_dest.append(direct)
+            command_queue.append(ship.move(direction))
+        return
+    do_action("stay", game_map, ship, me, game, data, calc)
 
 
 """
