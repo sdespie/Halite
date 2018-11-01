@@ -41,9 +41,7 @@ class Data_game() :
     def __init__(self) :
         self.nbr_ships = None
         self.nbr_drop = None
-        self.temp_nbr_drop = None
         self.construction = None
-        self.temp_construction = None
         self.nbr_player = None
         self.nbr_opp_ships = None
         self.max_radar = None

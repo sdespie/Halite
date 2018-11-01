@@ -92,7 +92,7 @@ def    get_best_pos(pos, mode, ship, me, game_map) :
 """
 -----------------------------------------DEFINE_ACTIONS
 """
-
+'''
 def define_action (game_map, me, game, data, calc):
     for turtle in turtle_list:
         if turtle.busy == 0:
@@ -122,7 +122,7 @@ def define_action (game_map, me, game, data, calc):
                     do_action("exploring", game_map, turtle, me, game, data, calc)
                 else :
                     do_action(action, game_map, turtle, me, game, data, calc)
-
+'''
 
 
 """
@@ -137,7 +137,7 @@ def     choose_action(ship, game_map, me, nbr_drop) :
     #utils.print_log("Min MINE = {}".format(min_mine), file)
     #utils.print_log("Ship ID = {}, Closest drop dist = {}, Other side = {}".format(ship.id, calc.get_closest_drop_dist(ship), (MAX_T - game.turn_number) * 1.1 + data.nbr_ships), file)
 
-    if calc.get_closest_drop_dist(ship) * 1.4 > (MAX_T - game.turn_number) :
+    if calc.get_closest_drop_dist(ship) * 1.0 + data.nbr_ships / (data.nbr_drop + 1) > (MAX_T - game.turn_number) :
         if calc.get_closest_drop_dist(ship) != 1 :
             return ("returning")
         else :
@@ -166,12 +166,15 @@ def     choose_action(ship, game_map, me, nbr_drop) :
             if me.halite_amount + ship.halite_amount + game_map[ship.position].halite_amount >= 4000 :
                 data.on_hold = 0
                 data.drop_duty = []
-                utils.print_log("------Ship {} created dropoff.\n".format(ship.id), file)
+                data.construction += 1
+                if action == "dropoff" and data.construction > 1 :
+                    data.nbr_drop += 1
+                utils.print_log("------Ship {} created dropoff.".format(ship.id), file)
                 return ("dropoff")
             else :
                 data.drop_duty.append(ship.id)
                 data.on_hold = 1
-                utils.print_log("-------Ship {} staying for dropoff.\n".format(ship.id), file)
+                utils.print_log("-------Ship {} staying for dropoff.".format(ship.id), file)
                 return ("stay")
 
         elif ship.halite_amount >= min(950, 10 * data.average_halite) :
@@ -407,45 +410,30 @@ while True:
 
     while len(turtle_list) != 0 :
         update_pos()
-        utils.print_log("UPDATED!", file)
+        #utils.print_log("UPDATED!", file)
         min_pos = 6
         for turtle in turtle_list :
             if turtle.nbr_choice < min_pos :
                 min_pos = turtle.nbr_choice
         for turtle in turtle_list :
-            utils.print_log("ship id in list = {}, nbr_choice = {} ".format(turtle.id, turtle.nbr_choice), file)
             if turtle.nbr_choice <= min_pos :
                 action = choose_action (turtle, game.game_map, me, data.nbr_drop)
                 do_action(action, game.game_map, turtle, me, game, data, calc)
-                #utils.print_log(" len 1 = {}".format(len(turtle_list)), file)
                 turtle_list.remove(turtle)
-                #utils.print_log(" len 2 = {}".format(len(turtle_list)), file)
-
                 break
 
-    #if game.turn_number == 5 :
-    #    file.close()
-
-    #calculer les possibilités de mouvement de chaque ships   /!\ ceux qui ont pas assez d'halite = 0
-
-    #trier la liste en fonction du nbr_choice, croissant
-
-    # mettre a jour nbr_choice a chaque fois qu'on append un mouvement dans la liste
-
-
-    #define_action(game_map, me, game, data, calc)
 
     """
     -------------- SPAWN?
     """
-
+    utils.print_log("Je Sapwn ? data.construction = {}, halite_amount: {}".format(data.construction, me.halite_amount), file)
     ratio = ((game_map.height - 32) / 16 * 0.05)
     max_turn = MAX_T * (0.5 - (data.nbr_player - 2) * 0.05 + ratio)
     if data.construction == 0 and me.halite_amount >= constants.SHIP_COST and data.on_hold == 0:
         if  me.shipyard.position not in data.planned_pos :
             if game.turn_number <= max_turn :
                 command_queue.append(me.shipyard.spawn())
-                utils.print_log("Je Sapwn!.".format(), file)
+                utils.print_log("Je Sapwn! data.construction = {}, halite_amount: {}".format(data.construction, me.halite_amount), file)
 
     """
     -------------- SEND COMMAND
