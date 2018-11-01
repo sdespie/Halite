@@ -85,44 +85,9 @@ def    get_best_pos(pos, mode, ship, me, game_map) :
 
 
 """
---------------------------------------------------------DEFINITIVE ACTION
+-------------------------------------------------------- ACTION
 """
 
-
-"""
------------------------------------------DEFINE_ACTIONS
-"""
-'''
-def define_action (game_map, me, game, data, calc):
-    for turtle in turtle_list:
-        if turtle.busy == 0:
-            action = choose_action(turtle, game_map, me, data.nbr_drop)
-            utils.print_log("Ship {} in DEFINE ACTION IF 1, has action {}.".format(turtle.id, action), file)
-            if action == "stay" :
-                do_action(action, game_map, turtle, me, game, data, calc)
-
-    for turtle in turtle_list:
-        if turtle.busy == 0 :
-            action = choose_action(turtle, game_map, me, data.nbr_drop)
-            if action == "dropoff" :
-                data.construction += 1
-            if action == "dropoff" and data.construction > 1 :
-                data.nbr_drop += 1
-                action = "exploring"
-            utils.print_log("Ship {} in DEFINE ACTION IF 2, has action {}.".format(turtle.id, action), file)
-            if action == "security" or action == "dropoff" :
-                do_action(action, game_map, turtle, me, game, data, calc)
-
-    for turtle in turtle_list:
-        if turtle.busy == 0:
-            action = choose_action(turtle, game_map, me, data.nbr_drop)
-            utils.print_log("Ship {} in DEFINE ACTION IF 3, has action {}.".format(turtle.id, action), file)
-            if action != "dropoff" and action != "stay" and action != "security" or (action == "dropoff" and data.construction > 1) :
-                if action == "dropoff" :
-                    do_action("exploring", game_map, turtle, me, game, data, calc)
-                else :
-                    do_action(action, game_map, turtle, me, game, data, calc)
-'''
 
 
 """
@@ -248,20 +213,20 @@ def suicide(game_map, ship, me, game, data, calc):
 '''SECURITY'''
 
 def security(game_map, ship, me, game, data, calc) :
-#        if ship_status[ship.id] == "returning" :
-#            do_action("stay", game_map, ship, me, game, data, calc)
-#            return
-#        else :
-    move = game_map.get_unsafe_moves(ship.position, get_best_pos(ship.position, 1, ship, me, game_map))
-    for direction in move :
-        direct = overall.get_correct_dir(ship.position, direction)
-        if direct not in data.planned_pos and direct not in data.planned_dest and direct not in data.opp_pos:
-            utils.print_log("Ship {} is action security, going to security to {}.".format(ship.id, direct), file)
-            data.planned_pos.append(direct)
-            data.planned_dest.append(direct)
-            command_queue.append(ship.move(direction))
+        if ship_status[ship.id] == "returning" :
+            do_action("stay", game_map, ship, me, game, data, calc)
             return
-    do_action("stay", game_map, ship, me, game, data, calc)
+        else :
+            move = game_map.get_unsafe_moves(ship.position, get_best_pos(ship.position, 1, ship, me, game_map))
+            for direction in move :
+                direct = overall.get_correct_dir(ship.position, direction)
+                if direct not in data.planned_pos and direct not in data.planned_dest and direct not in data.opp_pos:
+                utils.print_log("Ship {} is action security, going to security to {}.".format(ship.id, direct), file)
+                data.planned_pos.append(direct)
+                data.planned_dest.append(direct)
+                command_queue.append(ship.move(direction))
+                return
+        do_action("stay", game_map, ship, me, game, data, calc)
 
 
 """
