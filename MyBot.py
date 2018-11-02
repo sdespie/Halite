@@ -126,7 +126,7 @@ def     choose_action(ship, game_map, me, nbr_drop) :
     elif ship_status[ship.id] == "exploring" :
         if data.nbr_drop < MAX_DROP and ship.halite_amount >= 800 \
             and data.construction == 0 \
-            and calc.get_closest_drop_dist(ship.position) >= 10 + (game_map.height - 32) / 4 * (2 / data.nbr_player) \
+            and calc.get_closest_drop_dist(ship.position) >= 10 + (game.game_map.height - 32) / 4 * (2 / data.nbr_player) \
             and game.turn_number < 0.75 * MAX_T and overall.check_halite_around(ship) > 17000 \
             and data.nbr_ships >= 14 and (data.on_hold == 0 or ship.id in data.drop_duty):
             if me.halite_amount + ship.halite_amount + game_map[ship.position].halite_amount >= 4000 :
@@ -364,7 +364,7 @@ data.on_hold = 0
 data.drop_duty = []
 data.nbr_player = len(game.players.values())
 
-ratio = ((game_map.height - 32) / 16 * 0.05)
+ratio = ((game.game_map.height - 32) / 16 * 0.05)
 max_turn = MAX_T * (0.5 - (data.nbr_player - 2) * 0.05 + ratio)
 
 
