@@ -79,7 +79,6 @@ def    get_best_pos(pos, mode, ship, me, game_map) :
                 direction = posi
                 max = game_map[posi].halite_amount
 
-    #file.write("Get Best pos return ={}.\n".format(direction))
     return (direction)
 
 
@@ -97,30 +96,29 @@ def    get_best_pos(pos, mode, ship, me, game_map) :
 # Fonction to determine what to do depending on the situation
 def     choose_action(ship, game_map, me, nbr_drop) :
 
+    if calc.get_closest_drop_dist(ship.position) * 1.1 > (MAX_T - game.turn_number) :
+        data.suicide = 1
     min_mine = min(50, 0.6 * data.total_halite / (game_map.height * game_map.height))
 
     #utils.print_log("Min MINE = {}".format(min_mine), file)
-    #utils.print_log("Ship ID = {}, Closest drop dist = {}, Other side = {}".format(ship.id, calc.get_closest_drop_dist(ship), (MAX_T - game.turn_number) * 1.1 + data.nbr_ships), file)
+    #utils.print_log("Ship ID = {}, Closest drop dist = {}, Other side = {}".format(ship.id, calc.get_closest_drop_dist(ship.position), (MAX_T - game.turn_number) * 1.1 + data.nbr_ships), file)
     if game_map[ship.position].halite_amount > ship.halite_amount * 10 :
         return ("stay")
 
-    elif calc.get_closest_drop_dist(ship) * 1.0 + data.nbr_ships / (data.nbr_drop + 1) > (MAX_T - game.turn_number) or \
-        ship.action == "suicide":
-        if calc.get_closest_drop_dist(ship) != 1 :
-            ship.action = "suicide"
+    elif data.suicide == 1:
+        if calc.get_closest_drop_dist(ship.position) != 1 :
             return ("returning")
         else :
-            ship.action = "suicide"
             return ("suicide")
 
-    elif game_map[ship.position].halite_amount * 0.25 + ship.halite_amount >= min(950, 10 * data.average_halite) \
-        and ship.halite_amount < min(950, 10 * data.average_halite) \
+    elif game_map[ship.position].halite_amount * 0.25 + ship.halite_amount >= 950 \
+        and ship.halite_amount < 950 \
         and ship_status[ship.id] != "returning" and \
             ship.position not in data.planned_pos :
         return ("stay")
 
     elif ship_status[ship.id] == "returning" :
-        if calc.get_closest_drop_dist(ship) == 0 :
+        if calc.get_closest_drop_dist(ship.position) == 0 :
             return ("exploring")
         else :
             return ("returning")
@@ -128,14 +126,13 @@ def     choose_action(ship, game_map, me, nbr_drop) :
     elif ship_status[ship.id] == "exploring" :
         if data.nbr_drop < MAX_DROP and ship.halite_amount >= 800 \
             and data.construction == 0 \
-            and calc.get_closest_drop_dist(ship) >= MAX_T / 13 / data.nbr_player \
-            and game.turn_number < 0.75 * MAX_T and overall.check_halite_around(ship) > 13000 \
-            and data.nbr_ships >= 20 and (data.on_hold == 0 or ship.id in data.drop_duty):
+            and calc.get_closest_drop_dist(ship.position) >= 10 + (game_map.height - 32) / 4 * (2 / data.nbr_player) \
+            and game.turn_number < 0.75 * MAX_T and overall.check_halite_around(ship) > 17000 \
+            and data.nbr_ships >= 14 and (data.on_hold == 0 or ship.id in data.drop_duty):
             if me.halite_amount + ship.halite_amount + game_map[ship.position].halite_amount >= 4000 :
                 data.on_hold = 0
                 data.drop_duty = []
                 data.construction += 1
-                #if data.construction > 1 :
                 data.nbr_drop += 1
                 utils.print_log("------Ship {} created dropoff.".format(ship.id), file)
                 return ("dropoff")
@@ -145,12 +142,12 @@ def     choose_action(ship, game_map, me, nbr_drop) :
                 utils.print_log("-------Ship {} staying for dropoff.".format(ship.id), file)
                 return ("stay")
 
-        elif ship.halite_amount >= min(950, 10 * data.average_halite) :
+        elif ship.halite_amount >= 950 :
             return ("returning")
         elif game_map[ship.position].halite_amount >= data.min_mine and \
             ship.position not in data.planned_pos :
             return ("stay")
-        elif ship.halite_amount > 700 and calc.get_closest_drop_dist(ship) <= 7 :
+        elif ship.halite_amount > 700 and calc.get_closest_drop_dist(ship.position) <= 7 :
             return ("returning")
         else :
             return ("exploring")
@@ -178,7 +175,7 @@ def returning(game_map, ship, me, game, data, calc):
                     ret = direct
                     retour = direction
         if min_halite < 1200 :
-            file.write("Ship {} is action returning, going to {}.\n".format(ship.id, ret))
+            utils.print_log("Ship {} is action returning, going to {}.".format(ship.id, ret), file)
             data.planned_dest.append(ret)
             data.planned_pos.append(ret)
             command_queue.append(ship.move(retour))
@@ -187,7 +184,7 @@ def returning(game_map, ship, me, game, data, calc):
             for direction in move :
                 direct = overall.get_correct_dir(ship.position, direction)
                 if direct not in data.planned_pos and direct not in data.planned_dest and direct not in data.opp_pos:
-                    file.write("Ship {} is action returning, going to {}.\n".format(ship.id, direct))
+                    utils.print_log("Ship {} is action returning, going to {}.".format(ship.id, direct), file)
                     data.planned_dest.append(direct)
                     data.planned_pos.append(direct)
                     command_queue.append(ship.move(direction))
@@ -230,7 +227,7 @@ def exploring(game_map, ship, me, game, data, calc):
         for direction in move :
             direct = overall.get_correct_dir(ship.position, direction)
             if direct not in data.planned_pos and direct not in data.planned_dest and direct not in data.opp_pos:
-                file.write("Ship {} is action returning, going to {}.\n".format(ship.id, direct))
+                utils.print_log("Ship {} is action returning, going to {}.".format(ship.id, direct), file)
                 data.planned_dest.append(direct)
                 data.planned_pos.append(direct)
                 command_queue.append(ship.move(direction))
@@ -249,7 +246,6 @@ def stay(game_map, ship, me, game, data, calc):
 '''SUICIDE'''
 
 def suicide(game_map, ship, me, game, data, calc):
-    ship.action = "suicide"
     move = game_map.get_unsafe_moves(ship.position, calc.get_closest_drop_pos(ship))
     utils.print_log("Ship {} is action suicide.".format(ship.id), file)
     command_queue.append(ship.move(move[random.randint(0, len(move) - 1)]))
@@ -314,7 +310,7 @@ def check_nbr_pos (turtle):
         return
     if game.game_map[turtle.position].halite_amount >= data.min_mine and \
         ship_status[turtle.id] == "exploring" and \
-        turtle.halite_amount <= min(950, 10 * data.average_halite):
+        turtle.halite_amount <= 950:
         turtle.nbr_choice = 0
         return
     if overall.get_correct_dir(turtle.position, (0, 0)) not in data.opp_pos and \
@@ -346,9 +342,9 @@ def update_pos() :
 game = hlt.Game()
 ship_status = {}
 utils = Utils()
-file = open("log/" + strftime("%Y-%m-%d %H:%M:%S", gmtime()), "a")
+#file = open("log/" + strftime("%Y-%m-%d %H:%M:%S", gmtime()), "a")
 me = game.me
-
+file = 0
 
 game.ready("AsgardBot")
 utils.print_log("Successfully created bot! My Player ID is {}.".format(game.my_id), file)
@@ -361,12 +357,16 @@ else :
 
 turtle_list = []
 data = Data_game()
-overall = Overall(game, data, game.me)
 calc = Calc(game, data, game.me)
+overall = Overall(game, data, game.me, calc)
 data.nbr_drop = 0
 data.on_hold = 0
 data.drop_duty = []
 data.nbr_player = len(game.players.values())
+
+ratio = ((game_map.height - 32) / 16 * 0.05)
+max_turn = MAX_T * (0.5 - (data.nbr_player - 2) * 0.05 + ratio)
+
 
 """
 -----------------------------------------------------------------<<<Game Loop>>>
@@ -404,7 +404,6 @@ while True:
     data.average_halite = data.total_halite / (game_map.height * game_map.height)
     data.min_mine = min([50, 0.6 * data.average_halite])
     utils.print_log("Min_mine = {}".format(data.min_mine), file)
-    utils.print_log("Min_returning = {}".format(min(950, 10 * data.average_halite)), file)
 
     for ship in me.get_ships():
         ship = Turtle(ship)
@@ -428,19 +427,18 @@ while True:
                 min_pos = turtle.nbr_choice
         for turtle in turtle_list :
             if turtle.nbr_choice <= min_pos :
-                utils.print_log("J'ai {} choix et {} Halite".format(turtle.nbr_choice, turtle.halite_amount), file)
+                #utils.print_log("J'ai {} choix et {} Halite".format(turtle.nbr_choice, turtle.halite_amount), file)
                 action = choose_action (turtle, game.game_map, me, data.nbr_drop)
                 do_action(action, game.game_map, turtle, me, game, data, calc)
                 turtle_list.remove(turtle)
-                break
+                if min_pos > 0 :
+                    break
 
 
     """
     -------------- SPAWN?
     """
-    utils.print_log("Je Sapwn ? data.construction = {}, halite_amount: {}".format(data.construction, me.halite_amount), file)
-    ratio = ((game_map.height - 32) / 16 * 0.05)
-    max_turn = MAX_T * (0.5 - (data.nbr_player - 2) * 0.05 + ratio)
+    #utils.print_log("Je Sapwn ? data.construction = {}, halite_amount: {}".format(data.construction, me.halite_amount), file)
     if data.construction == 0 and me.halite_amount >= constants.SHIP_COST and data.on_hold == 0:
         if  me.shipyard.position not in data.planned_pos :
             if game.turn_number <= max_turn :
@@ -457,9 +455,9 @@ while True:
 -------------- CLOSE FILES
 """
 
-file.close()
+#file.close()
 
-stats = open("stats", "a")
-utils.print_log("Joueur : {} ".format(game.my_id), stats)
+#stats = open("stats", "a")
+#utils.print_log("Joueur : {} ".format(game.my_id), stats)
 
-stats.close()
+#stats.close()

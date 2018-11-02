@@ -16,20 +16,22 @@ import random
 
 class Overall:
 
-    def __init__(self, game, data, me):
+    def __init__(self, game, data, me, calc):
         self.game = game
         self.data = data
         self.me = me
+        self.calc = calc
 
     def analyse_map (self):
         for i in range(0, self.game.game_map.height - 1) :
             for j in range (0, self.game.game_map.height - 1) :
                 if self.game.game_map[Position(i, j)].ship and self.me.has_ship(self.game.game_map[Position(i, j)].ship.id) == False :
-                    self.data.opp_pos.append(self.get_correct_dir(Position(i, j), (0, 0)))
-                    self.data.opp_pos.append(self.get_correct_dir(Position(i, j), (-1, 0)))
-                    self.data.opp_pos.append(self.get_correct_dir(Position(i, j), (1, 0)))
-                    self.data.opp_pos.append(self.get_correct_dir(Position(i, j), (0, -1)))
-                    self.data.opp_pos.append(self.get_correct_dir(Position(i, j), (0, 1)))
+                    if self.calc.get_closest_drop_dist(Position(i, j)) > 3:
+                        self.data.opp_pos.append(self.get_correct_dir(Position(i, j), (0, 0)))
+                        self.data.opp_pos.append(self.get_correct_dir(Position(i, j), (-1, 0)))
+                        self.data.opp_pos.append(self.get_correct_dir(Position(i, j), (1, 0)))
+                        self.data.opp_pos.append(self.get_correct_dir(Position(i, j), (0, -1)))
+                        self.data.opp_pos.append(self.get_correct_dir(Position(i, j), (0, 1)))
 
         self.data.max_radar = (-100 * self.game.turn_number / constants.MAX_TURNS + 300) / self.data.nbr_player
         self.data.max_turn_to_base = 0;
@@ -61,7 +63,7 @@ class Overall:
 
 
     def check_halite_around(self, ship):
-        pad = 4
+        pad = 5
         total_ha = 0
         pos = ship.position
         for i in range(-pad, pad) :
