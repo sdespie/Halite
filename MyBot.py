@@ -15,6 +15,7 @@ from hlt.perso_ship import *
 from hlt.perso_utils import *
 from hlt.entity import *
 from hlt.constants import *
+from hlt.perso_const import *
 import random
 import logging
 
@@ -111,8 +112,8 @@ def     choose_action(ship, game_map, me, nbr_drop) :
         else :
             return ("suicide")
 
-    elif game_map[ship.position].halite_amount * 0.25 + ship.halite_amount >= 950 \
-        and ship.halite_amount < 950 \
+    elif game_map[ship.position].halite_amount * 0.25 + ship.halite_amount >= RETURN_HALITE \
+        and ship.halite_amount < RETURN_HALITE \
         and ship_status[ship.id] != "returning" and \
             ship.position not in data.planned_pos :
         return ("stay")
@@ -124,11 +125,11 @@ def     choose_action(ship, game_map, me, nbr_drop) :
             return ("returning")
 
     elif ship_status[ship.id] == "exploring" :
-        if data.nbr_drop < MAX_DROP and ship.halite_amount >= 800 \
+        if ship.halite_amount >= 800 \
             and data.construction == 0 \
-            and calc.get_closest_drop_dist(ship.position) >= 10 + (game.game_map.height - 32) / 4 * (2 / data.nbr_player) \
-            and game.turn_number < 0.75 * MAX_T and overall.check_halite_around(ship) > 17000 \
-            and data.nbr_ships >= 14 and (data.on_hold == 0 or ship.id in data.drop_duty):
+            and calc.get_closest_drop_dist(ship.position) >= 10 + (game.game_map.height - 32) / DROP_DIST_RATIO * (2 / data.nbr_player) \
+            and game.turn_number < DROP_MAX_TURN_RATIO * MAX_T and overall.check_halite_around(ship) > 17000 \
+            and data.nbr_ships >= DROP_MIN_SHIP and (data.on_hold == 0 or ship.id in data.drop_duty): # and data.nbr_drop < MAX_DROP and:
             if me.halite_amount + ship.halite_amount + game_map[ship.position].halite_amount >= 4000 :
                 data.on_hold = 0
                 data.drop_duty = []
@@ -142,7 +143,7 @@ def     choose_action(ship, game_map, me, nbr_drop) :
                 utils.print_log("-------Ship {} staying for dropoff.".format(ship.id), file)
                 return ("stay")
 
-        elif ship.halite_amount >= 950 :
+        elif ship.halite_amount >= RETURN_HALITE :
             return ("returning")
         elif game_map[ship.position].halite_amount >= data.min_mine and \
             ship.position not in data.planned_pos :
@@ -310,7 +311,7 @@ def check_nbr_pos (turtle):
         return
     if game.game_map[turtle.position].halite_amount >= data.min_mine and \
         ship_status[turtle.id] == "exploring" and \
-        turtle.halite_amount <= 950:
+        turtle.halite_amount <= RETURN_HALITE:
         turtle.nbr_choice = 0
         return
     if overall.get_correct_dir(turtle.position, (0, 0)) not in data.opp_pos and \
@@ -342,12 +343,13 @@ def update_pos() :
 game = hlt.Game()
 ship_status = {}
 utils = Utils()
-#file = open("log/" + strftime("%Y-%m-%d %H:%M:%S", gmtime()), "a")
+file = open("log/" + strftime("%Y-%m-%d %H:%M:%S", gmtime()), "a")
 me = game.me
-file = 0
+#file = 0
 
 game.ready("AsgardBot")
 utils.print_log("Successfully created bot! My Player ID is {}.".format(game.my_id), file)
+
 
 MAX_T = constants.MAX_TURNS
 if (MAX_T < 450) :
@@ -364,9 +366,9 @@ data.on_hold = 0
 data.drop_duty = []
 data.nbr_player = len(game.players.values())
 
-ratio = ((game.game_map.height - 32) / 16 * 0.05)
+ratio = ((game.game_map.height - 32) / MAX_TURN_RATIO * 0.05)
 max_turn = MAX_T * (0.5 - (data.nbr_player - 2) * 0.05 + ratio)
-
+utils.print_log("Max Turn = {}, Nbr Turn : {}, nbr_player = {}.".format(max_turn, MAX_T, data.nbr_player), file)
 
 """
 -----------------------------------------------------------------<<<Game Loop>>>
@@ -402,7 +404,7 @@ while True:
             data.total_halite += game.game_map[Position(i, j)].halite_amount
 
     data.average_halite = data.total_halite / (game_map.height * game_map.height)
-    data.min_mine = min([50, 0.6 * data.average_halite])
+    data.min_mine = min([50, MIN_MINE_RATIO * data.average_halite])
     utils.print_log("Min_mine = {}".format(data.min_mine), file)
 
     for ship in me.get_ships():
@@ -425,6 +427,8 @@ while True:
         for turtle in turtle_list :
             if turtle.nbr_choice < min_pos :
                 min_pos = turtle.nbr_choice
+                if min_pos == 0 :
+                    break
         for turtle in turtle_list :
             if turtle.nbr_choice <= min_pos :
                 #utils.print_log("J'ai {} choix et {} Halite".format(turtle.nbr_choice, turtle.halite_amount), file)
@@ -455,7 +459,7 @@ while True:
 -------------- CLOSE FILES
 """
 
-#file.close()
+file.close()
 
 #stats = open("stats", "a")
 #utils.print_log("Joueur : {} ".format(game.my_id), stats)
