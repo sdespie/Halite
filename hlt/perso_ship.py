@@ -50,7 +50,7 @@ class Calc :
            #file.write("Ship {} has target :{}.\n".format(ship.id, max_pos))
             return (max_pos)
         elif val >= self.game.game_map.height / 2:
-            return (Calc.detect_closest_worth(self, ship, 1, max / 3 * 2))
+            return (Calc.detect_closest_worth(self, ship, 1, max / 2))
         else :
             return (Calc.detect_closest_worth(self, ship, val + 1, max))
 

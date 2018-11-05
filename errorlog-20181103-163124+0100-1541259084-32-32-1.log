@@ -1,0 +1,7 @@
+
+Initialization Phase
+================================================================
+error: communication error with bot: read failed, errno was: 0 (Undefined error: 0)
+Bot error output was:
+sh: python3: command not found
+

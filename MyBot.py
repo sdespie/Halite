@@ -83,16 +83,108 @@ def    get_best_pos(pos, mode, ship, me, game_map) :
     return (direction)
 
 
+#################################################################################
 
-"""
--------------------------------------------------------- ACTION
-"""
+##########################           ATTACK            ##########################
+
+#################################################################################
+
+def other_surrending(pos, val, mode):
+    range_opp = val
+    range_me = val
+    enemy = 0
+
+    y = val
+    x = val - y
+    while x <= val :
+        y = val - x
+        while y >= 0 :
+            if Position(pos.x + i, pos.y + j) in data.opp_ship:
+                enemy += 1
+                enemy_pos = Position(pos.x + i, pos.y + j)
+            y -= 1
+        x += 1
+    friend = 0
+
+    y = val
+    x = val - y
+    while x <= val :
+        y = val - x
+        while y >= 0 :
+            if Position(pos.x + i, pos.y + j) in data.friend_pos:
+                friend += 1
+            y -= 1
+        x += 1
+
+    utils.print_log("friends = {}, enemy : {}".format(friend, enemy), file)
+    if friend > enemy and game.game_map[get_opp_surrending(pos, 1)].halite_amount > 500:
+        utils.print_log("Ship might want to attack", file)
+        return (1)
+    elif friend == enemy and mode == 1 and val < MAX_DIST_ATTACK \
+        and game.game_map[get_opp_surrending(pos, 1)].halite_amount > 500:
+        return(other_surrending(pos, val + 1, mode))
+    else :
+        return (0)
+
+def get_opp_surrending(pos, val):
+        y = 0
+        x = 0
+
+        for x in range(-val, val) :
+            for y in range(-val, val) :
+                if Position(pos.x + x, pos.y + y) in data.opp_ship :
+                    return (Position(pos.x + x, pos.y + y))
+
+        if val < MAX_DIST_ATTACK:
+            return (get_opp_surrending(pos, val + 1))
+
+def get_own_surrending(pos, val):
+        y = val
+        x = val - y
+
+        while x <= val :
+            y = val - x
+            while y >= 0 :
+                if Position(pos.x + x, pos.y + y) in data.friend_pos:
+                    return (Position(pos.x + x, pos.y + y))
+                y -= 1
+            x += 1
+        if val < 2:
+            return (get_opp_surrending(pos, val + 1))
+
+def get_nbr_ship_around_dest(pos):
+
+    y = val
+    x = val - y
+    nbr = 0
+    while x <= val :
+        y = val - x
+        while y >= 0 :
+            if Position(pos.x + x, pos.y + y) in data.planned_pos :
+                nbr += 1
+            y -= 1
+        x += 1
+    return (nbr)
 
 
+def check_attack() :
+    for ship in me.get_ships():
+        if other_surrending(ship.position, 1, 0) == 1 \
+            and other_surrending(ship.position, 1, 1) == 1 \
+            and ship.action != "attack":
+            ship.action = "attack"
+            ship.dest = get_opp_surrending(ship.position, 1)
+            utils.print_log("Ship {} is attacking {}".format(ship.id, ship.dest), file)
+            get_own_surrending(ship.position, 1).is_occupied.action = "attack"
+            get_own_surrending(ship.position, 1).is_occupied.dest = get_opp_surrending(ship.position, 1)
 
-"""
------------------------------------------CHOOSE_ACTIONS
-"""
+
+#################################################################################
+
+##########################        CHOOSE ACTION        ##########################
+
+#################################################################################
+
 
 # Fonction to determine what to do depending on the situation
 def     choose_action(ship, game_map, me, nbr_drop) :
@@ -106,11 +198,17 @@ def     choose_action(ship, game_map, me, nbr_drop) :
     if game_map[ship.position].halite_amount > ship.halite_amount * 10 :
         return ("stay")
 
+
     elif data.suicide == 1:
         if calc.get_closest_drop_dist(ship.position) != 1 :
             return ("returning")
         else :
             return ("suicide")
+
+
+    if ship.action == "attack":
+        return ("attack")
+
 
     elif game_map[ship.position].halite_amount * 0.25 + ship.halite_amount >= RETURN_HALITE \
         and ship.halite_amount < RETURN_HALITE \
@@ -128,7 +226,7 @@ def     choose_action(ship, game_map, me, nbr_drop) :
         if ship.halite_amount >= 800 \
             and data.construction == 0 \
             and calc.get_closest_drop_dist(ship.position) >= 10 + (game.game_map.height - 32) / DROP_DIST_RATIO * (2 / data.nbr_player) \
-            and game.turn_number < DROP_MAX_TURN_RATIO * MAX_T and overall.check_halite_around(ship) > 17000 \
+            and game.turn_number < DROP_MAX_TURN_RATIO * MAX_T and overall.check_halite_around(ship) > 15000 \
             and data.nbr_ships >= DROP_MIN_SHIP and (data.on_hold == 0 or ship.id in data.drop_duty): # and data.nbr_drop < MAX_DROP and:
             if me.halite_amount + ship.halite_amount + game_map[ship.position].halite_amount >= 4000 :
                 data.on_hold = 0
@@ -157,9 +255,12 @@ def     choose_action(ship, game_map, me, nbr_drop) :
         return ("stay")
 
 
-"""
--------------------------------------------- ACTIONS
-"""
+
+#################################################################################
+
+##########################           ACTIONS           ##########################
+
+#################################################################################
 
 '''RETURNING'''
 
@@ -270,12 +371,48 @@ def security(game_map, ship, me, game, data, calc) :
     do_action("stay", game_map, ship, me, game, data, calc)
 
 
-"""
------------------------------------------ DO_ACTIONS
-"""
+'''ATTACK'''
+
+def attack(game_map, ship, me, game, data, calc) :
+    move = game_map.get_unsafe_moves(ship.position, ship.dest)
+    if len(move) == 2 :
+        max_halite = 0
+        for direction in move :
+            direct = overall.get_correct_dir(ship.position, direction)
+            if direct not in data.planned_pos and direct not in data.planned_dest:
+                if max_halite < game_map[direct].halite_amount :
+                    max_halite = game_map[direct].halite_amount
+                    ret = direct
+                    retour = direction
+        if max_halite > 0 :
+            utils.print_log("Ship {} is action attack, going to {}, with {}.".format(ship.id, direct, game_map[direct].halite_amount), file)
+            data.planned_dest.append(ret)
+            data.planned_pos.append(ret)
+            command_queue.append(ship.move(retour))
+            return
+    elif len(move) == 1 :
+        for direction in move :
+            direct = overall.get_correct_dir(ship.position, direction)
+            if direct not in data.planned_pos and direct not in data.planned_dest :
+                utils.print_log("Ship {} is action attack, going to {}.".format(ship.id, direct), file)
+                data.planned_dest.append(direct)
+                data.planned_pos.append(direct)
+                command_queue.append(ship.move(direction))
+                return
+
+    do_action("security", game_map, ship, me, game, data, calc)
+
+
+#################################################################################
+
+##########################           DO ACTION         ##########################
+
+#################################################################################
+
+
 # fait ce qui a ete deterniné dans la fonction choose_action
 def     do_action(nbr, game_map, ship, me, game, data, calc) :
-    utils.print_log("Ship {} is in DO_ACTION has action is {} and has {} Halite.".format(ship.id, nbr, ship.halite_amount), file)
+    utils.print_log("Ship {} is in DO_ACTION has action is {} and has {} Halite and has status {}.".format(ship.id, nbr, ship.halite_amount, ship.action), file)
 
     ship.busy = 1
 
@@ -298,20 +435,28 @@ def     do_action(nbr, game_map, ship, me, game, data, calc) :
     elif nbr == "security" :
         security(game_map, ship, me, game, data, calc)
 
+    elif nbr == "attack" :
+        attack(game_map, ship, me, game, data, calc)
+
     else:
         utils.print_log("Je fais rien en fait, wtf", file)
 
+#################################################################################
+
+##########################           NBR POSSI         ##########################
+
+#################################################################################
 
 
 def check_nbr_pos (turtle):
     i = 0
-
     if game.game_map[turtle.position].halite_amount > turtle.halite_amount * 10:
         turtle.nbr_choice = 0
         return
-    if game.game_map[turtle.position].halite_amount >= data.min_mine and \
-        ship_status[turtle.id] == "exploring" and \
-        turtle.halite_amount <= RETURN_HALITE:
+    if game.game_map[turtle.position].halite_amount >= data.min_mine \
+        and ship_status[turtle.id] == "exploring" \
+        and turtle.halite_amount <= RETURN_HALITE \
+        and ship.action != "attack":
         turtle.nbr_choice = 0
         return
     if overall.get_correct_dir(turtle.position, (0, 0)) not in data.opp_pos and \
@@ -334,6 +479,8 @@ def check_nbr_pos (turtle):
 def update_pos() :
     for turtle in turtle_list :
         check_nbr_pos(turtle)
+
+
 
 """
 ----------------------------------------------------------------------------------<<<Game Begin>>>
@@ -390,6 +537,7 @@ while True:
     data.nbr_ships = len(me.get_ships())
     data.planned_pos = []
     data.planned_dest = []
+    data.opp_ship = []
     data.opp_pos = []
     data.turtle_list = []
     data.total_halite = 0
@@ -397,8 +545,9 @@ while True:
     """
     -------------- STARTING CALC
     """
-
+    check_attack()
     overall.analyse_map()
+
     for i in range(0, game_map.height - 1) :
         for j in range (0, game_map.height - 1) :
             data.total_halite += game.game_map[Position(i, j)].halite_amount
@@ -408,6 +557,8 @@ while True:
     utils.print_log("Min_mine = {}".format(data.min_mine), file)
 
     for ship in me.get_ships():
+        data.friend_pos.append(ship.position)
+        #utils.print_log("Position friends = {}".format(ship.position), file)
         ship = Turtle(ship)
         turtle_list.append(ship)
 
@@ -435,8 +586,8 @@ while True:
                 action = choose_action (turtle, game.game_map, me, data.nbr_drop)
                 do_action(action, game.game_map, turtle, me, game, data, calc)
                 turtle_list.remove(turtle)
-                if min_pos > 0 :
-                    break
+                #if min_pos > 1 :
+                    #break
 
 
     """
@@ -447,7 +598,7 @@ while True:
         if  me.shipyard.position not in data.planned_pos :
             if game.turn_number <= max_turn :
                 command_queue.append(me.shipyard.spawn())
-                utils.print_log("Je Sapwn! data.construction = {}, halite_amount: {}".format(data.construction, me.halite_amount), file)
+                #utils.print_log("Je Sapwn! data.construction = {}, halite_amount: {}".format(data.construction, me.halite_amount), file)
 
     """
     -------------- SEND COMMAND

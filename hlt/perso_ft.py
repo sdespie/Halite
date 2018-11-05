@@ -26,12 +26,14 @@ class Overall:
         for i in range(0, self.game.game_map.height - 1) :
             for j in range (0, self.game.game_map.height - 1) :
                 if self.game.game_map[Position(i, j)].ship and self.me.has_ship(self.game.game_map[Position(i, j)].ship.id) == False :
-                    if self.calc.get_closest_drop_dist(Position(i, j)) > 3:
+                    if self.calc.get_closest_drop_dist(Position(i, j)) > 5:
                         self.data.opp_pos.append(self.get_correct_dir(Position(i, j), (0, 0)))
-                        self.data.opp_pos.append(self.get_correct_dir(Position(i, j), (-1, 0)))
-                        self.data.opp_pos.append(self.get_correct_dir(Position(i, j), (1, 0)))
-                        self.data.opp_pos.append(self.get_correct_dir(Position(i, j), (0, -1)))
-                        self.data.opp_pos.append(self.get_correct_dir(Position(i, j), (0, 1)))
+                        self.data.opp_ship.append(self.get_correct_dir(Position(i, j), (0, 0)))
+                        if self.data.nbr_player == 4 :
+                            self.data.opp_pos.append(self.get_correct_dir(Position(i, j), (-1, 0)))
+                            self.data.opp_pos.append(self.get_correct_dir(Position(i, j), (1, 0)))
+                            self.data.opp_pos.append(self.get_correct_dir(Position(i, j), (0, -1)))
+                            self.data.opp_pos.append(self.get_correct_dir(Position(i, j), (0, 1)))
 
         self.data.max_radar = (-100 * self.game.turn_number / constants.MAX_TURNS + 300) / self.data.nbr_player
         self.data.max_turn_to_base = 0;
