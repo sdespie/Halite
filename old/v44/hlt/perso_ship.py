@@ -24,11 +24,11 @@ class Calc :
     def     detect_closest_worth(self, ship, val, max):
         pos = ship.position
         new_max = max
-        x = 0
+        y = val
+        x = val - y
 
         while x <= val :
-            y = val
-            x = 0
+            y = val - x
             while y >= 0 :
                 if self.game.game_map[Position(pos.x + x, pos.y + y)].halite_amount > new_max and self.game.game_map[Position(pos.x + x, pos.y + y)].is_occupied == False:
                     new_max = self.game.game_map[Position(pos.x + x, pos.y + y)].halite_amount
@@ -36,6 +36,7 @@ class Calc :
                 if self.game.game_map[Position(pos.x - x, pos.y + y)].halite_amount > new_max and self.game.game_map[Position(pos.x - x, pos.y + y)].is_occupied == False:
                     new_max = self.game.game_map[Position(pos.x - x, pos.y + y)].halite_amount
                     max_pos = Position(pos.x - x, pos.y + y)
+
                 if self.game.game_map[Position(pos.x + x, pos.y - y)].halite_amount > new_max and self.game.game_map[Position(pos.x + x, pos.y - y)].is_occupied == False:
                     new_max = self.game.game_map[Position(pos.x + x, pos.y - y)].halite_amount
                     max_pos = Position(pos.x + x, pos.y - y)
@@ -43,14 +44,15 @@ class Calc :
                     new_max = self.game.game_map[Position(pos.x - x, pos.y - y)].halite_amount
                     max_pos = Position(pos.x - x, pos.y - y)
                 y -= 1
-                x += 1
-            if new_max > max :
-               #file.write("Ship {} has target :{}.\n".format(ship.id, max_pos))
-                return (max_pos)
-            elif val >= self.game.game_map.height / 2:
-                return (Calc.detect_closest_worth(self, ship, 1, max / 2))
-            else :
-                val += 1
+            x += 1
+
+        if new_max > max :
+           #file.write("Ship {} has target :{}.\n".format(ship.id, max_pos))
+            return (max_pos)
+        elif val >= self.game.game_map.height / 2:
+            return (Calc.detect_closest_worth(self, ship, 1, max / 2))
+        else :
+            return (Calc.detect_closest_worth(self, ship, val + 1, max))
 
 
 #defini la prochaine position que prendre le ship

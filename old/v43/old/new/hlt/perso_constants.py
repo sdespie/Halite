@@ -1,2 +1,0 @@
-MAX_DROP = 3
-MIN_DIST_DROP = 15
