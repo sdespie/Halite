@@ -1,0 +1,64 @@
+Successfully created bot! My Player ID is 0.
+Max Turn = 247.50000000000003, Nbr Turn : 450, nbr_player = 2.
+
+==== TURN 0 TIME 0.0% ====
+
+Min_mine = 50
+Je passes ici.
+
+==== TURN 1 TIME 0.2% ====
+
+Min_mine = 50
+Position friends = Position(12, 24)
+Je passes ici.
+Check attack : IN. ship.action = None 
+Pos : Position(12, 24), friends = 1, enemy : 0
+Ship 1 is in DO_ACTION has action is exploring and has 0 Halite and has status None.
+Ship 1 is action returning, going to Position(12, 25).
+
+==== TURN 2 TIME 0.4% ====
+
+Min_mine = 50
+Position friends = Position(12, 24)
+Position friends = Position(12, 25)
+Je passes ici.
+Check attack : IN. ship.action = None 
+Pos : Position(12, 24), friends = 1, enemy : 0
+Check attack : IN. ship.action = None 
+Pos : Position(12, 25), friends = 1, enemy : 0
+Ship 1 is in DO_ACTION has action is stay and has 0 Halite and has status None.
+Ship 1 is action stay, staying at Position(12, 25).
+Ship 2 is in DO_ACTION has action is exploring and has 0 Halite and has status None.
+Ship 2 is in DO_ACTION has action is security and has 0 Halite and has status None.
+Ship 2 is action security, going to security to Position(12, 23).
+
+==== TURN 3 TIME 0.7% ====
+
+Min_mine = 50
+Position friends = Position(12, 24)
+Position friends = Position(12, 23)
+Position friends = Position(12, 25)
+Je passes ici.
+Check attack : IN. ship.action = None 
+Pos : Position(12, 24), friends = 1, enemy : 0
+Check attack : IN. ship.action = None 
+Pos : Position(12, 23), friends = 1, enemy : 0
+Check attack : IN. ship.action = None 
+Pos : Position(12, 25), friends = 1, enemy : 0
+Ship 2 is in DO_ACTION has action is stay and has 0 Halite and has status None.
+Ship 2 is action stay, staying at Position(12, 23).
+Ship 1 is in DO_ACTION has action is stay and has 49 Halite and has status None.
+Ship 1 is action stay, staying at Position(12, 25).
+Ship 4 is in DO_ACTION has action is exploring and has 0 Halite and has status None.
+Ship 4 is in DO_ACTION has action is security and has 0 Halite and has status None.
+Ship 4 is action security, going to security to Position(11, 24).
+
+==== TURN 4 TIME 0.9% ====
+
+Min_mine = 50
+Position friends = Position(12, 24)
+Position friends = Position(11, 24)
+Position friends = Position(12, 23)
+Position friends = Position(12, 25)
+Je passes ici.
+Check attack : IN. ship.action = None 

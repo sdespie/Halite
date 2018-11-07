@@ -114,31 +114,81 @@ def get_closest_xfriend(pos, list_to_add, list_to_check, nbr):
             j += 1
         k += 1
 
-def other_surrending(pos, val):
-    range = 1
-    enemy = 0
-    friend = 1
 
-    while range <= val :
+def other_surrounding2(pos_ship, range):
+    nb_enemies = 0
+    nb_friends = 0
+    min_dist_enemy = 64
+    worth = 0
+
+    utils.print_log("pos_ship = {} ".format(pos_ship), file)
+    for pos_enemy in data.opp_ship :
+        dist = game.game_map.calculate_distance(pos_ship, pos_enemy)
+        if dist <= range :
+            nb_enemies += 1
+            utils.print_log("pos_enemy = {} ".format(pos_enemy), file)
+            utils.print_log("halite on enemy = {} ".format(game.game_map[pos_enemy].ship.halite_amount), file)
+            if game.game_map[pos_enemy].ship.halite_amount > 300 and dist < min_dist_enemy :
+                worth = 1
+                target = Position(pos_enemy.x, pos_enemy.y)
+                min_dist_enemy = dist
+
+    utils.print_log("nb_enemies = {} ".format(nb_enemies), file)
+    utils.print_log("worth = {} ".format(worth), file)
+    if nb_enemies == 0 :
+        return (0)
+    if worth == 0 :
+        return (0)
+    for friend in me.get_ships() :
+        dist = game.game_map.calculate_distance(pos_ship, friend.position)
+        if dist <= range :
+            nb_friends += 1
+    utils.print_log("nb_friends = {} ".format(nb_friends), file)
+    if nb_friends > nb_enemies:
+        utils.print_log("Ship might want to attack", file)
+        return (target)
+    else :
+        return (0)
+    #elif nb_friends == nb_enemies and range < MAX_DIST_ATTACK :
+    #    return(other_surrending(pos_ship, range + 1))
+    #else :
+    #    return (0)
+
+
+
+
+'''def other_surrending(pos, val):
+    range = 1
+
+    while range <= val : # NEW : < only
+        #NEW : changement decla variables
         i = range
+        enemy = 0
+        friend = 1
         j = 0
-        while i >= 0 :
+        while i > 0 :
             if Position(pos.x + i, pos.y + j) in data.opp_ship:
                 enemy += 1
             if Position(pos.x - i, pos.y - j) in data.opp_ship:
                 enemy += 1
-            if Position(pos.x + i, pos.y - j) in data.opp_ship:
-                enemy += 1
-            if Position(pos.x - i, pos.y + j) in data.opp_ship:
-                enemy += 1
+            if (j != 0) :
+                if Position(pos.x + i, pos.y - j) in data.opp_ship:
+                    enemy += 1
+                if Position(pos.x - i, pos.y + j) in data.opp_ship:
+                    enemy += 1
             if Position(pos.x + i, pos.y + j) in data.friend_pos:
+                utils.print_log("friends around pos : {}".format(Position(pos.x + i, pos.y + j)), file)
                 friend += 1
             if Position(pos.x - i, pos.y + j) in data.friend_pos:
+                utils.print_log("friends around pos : {}".format(Position(pos.x - i, pos.y + j)), file)
                 friend += 1
-            if Position(pos.x - i, pos.y - j) in data.friend_pos:
-                friend += 1
-            if Position(pos.x + i, pos.y - j) in data.friend_pos:
-                friend += 1
+            if (y != 0)
+                if Position(pos.x - i, pos.y - j) in data.friend_pos:
+                    utils.print_log("friends around pos : {}".format(Position(pos.x - i, pos.y - j)), file)
+                    friend += 1
+                if Position(pos.x + i, pos.y - j) in data.friend_pos:
+                    utils.print_log("friends around pos : {}".format(Position(pos.x + i, pos.y - j)), file)
+                    friend += 1
             i -= 1
             j += 1
         range += 1
@@ -154,7 +204,7 @@ def other_surrending(pos, val):
     elif friend == enemy and val < MAX_DIST_ATTACK :
         return(other_surrending(pos, val + 1))
     else :
-        return (0)
+        return (0)'''
 
 def get_opp_surrending(pos, val):
     y = 1
@@ -177,6 +227,7 @@ def get_opp_surrending(pos, val):
 
 def set_own_atk(pos, nbr_atk) :
     done = 0
+    utils.print_log("define which ship is going to attack.".format(), file)
     while done <= nbr_atk :
         dist_min = 64
         ship_id = 0
@@ -186,6 +237,7 @@ def set_own_atk(pos, nbr_atk) :
                 ship_id = ship.id
         for ship in data.turtle_list :
             if ship.id == ship_id :
+                utils.print_log("Id of the ship who is going to attack : {}".format(ship.id), file)    
                 ship.status = "attack"
                 ship.dest = pos
                 done += 1
@@ -209,10 +261,13 @@ def get_nbr_ship_around_dest(pos):
 def check_attack() :
     utils.print_log("Je passes ici.".format(), file)
     for ship in data.turtle_list:
-        utils.print_log("Check attack : IN. ship.action = {} ".format(ship.action), file)
-        if ship.action != "attack"  and other_surrending(ship.position, 2) == 1 :
-            #and other_surrending(ship.position, 1, 1) == 1
-            set_own_atk(get_opp_surrending(ship.position, 2), 2)
+        #utils.print_log("Check attack : IN. ship.action = {} ".format(ship.action), file)
+        target = other_surrounding2(ship.position, 2)
+        utils.print_log("target = {} ".format(target), file)
+        if isinstance(target, int) == True :
+            continue
+        if ship.action != "attack" :
+            set_own_atk(target, 2)
 
 
 #################################################################################
@@ -575,6 +630,7 @@ while True:
     data.opp_ship = []
     data.opp_pos = []
     data.turtle_list = []
+    data.friend_pos = []
     data.total_halite = 0
 
     """
