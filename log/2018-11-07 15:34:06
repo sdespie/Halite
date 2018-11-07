@@ -1,0 +1,258 @@
+Successfully created bot! My Player ID is 0.
+Max Turn = 270.0, Nbr Turn : 450, nbr_player = 2, map_heigh = 48.
+
+==== TURN 0 TIME 0.0% ====
+
+Min_mine = 50
+
+==== TURN 1 TIME 0.2% ====
+
+Min_mine = 50
+pos_ship = Position(12, 24) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+Ship 1 is in DO_ACTION has action is exploring and has 0 Halite and has status None.
+Ship 1 is action returning, going to Position(12, 25).
+
+==== TURN 2 TIME 0.4% ====
+
+Min_mine = 50
+pos_ship = Position(12, 24) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(12, 25) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+Ship 1 is in DO_ACTION has action is stay and has 0 Halite and has status None.
+Ship 1 is action stay, staying at Position(12, 25).
+Ship 2 is in DO_ACTION has action is exploring and has 0 Halite and has status None.
+Ship 2 is in DO_ACTION has action is security and has 0 Halite and has status None.
+Ship 2 is action security, going to security to Position(12, 23).
+
+==== TURN 3 TIME 0.7% ====
+
+Min_mine = 50
+pos_ship = Position(12, 24) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(12, 23) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(12, 25) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+Ship 2 is in DO_ACTION has action is stay and has 0 Halite and has status None.
+Ship 2 is action stay, staying at Position(12, 23).
+Ship 1 is in DO_ACTION has action is stay and has 34 Halite and has status None.
+Ship 1 is action stay, staying at Position(12, 25).
+Ship 4 is in DO_ACTION has action is exploring and has 0 Halite and has status None.
+Ship 4 is in DO_ACTION has action is security and has 0 Halite and has status None.
+Ship 4 is action security, going to security to Position(11, 24).
+
+==== TURN 4 TIME 0.9% ====
+
+Min_mine = 50
+pos_ship = Position(12, 24) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(11, 24) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(12, 23) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(12, 25) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+Ship 4 is in DO_ACTION has action is stay and has 0 Halite and has status None.
+Ship 4 is action stay, staying at Position(11, 24).
+Ship 1 is in DO_ACTION has action is stay and has 59 Halite and has status None.
+Ship 1 is action stay, staying at Position(12, 25).
+Ship 2 is in DO_ACTION has action is stay and has 31 Halite and has status None.
+Ship 2 is action stay, staying at Position(12, 23).
+Ship 5 is in DO_ACTION has action is exploring and has 0 Halite and has status None.
+Ship 5 is in DO_ACTION has action is security and has 0 Halite and has status None.
+Ship 5 is action security, going to security to Position(13, 24).
+
+==== TURN 5 TIME 1.1% ====
+
+Min_mine = 50
+pos_ship = Position(13, 24) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(11, 24) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(12, 24) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(12, 23) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(12, 25) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+Ship 5 is in DO_ACTION has action is stay and has 0 Halite and has status None.
+Ship 5 is action stay, staying at Position(13, 24).
+Ship 2 is in DO_ACTION has action is stay and has 54 Halite and has status None.
+Ship 2 is action stay, staying at Position(12, 23).
+Ship 4 is in DO_ACTION has action is stay and has 19 Halite and has status None.
+Ship 4 is action stay, staying at Position(11, 24).
+Ship 1 is in DO_ACTION has action is stay and has 78 Halite and has status None.
+Ship 1 is action stay, staying at Position(12, 25).
+Ship 7 is in DO_ACTION has action is exploring and has 0 Halite and has status None.
+Ship 7 is in DO_ACTION has action is security and has 0 Halite and has status None.
+Ship 7 is in DO_ACTION has action is stay and has 0 Halite and has status None.
+Ship 7 is action stay, staying at Position(12, 24).
+
+==== TURN 6 TIME 1.3% ====
+
+Min_mine = 50
+pos_ship = Position(13, 24) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(11, 24) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(12, 24) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(12, 23) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(12, 25) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+Ship 5 is in DO_ACTION has action is stay and has 19 Halite and has status None.
+Ship 5 is action stay, staying at Position(13, 24).
+Ship 2 is in DO_ACTION has action is stay and has 72 Halite and has status None.
+Ship 2 is action stay, staying at Position(12, 23).
+Ship 7 is in DO_ACTION has action is exploring and has 0 Halite and has status None.
+Ship 7 is action returning, going to Position(12, 25).
+Ship 1 is in DO_ACTION has action is exploring and has 92 Halite and has status None.
+Ship 1 is action returning, going to Position(12, 26).
+Ship 4 is in DO_ACTION has action is exploring and has 33 Halite and has status None.
+Ship 4 is action returning, going to Position(11, 25).
+
+==== TURN 7 TIME 1.6% ====
+
+Min_mine = 50
+pos_ship = Position(12, 26) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(11, 25) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(13, 24) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(12, 25) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(12, 23) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+Ship 1 is in DO_ACTION has action is stay and has 88 Halite and has status None.
+Ship 1 is action stay, staying at Position(12, 26).
+Ship 7 is in DO_ACTION has action is stay and has 0 Halite and has status None.
+Ship 7 is action stay, staying at Position(12, 25).
+Ship 4 is in DO_ACTION has action is stay and has 29 Halite and has status None.
+Ship 4 is action stay, staying at Position(11, 25).
+Ship 5 is in DO_ACTION has action is exploring and has 33 Halite and has status None.
+Ship 5 is action exploring, going to Position(13, 25), with 64.
+Ship 2 is in DO_ACTION has action is exploring and has 85 Halite and has status None.
+Ship 2 is action returning, going to Position(12, 24).
+
+==== TURN 8 TIME 1.8% ====
+
+Min_mine = 50
+pos_ship = Position(13, 25) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(12, 26) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(11, 25) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(12, 24) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(12, 25) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+Ship 5 is in DO_ACTION has action is stay and has 29 Halite and has status None.
+Ship 5 is action stay, staying at Position(13, 25).
+Ship 7 is in DO_ACTION has action is exploring and has 11 Halite and has status None.
+Ship 7 is action returning, going to Position(12, 26).
+Ship 1 is in DO_ACTION has action is exploring and has 102 Halite and has status None.
+Ship 1 is action returning, going to Position(12, 27).
+Ship 4 is in DO_ACTION has action is exploring and has 44 Halite and has status None.
+Ship 4 is action returning, going to Position(11, 26).
+Ship 2 is in DO_ACTION has action is exploring and has 0 Halite and has status None.
+Ship 2 is action returning, going to Position(12, 25).
+
+==== TURN 9 TIME 2.0% ====
+
+Min_mine = 50
+pos_ship = Position(12, 27) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(11, 26) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(12, 26) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(12, 25) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+pos_ship = Position(13, 25) 
+nb_enemies = 0 
+worth = 0 
+target = 0 
+Ship 1 is in DO_ACTION has action is stay and has 99 Halite and has status None.
+Ship 1 is action stay, staying at Position(12, 27).
+Ship 2 is in DO_ACTION has action is stay and has 0 Halite and has status None.
+Ship 2 is action stay, staying at Position(12, 25).
+Ship 4 is in DO_ACTION has action is stay and has 40 Halite and has status None.
+Ship 4 is action stay, staying at Position(11, 26).
+Ship 7 is in DO_ACTION has action is exploring and has 8 Halite and has status None.
+Ship 7 is in DO_ACTION has action is security and has 8 Halite and has status None.
+Ship 7 is action security, going to security to Position(13, 26).
+Ship 5 is in DO_ACTION has action is exploring and has 45 Halite and has status None.
+Ship 5 is action exploring, going to Position(13, 26), with 136.

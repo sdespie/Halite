@@ -57,6 +57,8 @@ class Data_game() :
         self.opp_ship = []
         self.friend_pos = []
         self.turtle_list = []
+        self.attack_limit_off = 0
+
 
 
 class Shipyard(Entity):
