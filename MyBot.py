@@ -221,7 +221,7 @@ def     choose_action(ship, game_map, me, nbr_drop) :
 
     if calc.get_closest_drop_dist(ship.position) * 1.1 > (MAX_T - game.turn_number) :
         data.suicide = 1
-    min_mine = min(50, 0.6 * data.total_halite / (game_map.height * game_map.height))
+    min_mine = min(MIN_MINE, 0.6 * data.total_halite / (game_map.height * game_map.height))
 
     #utils.print_log("Min MINE = {}".format(min_mine), file)
     #utils.print_log("Ship ID = {}, Closest drop dist = {}, Other side = {}".format(ship.id, calc.get_closest_drop_dist(ship.position), (MAX_T - game.turn_number) * 1.1 + data.nbr_ships), file)
