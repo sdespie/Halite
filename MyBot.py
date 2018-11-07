@@ -82,6 +82,29 @@ def    get_best_pos(pos, mode, ship, me, game_map) :
 
     return (direction)
 
+#################################################################################
+
+##########################           DROPOFF           ##########################
+
+#################################################################################
+
+def rappatrier(pos, nbr_ship) :
+    sent = 0
+    list_id = []
+    while sent < nbr_ship :
+        dist = 64
+        id = 0
+        for turtle in data.turtle_list :
+            if game.game_map.calculate_distance(pos, turtle.position) < dist \
+                and turtle.id not in list_id \
+                and list_status[turtle.id] == "exploring":
+                dist = game.game_map.calculate_distance(pos, turtle.position)
+                id = turtle.id
+        list_id.append(id)
+        sent += 1
+    return (list_id)
+
+
 
 #################################################################################
 
