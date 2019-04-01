@@ -74,10 +74,10 @@ Everytime we are done with the group with the lowest number of possible mouvemen
 
 ## Spawn
 
-Here I determine if we are to spawn a ship or not.  If its safe to spawn, have enough halite, and there is still a certain number of turns left, then we spawn a ship.  I usually spawn ships until theres only 40% of the original overall halite left.  But for a 2 player games, it will keep spawning if my ships are below the enemy ships, unless there are only 25% turns left.  
+Here I determine if we are to spawn a ship or not.  It is based only on the amount of Halite left, the number of ships of my opponent  and the turn number we are in. We are stopping spawning at 75 % of the game.
 
 # Regrets/Improvements
-* Better workflow/Tools.  I didnt really use any debugging tools or made ones like the others.  I did make a replay parser so I can run my bot with my logs locally against the others, based on the online game. But I saw reCurs3 battlefront, and that was quite impressive.  Maybe I should've at least used flourine by Fohristiwhirl too.  Improving the workflow and getting to debug your code better is definitely a big advantage.
-* Better algorithm in determining dock locations.  I only determine the dock locations in the beginning of the game.  I was thinking to do this per turn, so its more accurate and game state dependant.  I was able to optimize calculating the averages of each cell, but didnt get a chance to use it much.
-* Better 4 player games.  I notice that most of the time I have the most collisions in a 4 player game, causing me to have the least ships.  
+* Better workflow. Has a first timer, I'm still happy but there is a lot of improvement to do in the workflow.
+* Better algorithm in determining dock locations. It was more a matter of luck (to be a the right place, at the right time) than planning.
+* Better 4 player games.  We were creating a lot of ships and sometimes even timeout because of the amount of ships.
 * Better attack algorithm.  I notice top players have other ships 'blocking' the enemy so that other ships can harvest the high halite cell. This seems very effective against most players.  Also, some players have an algorithm that surround an enemy, basically cornering it before it collides to it.  This is very efficient, because it prevents the 'chasing' movement that can be very costly.
