@@ -1,5 +1,6 @@
 # Halite III
 This project is a Python AI to take part in the Halite III contest. This was my first contact with Python and I wanted to take that tournament as an opportinity to learn that language.
+Please also notice that the way it's written is meant to be efficient for me to work on during that tournament period, not for you to read! :-D
 
 # Thanks!
 
