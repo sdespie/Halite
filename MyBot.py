@@ -115,7 +115,6 @@ calc = Calc(game, data, game.me)
 action = Action(game, data, game.me, game_map, file, calc, overall)
 data.nbr_drop = 0
 data.on_hold = 0
-#data.ship_status = {}
 data.drop_duty = []
 data.nbr_player = len(game.players.values())
 ratio = (game.game_map.height - 32) / 16 * 0.05
