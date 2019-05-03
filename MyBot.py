@@ -20,65 +20,10 @@ import logging
 
 from time import gmtime, strftime
 
-'''
-def     check_best_spot(game_map, ship, me, game)
-    list = []
-
-    x = 0
-    y = 0
-    i = 0
-
-    while (x < game_map.height):
-        y = 0
-        while (y < game_map.height):
-            halite = 0
-            zone = Zone(x, y, halite, Position(x, y))
-            while (i < 8):
-                j = 0
-                while (j < 8):
-                    zone.halite += game_map[Position(x + i, y + j)].halite_amount
-                    j += 1
-                i += 1
-            list.append(zone)
-            y += 1
-        x += 1
-    max = 0
-
-    for zone in list :
-        if game_map.calculate_distance(zone.position, ship.position) == 0 :
-            dist = 1
-        else :
-            dist = game_map.calculate_distance(zone.position, ship.position)
-        if zone.halite / dist > max :
-            if game_map.calculate_distance(zone.position, ship.position) == 0 :
-                dist = 1
-            else :
-                dist = game_map.calculate_distance(zone.position, ship.position)
-            max = zone.halite / dist
-            x = zone.x + 4
-            y = zone.y + 4
-
-    return (Position(x + random.randint(-1, 1), y + random.randint(-1, 1)))
-'''
-
-# fonction donnant la case avec le plus d'Halite en direct autour de la tortue avec mode 1, ou le moins avec mode 0
-
-
-
 
 # Fonction to determine what to do depending on the situation
 def     choose_action(ship, game_map, me, nbr_drop) :
-
- #   if get_closest_drop_dist(ship, me, game_map) < (game.turn_number - MAX_T) + 5  and get_closest_drop_dist(ship, me, game_map) != 1:
-  #      return (5)
-   # elif get_closest_drop_dist(ship, me, game_map) < (game.turn_number - MAX_T) + 5  and get_closest_drop_dist(ship, me, game_map) != 1:
-    #    return (3)
     file.write("Ship {} is in action.\n".format(ship.id))
-
-  #  if get_closest_drop_dist(ship, me, game_map) > nbr_turn_left * 1.2 + nbr_ships :
-   #     if game_map[ship.position].halite_amount > ship.halite_amount * 10 :
-   #         return ("stay")
-   #     return(5)
 
     if game_map[ship.position].halite_amount > ship.halite_amount * 10:
         return ("stay")
@@ -154,8 +99,6 @@ def contains(list, filter):
 
 
 
-
-
 """
 -----------------------------------------------------------<<<Game Begin>>>
 """
@@ -225,43 +168,9 @@ while True:
         data.turtle_list[ship.id].halite_amount = ship.halite_amount
 
 
-    '''    ship = Turtle(ship)
-        if calc.get_closest_drop_dist(ship) > data.max_turn_to_base :
-            data.max_turn_to_base = calc.get_closest_drop_dist(ship)
-    '''
-    '''
-    if  data.nbr_turn_left * 1.1 + data.nbr_ships < data.max_turn_to_base:
-        for ship in me.get_ships():
-            ship_busy.append(ship)
-            if  ship.halite_amount < game_map[ship.position].halite_amount * 10 :
-                do_action("stay", ship)
-            elif calc.get_closest_drop_dist(ship) == 1 :
-                do_action(5, game_map, ship, me, game)
-            else :
-                do_action(1, game_map, ship, me, game)
-    '''
-    '''
-    Mise a jour de la liste Turtle tour apres autour, garde les anciennes tortues, retire les mortes
-
-
-    for ship in me.get_ships():
-        file.write("Ship.id =  {}.\n".format(ship.id))
-        ship = Turtle(ship)
-        if contains(turtle_list, lambda turtle: turtle.id == ship.id):
-            file.write("Append.\n")
-            turtle_list.append(ship)
-
-    for turtle in turtle_list:
-        if not contains(me.get_ships(), lambda ship: ship.id == turtle.id):
-            file.write("Removed.\n")
-            turtle_list.remove(turtle.id)
-    '''
-
     for turtle in data.turtle_list.values():
         file.write("data.turtle_list.ID = {}.\n".format(turtle.id))
         file.write("data.turtle_list.STATUS = {}.\n".format(turtle.status))
-#        if turtle.id not in data.ship_status:
-#            data.ship_status[turtle.id] = "exploring"
         if turtle.busy == 0:
             choice = choose_action(turtle, game_map, me, data.nbr_drop)
             if choice == "stay" :
